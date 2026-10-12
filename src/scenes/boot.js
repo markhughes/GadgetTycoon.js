@@ -17,6 +17,7 @@ export async function playVideo(game, name) {
     } catch { /* no subtitles */ }
     await game.assets.loadSprite('FONT_MENU_NOVA19x30');
   }
+  game.music?.stop(); // the videos carry their own song [code 0x40171a, 0x4018cc]
   return new Promise((resolve) => {
     const v = video();
     const canvas = game.r.canvas;
@@ -90,6 +91,7 @@ export class BootScene {
       if (g.assets.manifest.video?.includes('MC')) await playVideo(g, 'MC');
       if (g.assets.manifest.video?.includes('Intro')) await playVideo(g, 'Intro');
     }
+    g.music?.playRandom(); // [code 0x4056af]
     const { MainMenuScene } = await import('./menus.js');
     g.go(new MainMenuScene());
   }

@@ -3,6 +3,7 @@ import { Sounds, UiSounds } from './engine/sounds.js';
 import { Strings } from './engine/strings.js';
 import { BootScene } from './scenes/boot.js';
 import { settings, applyAudioSettings } from './engine/settings.js';
+import { Music } from './engine/music.js';
 
 const canvas = document.getElementById('game');
 const game = new Game(canvas);
@@ -17,6 +18,7 @@ async function main() {
   game.sounds = new Sounds(game);
   await Promise.all([game.strings.init(), game.sounds.init()]);
   game.ui = new UiSounds(game.sounds);
+  game.music = new Music(game);
   applyAudioSettings(game.audio);
   await game.assets.loadSprite('MOUSE_MAIN_SPRITES');
 

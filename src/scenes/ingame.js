@@ -78,6 +78,9 @@ export class GameScene {
     window.removeEventListener('blur', this.onBlur);
     window.removeEventListener('focus', this.onFocus);
     this.world?.stopAmbience();
+    // Leaving a game stops the CD, then the menu starts a new random track [code 0x462793, 0x40648c].
+    this.game.music?.stop();
+    this.game.music?.playRandom();
   }
 
   get sim() { return this._sim; }
@@ -89,6 +92,7 @@ export class GameScene {
     if (!this.ready) return;
     const input = this.game.input;
     if (!this.menuOpen) this.sim.advance(dt * 1000);
+    this.game.music?.updateForCash(this.sim.player.cash); // [code 0x462acd]
     this.world.update(dt, input);
     this.root.update(dt, input);
     if (this.sim.result && !this.ended) {

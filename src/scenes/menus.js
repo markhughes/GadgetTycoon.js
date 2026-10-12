@@ -277,7 +277,7 @@ export class OptionsScene extends MenuScene {
     const set = (k) => (v) => { settings[k] = v; saveSettings(); applyAudioSettings(g.audio); };
     root.add(new EditBox(178, 78, 250, 23, { text: settings.playerName, onChange: set('playerName') }));
     root.add(new TextField(120, 130, 300, 30, this.t('OPTIONS_SOUND_TITLE'), { font: MENU_FONT }));
-    root.add(new CheckBox(89, 187, { checked: settings.music, onChange: set('music') }));
+    root.add(new CheckBox(89, 187, { checked: settings.music, onChange: (v) => { set('music')(v); g.music?.setEnabled(v); } }));
     root.add(new CheckBox(89, 233, { checked: settings.sound, onChange: set('sound') }));
     const lbl = (y, id) => root.add(new TextField(123, y, 180, 23, this.t(id), { font: LIST_FONT }));
     lbl(185, 'OPTIONS_SOUND_CD'); lbl(215, 'OPTIONS_SOUND_WAVE'); lbl(245, 'OPTIONS_SOUND_MASTER');

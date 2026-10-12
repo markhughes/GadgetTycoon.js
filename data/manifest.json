@@ -5168,5 +5168,22 @@
   "Extro",
   "Intro",
   "MC"
+ ],
+ "music": [
+  {
+   "track": 2,
+   "file": "music/track02.mp3",
+   "seconds": 246.44
+  },
+  {
+   "track": 3,
+   "file": "music/track03.mp3",
+   "seconds": 268.88
+  },
+  {
+   "track": 4,
+   "file": "music/track04.mp3",
+   "seconds": 245.37
+  }
  ]
 }
