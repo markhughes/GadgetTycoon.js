@@ -1,0 +1,71 @@
+[0]
+String="Barra de empuje"
+
+[1]
+String="Barra de empuje de un lado"
+
+[2]
+String="Barra de empuje"
+
+[3]
+String="Barra de empuje de doble lado"
+
+[4]
+String="Barra de empuje"
+
+[5]
+String="Barra de empuje 360º alrededor del robot"
+
+[6]
+String="Pinza"
+
+[7]
+String="Pinza simple única"
+
+[8]
+String="Pinza"
+
+[9]
+String="Pinza simple doble"
+
+[10]
+String="Pinza"
+
+[11]
+String="Par de pinzas simples sobre muñecas rotables"
+
+[12]
+String="Sistema de brazos"
+
+[13]
+String="Par de pinzas girables con codos plegables"
+
+[14]
+String="Sistema de brazos"
+
+[15]
+String="Brazo con hombros y codos plegables"
+
+[16]
+String="Sistema de brazos"
+
+[17]
+String="Brazos retráctiles: máxima flexibilidad"
+
+[18]
+String="Manos artificiales"
+
+[19]
+String="Pulgar mas dos dedos"
+
+[20]
+String="Manos artificiales"
+
+[21]
+String="Manos con cinco dedos simples"
+
+[22]
+String="Manos artificiales"
+
+[23]
+String="Manos en forma humana de gran destreza"

@@ -1,0 +1,359 @@
+[0]
+String="Almacén en ruinas"
+
+[1]
+String="Marketing podría instalarse en este almacén"
+
+[2]
+String="Zona de trabajo"
+
+[3]
+String="Despacho básico para marketing"
+
+[4]
+String="Sede de diseño"
+
+[5]
+String="Reforma acristalada para marketing "
+
+[6]
+String="Cámara de seguridad rota"
+
+[7]
+String="Seguridad mejorada para disuadir a los intrusos"
+
+[8]
+String="Cámara de seguridad"
+
+[9]
+String="Cámara de seguridad para la intrusión de día"
+
+[10]
+String="Securicam con detector"
+
+[11]
+String="Detector de calor para mejor seguridad"
+
+[12]
+String="Conexión por satélite"
+
+[13]
+String="Sistema de cámara/detector que alerta a la poli"
+
+[14]
+String="Planta muerta"
+
+[15]
+String="Anima al equipo con decoración atractiva"
+
+[16]
+String="Planta anémica"
+
+[17]
+String="Podría estar más sana pero es mejor que nada"
+
+[18]
+String="Planta floreciente"
+
+[19]
+String="Una planta bonita y sana para el rincón"
+
+[20]
+String="Acuario"
+
+[21]
+String="El acuario crea un ambiente relajado"
+
+[22]
+String="Tele rota"
+
+[23]
+String="Con una tele el marketing es más eficaz"
+
+[24]
+String="Televisión básica"
+
+[25]
+String="Está bien para ver las noticias"
+
+[26]
+String="Televisión moderna"
+
+[27]
+String="Televisión moderna de pantalla ancha"
+
+[28]
+String="Televisión de plasma"
+
+[29]
+String="Televisión de alta tecnología con satélite"
+
+[30]
+String="Ex-oficina desorganizada"
+
+[31]
+String="Aquí se podría meter la administración"
+
+[32]
+String="Administración ordenada"
+
+[33]
+String="Efectuadas todas las reparaciones necesarias"
+
+[34]
+String="Administración de lujo"
+
+[35]
+String="Sala de administración de alta tecnología"
+
+[36]
+String="Caja fuerte rota"
+
+[37]
+String="Guarda los documentos secretos en una caja fuerte"
+
+[38]
+String="Caja fuerte oxidada"
+
+[39]
+String="Impedimento para los posibles ladrones"
+
+[40]
+String="Caja fuerte de acero"
+
+[41]
+String="Caja fuerte de acero reforzado codificada"
+
+[42]
+String="Caja digital multicierre"
+
+[43]
+String="Requiere reconocimiento digital multicódigo"
+
+[44]
+String="Mesa rota"
+
+[45]
+String="Un equipo eficiente necesita un lugar de reunión"
+
+[46]
+String="Mesa de caballete"
+
+[47]
+String="Antigualla bamboleante"
+
+[48]
+String="Mesa de despacho"
+
+[49]
+String="Mesa de despacho moderna y elegante"
+
+[50]
+String="Mesa de diseño"
+
+[51]
+String="Falso buró de época"
+
+[52]
+String="Hornillo"
+
+[53]
+String="Echarse algo a la boca es bueno para el ánimo"
+
+[54]
+String="Cafetera"
+
+[55]
+String="Para despertar a todo el lugar"
+
+[56]
+String="Máquina de agua"
+
+[57]
+String="Agua refrescante"
+
+[58]
+String="Máquina de bebidas"
+
+[59]
+String="Surtido de bebidas frías o calientes"
+
+[60]
+String="Laboratorio abandonado"
+
+[61]
+String="Hace falta para la investigación de productos"
+
+[62]
+String="Laboratorio ordenado"
+
+[63]
+String="Algo desastroso pero limpio y seguro"
+
+[64]
+String="Centro de alta tecnología"
+
+[65]
+String="Totalmente reparado y mejorado"
+
+[66]
+String="Puerta rota"
+
+[67]
+String="Con una puerta segura no hay allanamientos"
+
+[68]
+String="Puerta de madera"
+
+[69]
+String="Para quitarles las ganas a los cacos"
+
+[70]
+String="Puerta de acero"
+
+[71]
+String="Puerta de acero con cerrojo de alta seguridad"
+
+[72]
+String="Puerta blindada"
+
+[73]
+String="Sólo la echaría abajo una T47"
+
+[74]
+String="Grill roto"
+
+[75]
+String="Con ventilación se rinde más"
+
+[76]
+String="Grill"
+
+[77]
+String="Deja entrar aire fresco"
+
+[78]
+String="Extractor de humos"
+
+[79]
+String="Expulsa los gases nocivos"
+
+[80]
+String="Climatizador"
+
+[81]
+String="Unidad anti-humos con regulación de temperatura"
+
+[82]
+String="Botiquín vacío"
+
+[83]
+String="Con un equipo de emergencia sube el ánimo"
+
+[84]
+String="Botiquín "
+
+[85]
+String="Para heridas y lesiones pequeñas"
+
+[86]
+String="Traje protector "
+
+[87]
+String="Resiste la mayoría de las emergencias"
+
+[88]
+String="Cápsula de emergencia"
+
+[89]
+String="Protección total frente a cualquier accidente"
+
+[90]
+String="Almacén abandonado"
+
+[91]
+String="Se podría usar para la producción"
+
+[92]
+String="Almacén"
+
+[93]
+String="Antiguo almacén reformado"
+
+[94]
+String="Centro de producción"
+
+[95]
+String="Centro de producción nuevo y restaurado"
+
+[96]
+String="Cerradura y cadena rotas"
+
+[97]
+String="Con medidas de seguridad no hay irrupciones"
+
+[98]
+String="Cerradura y cadena justas"
+
+[99]
+String="Cuelgan como si nada de la puerta"
+
+[100]
+String="Digicódigo"
+
+[101]
+String="Lector de digicódigos con alarma de seguridad"
+
+[102]
+String="Sistema multiunidad"
+
+[103]
+String="Digicódigo;securicams; alarma policía"
+
+[104]
+String="Grill bloqueado"
+
+[105]
+String="Con ventilación el equipo rinde más"
+
+[106]
+String="Grill"
+
+[107]
+String="Deja entrar un poco de aire fresco"
+
+[108]
+String="Ventilador-extractor"
+
+[109]
+String="Para un ambiente más fresco en el sector"
+
+[110]
+String="Aire acondicionado"
+
+[111]
+String="Extracción de humos y regulación de temperatura"
+
+[112]
+String="Estante vacío"
+
+[113]
+String="Los botiquines suben el ánimo"
+
+[114]
+String="Estante inestable"
+
+[115]
+String="Con unas cuantas vendas y escayolas"
+
+[116]
+String="Armario médico moderno"
+
+[117]
+String="Contiene la ayuda de emergencia necesaria"
+
+[118]
+String="Enfermería"
+
+[119]
+String="Enfermería con todo lo necesario"

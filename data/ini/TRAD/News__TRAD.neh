@@ -1,0 +1,693 @@
+
+; *****************************************************************************
+;
+;	NEWS
+;
+; *****************************************************************************
+[NEWS_TITLE0]
+COMMENT="News title comment"
+LAST_MODIFIED="1/10/2000"
+STRING="TitleToDraw"
+
+; ********************************************************
+;
+; NEWS TITLES
+;
+; ********************************************************
+
+
+;/////////////////////////////////////////////////////////////
+;// GENERIC NEWS
+;//
+
+
+//Dynamique
+;
+[0]
+Title="Productiechef: de productielijn is niet compleet"
+;
+[1]
+Title="Productiechef: een van de machines is kapot"
+;
+[2]
+Title="Productiechef: ik heb de assemblagemachine gerepareerd"
+;
+[3]
+Title="Technicus: ik heb de onderdelenmachine gerepareerd"
+;
+[4]
+Title="Productiechef: de productie is weer hervat"
+;
+[5]
+Title="Onderzoeker: we hebben een patent aangevraagd"
+;
+[6]
+Title="Patent verleend..."
+;
+[7]
+Title="Onderzoeker: we hebben een patent rechtenvrij gemaakt"
+;
+[8]
+Title="Patentvrij..."
+;
+[9]
+Title="Onderzoeker: we zijn nog niet ver genoeg om dit onderzoek te starten "
+;
+[10]
+Title="Onderzoeker: we moeten een moderne chemische testkit kopen."
+;
+[11]
+Title="Onderzoeker: we moeten een vezelgenerator kopen."
+;
+[12]
+Title="Onderzoeker: we moeten een gezondheidscomputer kopen"
+;
+[13]
+Title="Onderzoeker: we moeten een straalgenerator kopen"
+;
+[14]
+Title="Onderzoeker: we moeten een vezeleenheid kopen"
+;
+[15]
+Title="Onderzoeker: we moeten een vliegturbine kopen"
+;
+[16]
+Title="Onderzoeker: we moeten een hovertech-eenheid kopen"
+;
+[17]
+Title="Onderzoeker: we moeten een oogvochtcontainer kopen"
+;
+[18]
+Title="Onderzoeker: we moeten een microchip-machine kopen"
+;
+[19]
+Title="Onderzoeker: we moeten een mechanische duurtestbank kopen"
+;
+[20]
+Title="P&O: ik heb een nieuwe kandidaat!"
+;
+[21]
+Title="P&O: het moreel van het productiepersoneel is weer goed "
+
+;
+[22]
+Title="P&O: het moreel van het buitenpersoneel is weer goed "
+;
+[23]
+Title="P&O: het moreel van het labpersoneel is weer goed"
+;
+[24]
+Title="P&O: het moreel van het administratie- & marketingpersoneel is weer goed"
+
+;
+[25]
+Title="Accountant: ik heb contact opgenomen met de maffia"
+;
+[26]
+Title="Accountant: ik heb een omkooppot gecreëerd "
+;
+[27]
+Title="P&O: Vaardigheidstraining..."
+;
+[28]
+Title="P&O: Motivatiecursus..."
+;
+[29]
+Title="P&O: Efficiencytraining..."
+;
+[30]
+Title="PR: we hebben een maanadvertentie"
+;
+[31]
+Title="PR: we hebben een zeppelin"
+;
+[32]
+Title="Maanadvertentie..."
+;
+[33]
+Title="Einde van maanadvertentie over 10 dagen..."
+;
+[34]
+Title="PR: einde van zeppelin over 10 dagen"
+;
+[35]
+Title="Verkoop: De distributeur heeft mijn omkoopsom geaccepteerd"
+;
+[36]
+Title="Verkoop: ik kan de voorraad in de uitverkoop doen"
+;
+[37]
+Title="Verkoop: voorraad in de uitverkoop gedaan..."
+;
+[38]
+Title="Je moet een omkooppot creëren"
+
+;
+[39]
+Title="Je moet een omkooppot creëren en vervolgens contact opnemen met de maffia"
+
+;
+[40]
+Title="Advocaat: ik heb een rechtszaak aangespannen"
+;
+[41]
+Title="Onschuldig..."
+;
+[42]
+Title="Schuldig..."
+;
+[43]
+Title="Advocaat: ik heb contact opgenomen met de belasting, dus we kunnen binnenkort een inspectie verwachten"
+;
+[44]
+Title="Naderende belastinginspectie..."
+;
+[45]
+Title="Belastingrapport..."
+;
+[46]
+Title="Belastingrapport..."
+;
+[47]
+Title="Advocaat: ik heb een gerucht verspreid!"
+;
+[48]
+Title="Nieuwsflits..."
+;
+[49]
+Title="Spion: ik heb niets kunnen stelen"
+;
+[50]
+Title="Spion: ik heb de onderzoeksgegevens van een onderdeel gestolen"
+;
+[51]
+Title="Nieuwsflits: bedrijfsspionage"
+;
+[52]
+Title="Onderzoeker: iemand heeft de onderzoeksgegevens gestolen van een van onze onderdelen"
+;
+[53]
+Title="Spion: missie voltooid: ik heb hun productie gesaboteerd"
+;
+[54]
+Title="Nieuwsflits: bedrijfsspionage"
+;
+[55]
+Title="Productiechef: mijn machine is gesaboteerd"
+;
+[56]
+Title="Spion: mijn rapport..."
+;
+[57]
+Title="Nieuwsflits: bedrijfsspionage"
+;
+[58]
+Title="Admin- & marketing: we zijn beroofd"
+;
+[59]
+Title="Spion: daar ga ik niet heen. Het is te goed beveiligd."
+;
+[60]
+Title="Spion gevangen..."
+;
+[61]
+Title="Spion: bedankt dat je me uit de bak hebt gehaald, baas. Ik sta bij je in het krijt."
+;
+[62]
+Title="Maffia: het productiepersoneel is doodsbang"
+
+;
+[63]
+Title="Maffia: de onderzoekers zijn doodsbang"
+;
+[64]
+Title="Maffia: het buitenpersoneel is doodsbang"
+;
+[65]
+Title="Maffia: het administratie- en marketingpersoneel is doodsbang"
+;
+[66]
+Title="Beveiliging: ik heb net een spion uitgeschakeld"
+;
+[67]
+Title="Onderzoekorder afgeleverd..."
+;
+[68]
+Title="Productieorder afgeleverd..."
+
+;
+[69]
+Title="Onderzoeker: we moeten dringend onderzoek doen naar de urine-/ontlastingfilter"
+;
+[70]
+Title="Onderzoeker: we moeten dringend onderzoek doen naar de sondefilter voor totale gezondheidsanalyse"
+;
+[71]
+Title="Onderzoeker: we moeten dringend onderzoek doen naar de standaardhelm met kinbescherming"
+;
+[72]
+Title="Onderzoeker: we moeten dringend onderzoek doen naar de soepele leren laarzen van hoge kwaliteit"
+;
+[73]
+Title="Onderzoeker: we moeten dringend onderzoek doen naar de schoen van plastic met buigzaam enkelstuk"
+;
+[74]
+Title="Onderzoeker: we moeten dringend onderzoek doen naar de gestroomlijnde helm voor supersnelheden"
+;
+[75]
+Title="Onderzoeker: we moeten dringend onderzoek doen naar de helm met modern vizier"
+;
+[76]
+Title="Onderzoeker: we moeten dringend onderzoek doen naar de handcontroller voor alle richtingen"
+;
+[77]
+Title="Onderzoeker: we moeten dringend onderzoek doen naar de voelsprieten voor alle richtingen"
+;
+[78]
+Title="Onderzoeker: we moeten dringend onderzoek doen naar de zeer precieze radar voor lange afstand"
+;
+[79]
+Title="Onderzoeker: we moeten dringend onderzoek doen naar het 2D standaard enkel oog"
+;
+[80]
+Title="Onderzoeker: we moeten dringend onderzoek doen naar de 3D dubbele ogen"
+;
+[81]
+Title="Onderzoeker: we moeten dringend onderzoek doen naar het geheugen voor vele bewegingen"
+;
+[82]
+Title="Onderzoeker: we moeten dringend onderzoek doen naar de geavanceerde stemgestuurde taakgenerator"
+;
+[83]
+Title="Onderzoeker: we moeten dringend onderzoek doen naar de onafhankelijke, lerende microprocessor"
+;
+[84]
+Title="Onderzoeker: we moeten dringend onderzoek doen naar de standaard robotbenen"
+;
+[85]
+Title="Onderzoeker: we moeten dringend onderzoek doen naar flexibele benen"
+;
+[86]
+Title="Onderzoeker: we moeten dringend onderzoek doen naar benen die gebaseerd zijn op de menselijke anatomie"
+;
+[87]
+Title       = "We kunnen dit onderdeel alleen op een hoger niveau produceren"
+;
+[88]
+Title       = "Het onderdeel is veranderd en de oude voorraad is weggegooid"
+
+[89]
+Title       = "We hebben een werkplek van een hoger niveau nodig voor een productiechef"
+
+
+//Alétaoire
+;
+[90]
+Title="Ecoflits: dalende verkopen..."
+;
+[91]
+Title="Ecoflits: stijgende verkopen.."
+;
+[92]
+Title="Ecoflits: dalende verkopen..."
+;
+[93]
+Title="Ecoflits: stijgende verkopen.."
+;
+[94]
+Title="Banken: rentevoet stijgt..."
+;
+[95]
+Title="Banken: rentevoet daalt..."
+;
+[96]
+Title="Arbeidsbureau: weinig aanbod..."
+;
+[97]
+Title="Arbeidsbureau: tijd om te werven..."
+;
+[98]
+Title="Leverancier verhoogt prijs..."
+;
+[99]
+Title="Leverancier verlaagt prijs..."
+;
+[100]
+Title="Onderzoekorder..."
+;
+[101]
+Title="Groen bedrijf..."
+;
+[102]
+Title="Antwoord groen bedrijf..."
+;
+[103]
+Title="Antwoord groen bedrijf..."
+;
+[104]
+Title="Het is bijna Kerstmis..."
+;
+[105]
+Title="Belastingcontrole starten "
+
+;
+[106]
+Title="Belastinginspectie: boete..."
+;
+[107]
+Title="Belastinginspectie: in orde..."
+
+;
+[108]
+Title="Technicus: ik wil er even tussenuit"
+;
+[109]
+Title="Productiechef: ik heb er genoeg van"
+;
+[110]
+Title="Spion: ik voel me niet zo goed"
+;
+[111]
+Title="Maffia: ik ben depressief"
+;
+[112]
+Title="Onderzoeker: ik ben moe"
+;
+[113]
+Title="P&O: ik ben bekaf"
+;
+[114]
+Title="Advocaat: ik ben uitgeput"
+;
+[115]
+Title="Accountant: ik ben het beu"
+;
+[116]
+Title="PR: alles irriteert me"
+;
+[117]
+Title="Verkoop: ik hoop dat het snel weekend is!"
+;
+[118]
+Title="Beveiliging: dit bedrijfsterrein is deprimerend"
+;
+[119]
+Title="Ontslag..."
+
+;
+[120]
+Title="Accountant: we zijn bijna failliet"
+;
+[121]
+Title="Bankroet..."
+
+;
+[122]
+Title="Onderzoekorder geaccepteerd..."
+;
+[123]
+Title="Productieorder geaccepteerd..."
+;
+[124]
+Title="Productieorder geaccepteerd..."
+;
+[125]
+Title="Productieorder geaccepteerd..."
+;
+[126]
+Title="Productieorder mislukt..."
+
+;
+[127]
+Title="Doelstelling..."
+;
+[128]
+Title="Doelstelling..."
+;
+[129]
+Title="Doelstelling..."
+;
+[130]
+Title="Doelstelling..."
+;
+[131]
+Title="Doelstelling..."
+;
+[132]
+Title="Doelstelling..."
+;
+[133]
+Title="Doelstelling..."
+;
+[134]
+Title="Doelstelling..."
+;
+[135]
+Title="Doelstelling..."
+;
+[136]
+Title="Doelstelling..."
+
+;	E_VICTORY_CONDITION_DEMO
+[137]
+Title 		= "Doelstelling..."
+;	E_VICTORY_CONDITION_LEVEL04
+[138]
+Title 		= "Briefing..."
+;	E_VICTORY_CONDITION_LEVEL05
+[139]
+Title 		= "Briefing..."
+;	E_VICTORY_CONDITION_LEVEL06
+[140]
+Title 		= "Briefing..."
+;	E_VICTORY_CONDITION_LEVEL07
+[141]
+Title 		= "Briefing..."
+;	E_VICTORY_CONDITION_LEVEL08
+[142]
+Title 		= "Briefing..."
+;
+[143]
+Title 		= "Briefing..."
+;
+[144]
+Title 		= "Briefing..."
+;
+[145]
+Title 		= "Briefing..."
+;
+[146]
+Title 		= "Briefing..."
+;
+[147]
+Title 		= "Briefing..."
+;
+[148]
+Title 		= ""
+;
+[149]
+Title 		= "Ontslag..."
+
+;/////////////////////////////////////////////////////////////
+;// PRODUCTS NEWS
+;//
+
+;// TOILET
+
+[300]		
+Title="Productieorder..."
+
+;// ROLLERBLADE
+
+[400]
+Title="Productieorder..."
+
+;// ROBOT
+
+[500];
+Title="Productieorder..."
+
+;/////////////////////////////////////////////////////////////
+;// MISSIONS
+;//
+
+;// TUTORIAL
+
+;// TUTORIAL1
+[600];
+Title="Spelhulp "
+
+[601];
+Title="Spelhulp: Onderzoek doen"
+
+[602];
+Title="Spelhulp: Onderdelen"
+
+[603];
+Title="Spelhulp: Technologisch onderzoek"
+
+[604];
+Title="Einde van deel 1"
+
+;// TUTORIAL2
+[625];
+Title="Open het mailvenster om de spelhulp te doorlopen"
+
+[626];
+Title="Spelhulp: Produceren"
+
+[627];
+Title="Einde van deel 2"
+
+;// TUTORIAL3
+[650];
+Title="Open het mailvenster om de spelhulp te doorlopen"
+
+[651];
+Title="Spelhulp: Verkoop"
+
+[652];
+Title="Spelhulp: Techniekfreaks en designfreaks"
+
+[653];
+Title="Einde van deel 3"
+
+;// TUTORIAL4
+[675];
+Title="Open het mailvenster om de spelhulp te doorlopen"
+
+[676];
+Title="Spelhulp: Moreel"
+
+[677];
+Title="Spelhulp: Wegkapen"
+
+[678];
+Title="Spelhulp: Wegkapen"
+
+[679];
+Title="Spelhulp: Wegkapen"
+
+[680];
+Title="Einde van deel 4"
+
+
+;// MISSION1
+
+;[700];
+;Title="Briefing..."
+
+;// MISSION2
+
+;[800];
+;Title="Briefing..."
+
+;// MISSION3
+
+;[900];
+;Title="Briefing..."
+
+[901]
+Title		= "" 
+
+;// MISSION4
+
+;[1000];
+;Title="Briefing..."
+
+[1001]
+Title		= "" 
+
+;// MISSION5
+
+;[1100];
+;Title="Briefing..."
+
+[1101];
+Title		= "CRASH-BOURSIER !!"
+
+[1102];
+Title		= "+90jours pour la bourse"
+
+[1103];
+Title		= "+90jours pour la bourse"
+
+[1104];
+Title		= "-90jours pour la bourse"
+
+[1105];
+Title		= "-90jours pour la bourse"
+
+[1106];
+Title		= "+30jours pour la bourse"
+
+[1107];
+Title		= "+30jours pour la bourse"
+
+[1108];
+Title		= "-30jours pour la bourse"
+
+[1109];
+Title		= "-30jours pour la bourse"
+
+[1110];
+Title		= "+10jours pour la bourse"
+
+[1111];
+Title		= "+10jours pour la bourse"
+
+[1112];
+Title		= "-10jours pour la bourse"
+
+[1113];
+Title		= "-10jours pour la bourse"
+
+
+;// MISSION6
+
+;[1200];
+;Title="Briefing..."
+
+;// MISSION7
+
+;[1300];
+;Title="Briefing..."
+[1300];		E_NEWS_COMMANDE_MISSION_1
+Title		= "Productieorder..."
+
+[1301];		E_NEWS_COMMANDE_MISSION_2
+Title		= "Productieorder..."
+
+[1302];		E_NEWS_COMMANDE_MISSION_3
+Title		= "Productieorder..."
+
+[1303];		E_NEWS_COMMANDE_MISSION_4
+Title		= "Productieorder..."
+
+[1304];		E_NEWS_COMMANDE_MISSION_5
+Title		= "Productieorder..."
+
+[1305];		E_NEWS_COMMANDE_MISSION_6
+Title		= "Productieorder..."
+
+[1306];		E_NEWS_COMMANDE_MISSION_7
+Title		= "Productieorder..."
+
+[1307];		E_NEWS_COMMANDE_MISSION_8
+Title		= "Productieorder..."
+
+[1308];		E_NEWS_COMMANDE_MISSION_9
+Title		= "Productieorder..."
+
+[1309];		E_NEWS_COMMANDE_MISSION_10
+Title		= "Productieorder..."
+
+;// MISSION8
+
+;[1400];
+;Title="Briefing..."
+
+;// MISSION9
+
+;[1500];
+;Title="Briefing..."

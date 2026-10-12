@@ -1,0 +1,359 @@
+[0]
+String="Deposito fatiscente"
+
+[1]
+String="Potrebbe ospitare il settore marketing"
+
+[2]
+String="Settore operativo"
+
+[3]
+String="Ufficio marketing di base"
+
+[4]
+String="Q.G. ristrutturato"
+
+[5]
+String="Ufficio ristrutturato per il marketing"
+
+[6]
+String="Telecamera rotta"
+
+[7]
+String="Aumenta la sicurezza per prevenire intrusioni"
+
+[8]
+String="Telecamera di sicurezza"
+
+[9]
+String="Previene le intrusioni durante il giorno"
+
+[10]
+String="Telecamera termosensibile"
+
+[11]
+String="La rilevazione del calore aumenta la sicurezza"
+
+[12]
+String="Collegamento alla polizia"
+
+[13]
+String="Sistema satellitare collegato alla polizia"
+
+[14]
+String="Pianta morta"
+
+[15]
+String="Migliora il morale del personale con decorazioni"
+
+[16]
+String="Piantina anemica"
+
+[17]
+String="Non è in salute, ma meglio di niente"
+
+[18]
+String="Pianta rigogliosa"
+
+[19]
+String="Una grande e sana pianta da vaso"
+
+[20]
+String="Acquario"
+
+[21]
+String="Crea un'atmosfera rilassata e rilassante"
+
+[22]
+String="Televisore rotto"
+
+[23]
+String="La TV rende il marketing più efficiente"
+
+[24]
+String="Televisore di base"
+
+[25]
+String="Utile per seguire i notiziari"
+
+[26]
+String="Televisore moderno"
+
+[27]
+String="Un moderno televisore a schermo panoramico"
+
+[28]
+String="Televisore al plasma"
+
+[29]
+String="Modernissimo TV con accesso a satellite"
+
+[30]
+String="Caotico ex-ufficio"
+
+[31]
+String="Quest'area potrebbe ospitare l'amministrazione"
+
+[32]
+String="Ufficio ripulito"
+
+[33]
+String="Tutte le riparazioni necessarie effettuate"
+
+[34]
+String="Ufficio di lusso"
+
+[35]
+String="Ufficio amministrativo super-tecnologico"
+
+[36]
+String="Cassaforte rotta"
+
+[37]
+String="Tieni i documenti segreti in cassaforte"
+
+[38]
+String="Cassaforte arrugginita"
+
+[39]
+String="Scoraggia i ladri occasionali"
+
+[40]
+String="Cassaforte d'acciaio"
+
+[41]
+String="Cassaforte blindata a combinazione"
+
+[42]
+String="Cassaforte digitale"
+
+[43]
+String="Richiede codici digitali multipli"
+
+[44]
+String="Tavolo rotto"
+
+[45]
+String="Una buona squadra ha bisogno di una sala riunioni"
+
+[46]
+String="Tavolo a cavalletto"
+
+[47]
+String="Vecchio e traballante"
+
+[48]
+String="Tavolo da riunioni"
+
+[49]
+String="Tavolo elegante e moderno"
+
+[50]
+String="Tavolo di rappresentanza"
+
+[51]
+String="Falso tavolo d'epoca"
+
+[52]
+String="Fornelletto"
+
+[53]
+String="Le bevande calde migliorano il morale"
+
+[54]
+String="Macchina del caffè"
+
+[55]
+String="Perché tutti rimangano svegli"
+
+[56]
+String="Distributore d'acqua"
+
+[57]
+String="Acqua fresca e rinfrescante"
+
+[58]
+String="Distributore di bibite"
+
+[59]
+String="Offre bevande calde e fredde"
+
+[60]
+String="Laboratorio abbandonato"
+
+[61]
+String="Un laboratorio permette lo sviluppo di prodotti"
+
+[62]
+String="Laboratorio ripulito"
+
+[63]
+String="Un po' caotico, ma pulito e sicuro"
+
+[64]
+String="Centro di ricerca Hi-tech"
+
+[65]
+String="Totalmente riparato e attrezzato"
+
+[66]
+String="Porta rotta"
+
+[67]
+String="Una porta di sicurezza previene le intrusioni"
+
+[68]
+String="Porta di legno"
+
+[69]
+String="Dovrebbe scoraggiare i ladri occasionali"
+
+[70]
+String="Porta d'acciaio"
+
+[71]
+String="Porta rinforzata di sicurezza in acciaio"
+
+[72]
+String="Porta blindata"
+
+[73]
+String="Ci vuole una bomba per buttarla giù"
+
+[74]
+String="Griglia d'aerazione rotta"
+
+[75]
+String="La ventilazione aumenta l'efficienza"
+
+[76]
+String="Griglia d'aerazione"
+
+[77]
+String="Fa entrare l'aria fresca"
+
+[78]
+String="Sistema antiodori"
+
+[79]
+String="Elimina i cattivi odori"
+
+[80]
+String="Condizionatore"
+
+[81]
+String="Regola la temperatura ed elimina gli odori"
+
+[82]
+String="Cassetta medicinali vuota"
+
+[83]
+String="Le attrezzature di emergenza migliorano il morale"
+
+[84]
+String="Kit pronto soccorso"
+
+[85]
+String="Per curare piccoli tagli e contusioni"
+
+[86]
+String="Tuta protettiva"
+
+[87]
+String="Adatta per quasi tutte le emergenze"
+
+[88]
+String="Capsula d'emergenza"
+
+[89]
+String="Protezione totale da qualunque incidente"
+
+[90]
+String="Deposito abbandonato"
+
+[91]
+String="Si potrebbe usare per la produzione"
+
+[92]
+String="Deposito"
+
+[93]
+String="Un vecchio deposito ristrutturato"
+
+[94]
+String="Centro di produzione"
+
+[95]
+String="Centro di produzione nuovissimo e ristrutturato"
+
+[96]
+String="Catenaccio rotto"
+
+[97]
+String="Le misure di sicurezza prevengono le intrusioni"
+
+[98]
+String="Catenaccio economico"
+
+[99]
+String="Per rendere più sicura una porta"
+
+[100]
+String="Serratura digitale"
+
+[101]
+String="Lettore di codice digitale con allarme"
+
+[102]
+String="Sistema multiplo"
+
+[103]
+String="Serratura digitale; telecamere; allarme polizia"
+
+[104]
+String="Ventola bloccata"
+
+[105]
+String="La ventilazione aumenta l'efficienza del personale"
+
+[106]
+String="Ventola"
+
+[107]
+String="Per far entrare un po' di aria fresca"
+
+[108]
+String="Ventola aspirante"
+
+[109]
+String="Per rinfrescare meglio l'ambiente"
+
+[110]
+String="Condizionatore"
+
+[111]
+String="Elimina gli odori e regola la temperatura"
+
+[112]
+String="Scaffale vuoto"
+
+[113]
+String="I kit di pronto soccorso migliorano il morale"
+
+[114]
+String="Scaffale traballante"
+
+[115]
+String="Un po' di bende e cerotti"
+
+[116]
+String="Kit pronto soccorso"
+
+[117]
+String="Contiene tutti i medicinali indispensabili"
+
+[118]
+String="Infermeria"
+
+[119]
+String="Un'infermeria completamente attrezzata"

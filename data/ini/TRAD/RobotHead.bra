@@ -1,0 +1,71 @@
+[0]
+String="Percepção de tato"
+
+[1]
+String="Sensor de tato"
+
+[2]
+String="Percepção de tato"
+
+[3]
+String="3 sensores de tato"
+
+[4]
+String="Percepção de tato"
+
+[5]
+String="Sensores multi-direcionais"
+
+[6]
+String="Radar"
+
+[7]
+String="Radar de curta distância e baixa precisão"
+
+[8]
+String="Radar"
+
+[9]
+String="Radar de média distância e precisão"
+
+[10]
+String="Radar"
+
+[11]
+String="Radar de longa distância e alta precisão"
+
+[12]
+String="Percepção visual"
+
+[13]
+String="Olho único bi-dimensional"
+
+[14]
+String="Percepção visual"
+
+[15]
+String="Olhos com visão 3D e zoom"
+
+[16]
+String="Percepção visual"
+
+[17]
+String="Percepção 3D em 360 graus com olho composto"
+
+[18]
+String="Percepção infravermelha"
+
+[19]
+String="Sensor infravermelho de curta distância"
+
+[20]
+String="Percepção infravermelha"
+
+[21]
+String="Sensor infravermelho de longa distância"
+
+[22]
+String="Percepção infravermelha"
+
+[23]
+String="Supersensor infravermelho ligado com satélite"

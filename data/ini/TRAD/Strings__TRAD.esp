@@ -1,0 +1,2172 @@
+; *****************************************************************************
+;
+;	MISSION
+;
+; *****************************************************************************
+[MISSION0]
+COMMENT       = "Titre de la mission 0"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "Concurso de Retretes"
+
+[MISSION1]
+COMMENT       = "Titre de la mission 1"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "¡Pon orden!
+
+[MISSION2]
+COMMENT       = "Titre de la mission 2"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "Al Este "
+
+[MISSION3]
+COMMENT       = "Titre de la mission 3"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "¡Hiperinflación!
+
+[MISSION4]
+COMMENT       = "Titre de la mission 4"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "¡Caída de la bolsa!"
+
+[MISSION5]
+COMMENT       = "Titre de la mission 5"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Caída de una empresa emergente"
+
+[MISSION6]
+COMMENT       = "Titre de la mission 6"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "El embargo"
+
+[MISSION7]
+COMMENT       = "Titre de la mission 7"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Fuga de talentos"
+
+[MISSION8]
+COMMENT       = "Titre de la mission 8"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Don Limpio"
+
+
+; *****************************************************************************
+;
+;	MISSION_DESC
+;
+; *****************************************************************************
+[MISSION0_LINE0]
+COMMENT       = "Description de la mission 0"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "Producto: Retretes"
+
+[MISSION0_LINE1]
+COMMENT       = "Description de la mission 0"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "Nivel: Fácil"
+
+[MISSION0_LINE2]
+COMMENT       = "Description de la mission 0"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "Objetivo: Fabricar el retrete más sofisticado"
+
+[MISSION0_LINE3]
+COMMENT       = "Description de la mission 0"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "Sin límite de tiempo"
+
+[MISSION0_LINE4]
+COMMENT       = "Description de la mission 0"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "Muy Señor mío, §§Como secretario de la Fundación Europea para la Ciencia, es un auténtico honor para mí invitarle a participar en la 4ª Feria Internacional de Retretes que se celebrará el año próximo en Copenhague."
+
+[MISSION0_LINE5]
+COMMENT       = "Description de la mission 0"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "Tengo la sincera esperanza de que En-suite Privy Facilities se convertirá en nuestra tecnología de transformación del milenio de la misma forma que la fusión nuclear lo fue hace cincuenta años y la pólvora hace 100 años."
+
+[MISSION0_LINE6]
+COMMENT       = "Description de la mission 0"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "Como participante en la feria tendrá la oportunidad de mostrar su obra a todo un plantel de competidores y observar a su vez el trabajo de otras empresas activas del mismo campo."
+
+[MISSION0_LINE7]
+COMMENT       = "Description de la mission 0"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "Habrá un premio de 100.000$ para el mejor retrete, seguido de dos segundos premios de 20.000$ cada uno. Esperamos verle en Copenhague, §§Atentamente, §§ I. Asimov."
+
+[MISSION0_LINE8]
+COMMENT       = "Description de la mission 0"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "I. Asimov"
+
+[MISSION0_LINE9]
+COMMENT       = "Description de la mission 0"
+LAST_MODIFIED = "5/5/2001"
+STRING        = " "
+
+
+
+[MISSION1_LINE0]
+COMMENT       = "Description de la mission 1"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "Producto: Retretes"
+
+[MISSION1_LINE1]
+COMMENT       = "Description de la mission 1"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "Nivel: Difícil"
+
+[MISSION1_LINE2]
+COMMENT       = "Description de la mission 1"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "Objetivo: Conseguir vender 400 retretes"
+
+[MISSION1_LINE3]
+COMMENT       = "Description de la mission 1"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "Sin límite de tiempo"
+
+[MISSION1_LINE4]
+COMMENT       = "Description de la mission 1"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "Como asesor de dirección especializado en la puesta en marcha de empresas, recibes un mensaje en tu contestador del gerente de una empresa dedicada a la fabricación de inodoros empeñado en sacar sus productos al mercado ¿Podrás poner a flote su capital? §§"Soy Bendicks de U-Bendix and Flush."
+
+[MISSION1_LINE5]
+COMMENT       = "Description de la mission 1"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "Tal vez no haya oído hablar de nosotros, pero puedo asegurarle que en algún momento se habrá sentado sobre alguno de nuestros productos. Como puede imaginar, nos dedicamos a la fabricación de retretes. Futuristas. Pero el futuro no es muy brillante. Por eso hemos acudido a usted."
+
+[MISSION1_LINE6]
+COMMENT       = "Description de la mission 1"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "§El problema es que nadie compra. A la gente le resulta embarazoso hablar del brillante futuro que ofrecemos. Asientos regulables y toma de muestras médicas. Supongo que estarán encantados de quedarse anclados en los viejos tiempos del flotador y la acumulación de óxido."
+
+[MISSION1_LINE7]
+COMMENT       = "Description de la mission 1"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "He hablado con el departamento de RH y me dicen que no hay técnicos, ni tampoco supervisores, así que la producción se agota y quieren que se les pague sueldos astronómicos por cada esfuerzo que hacen. He tratado de hablar con el departamento de RH, pero me temo que nuestras relaciones no atraviesan el mejor momento."
+
+[MISSION1_LINE8]
+COMMENT       = "Description de la mission 1"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "De hecho, tampoco es que me lleve demasiado bien con el departamento de I+D: no cumplen con su deber. Si no hay patentes, no hay royalties. ¡Demonios, esto apesta!  Les daría un aumento si se espabilasen, o si pudiera permitírmelo."
+
+[MISSION1_LINE9]
+COMMENT       = "Description de la mission 1"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "Pero apenas nos quedan existencias para mantenernos a flote, e incluso aunque las vendiéramos, no conseguiríamos los royalties que necesitamos. ¡Demonios, no sé que es lo que ha ido mal! ¿Se hace una idea? He pensado que sería mejor cederle el puesto antes de tirar la  toalla. Espero que sepa lidiar con la situación mejor que yo"
+
+
+[MISSION2_LINE0]
+COMMENT       = "Description de la mission 2"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "Producto: Patines"
+
+[MISSION2_LINE1]
+COMMENT       = "Description de la mission 2"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "Nivel: Fácil"
+
+[MISSION2_LINE2]
+COMMENT       = "Description de la mission 2"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "Objetivo: Alcanzar una balanza de caja de 10.000.000$"
+
+[MISSION2_LINE3]
+COMMENT       = "Description de la mission 2"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "Sin límite de tiempo"
+
+[MISSION2_LINE4]
+COMMENT       = "Description de la mission 2"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "Así que pensabas que las cosas iban mal, vaya, pues me temo que acaban de empeorar. Tu hermano pequeño, que nunca se distinguió por ser el cerebro de la familia, acaba de tener la brillante idea de dilapidar toda su herencia en una ruinosa fábrica de patines que solo genera pérdidas, antigua propiedad del estado de una inestable y reciente democracia ex soviética del bloque del este."
+
+[MISSION2_LINE5]
+COMMENT       = "Description de la mission 2"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "Mientras la inflación se adueña del país, una mano de obra desmoralizada y poco cualificada, que pide poco y ayuda menos, ve cómo su nivel de vida decae mientras sus colegas mejor cualificados emigran al oeste. La privatización de la banca ha dejado un agujero económico que solo la mafia se ha apresurado a llenar. Y eso no es lo peor."
+
+[MISSION2_LINE6]
+COMMENT       = "Description de la mission 2"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "Puede que al partido de la dictadura se le haya acabado la fiesta, pero el vasto y difícil de manejar Instituto de Gosudarstvenny de Patines ha mantenido hasta hace poco un monopolio total sobre la producción y la investigación. Todavía fuertemente subvencionado por el gobierno, se muestra comprensiblemente reacio a renunciar a dicho monopolio."
+
+[MISSION2_LINE7]
+COMMENT       = "Description de la mission 2"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "Y sus empleados tampoco tienen mucha prisa por causar problemas ya que la empresa, a pesar de todos los fallos, ofrece una seguridad mucho más atractiva que tu cínica marca de capitalismo occidental."
+
+[MISSION2_LINE8]
+COMMENT       = "Description de la mission 2"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "Por culpa del honor de la familia tendrás que poner orden en este desbarajuste y conseguir diez millones en nombre de tu hermano. Después podrá montar la empresa emergente de Internet en Silicon Valley como le dijiste que hiciera."
+
+[MISSION2_LINE9]
+COMMENT       = "Description de la mission 2"
+LAST_MODIFIED = "5/5/2001"
+STRING        = ""
+
+
+[MISSION3_LINE0]
+COMMENT       = "Description de la mission 3"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "Producto: Androides para la ayuda del hogar"
+
+[MISSION3_LINE1]
+COMMENT       = "Description de la mission 3"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "Nivel: Difícil"
+
+[MISSION3_LINE2]
+COMMENT       = "Description de la mission 3"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "Objetivo: Ser el último jugador superviviente y resistir tanto como sea posible."
+
+[MISSION3_LINE3]
+COMMENT       = "Description de la mission 3"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "Sin límite de tiempo"
+
+[MISSION3_LINE4]
+COMMENT       = "Description de la mission 3"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "No se trata de si vas a ir a la bancarrota: lo tuyo es una causa perdida."
+
+[MISSION3_LINE5]
+COMMENT       = "Description de la mission 3"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "La superinflación no solo ha logrado que los precios se descontrolen, además tus inversores, antaño tan confiados y generosos, se han embarcado en una campaña para minimizar los daños."
+
+[MISSION3_LINE6]
+COMMENT       = "Description de la mission 3"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "Te van a chupar la sangre."
+
+[MISSION3_LINE7]
+COMMENT       = "Description de la mission 3"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "Tienes que pagar multas diarias que suben constantemente. Para conservar intacta tu dignidad, has decidido ser la última compañía en coger los bártulos y largarse y resistir todo lo posible"
+
+[MISSION3_LINE8]
+COMMENT       = "Description de la mission 3"
+LAST_MODIFIED = "5/5/2001"
+STRING        = " "
+
+[MISSION3_LINE9]
+COMMENT       = "Description de la mission 3"
+LAST_MODIFIED = "5/5/2001"
+STRING        = ""
+
+
+[MISSION4_LINE0]
+COMMENT       = "Description de la mission 4"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "Producto: Patines"
+
+[MISSION4_LINE1]
+COMMENT       = "Description de la mission 4"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "Nivel: Difícil"
+
+[MISSION4_LINE2]
+COMMENT       = "Description de la mission 4"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "Objetivo: Tener el mayor nivel de efectivo neto cuando caiga el mercado"
+
+[MISSION4_LINE3]
+COMMENT       = "Description de la mission 4"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "Tiempo limitado"
+
+[MISSION4_LINE4]
+COMMENT       = "Description de la mission 4"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "Los mercados llevan demasiado tiempo por las nubes. Nadie, salvo los más ingenuos, podía pensar que iba a durar para siempre ¿Acaso alguien ha sabido alguna vez de una subida sin una caída?"
+
+[MISSION4_LINE5]
+COMMENT       = "Description de la mission 4"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "Sin duda esta subida ha sido impresionante, y todo apunta a que la caída va a ser igualmente espectacular. Cualquier analista de medio pelo puede decírtelo."
+
+[MISSION4_LINE6]
+COMMENT       = "Description de la mission 4"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "El problema es cuándo y cuánto tiempo queda para sacar tajada de lo que queda. El ganador será aquel que tenga más dinero cuando llegue la bancarrota."
+
+[MISSION4_LINE7]
+COMMENT       = "Description de la mission 4"
+LAST_MODIFIED = "5/5/2001"
+STRING        = ""
+
+[MISSION4_LINE8]
+COMMENT       = "Description de la mission 4"
+LAST_MODIFIED = "5/5/2001"
+STRING        = " "
+
+[MISSION4_LINE9]
+COMMENT       = "Description de la mission 4"
+LAST_MODIFIED = "5/5/2001"
+STRING        = " "
+
+[MISSION5_LINE0]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Producto: Retretes"
+
+[MISSION5_LINE1]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Nivel: Fácil "
+
+[MISSION5_LINE2]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Objetivo: Salir de los números rojos poniendo a 0 tu saldo final"
+
+[MISSION5_LINE3]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Tiempo limitado"
+
+[MISSION5_LINE4]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Se te ha enviado a una empresa emergente agobiada por las deudas que está a punto de irse al garete. La estrategia de tu antecesor fue desastrosa."
+
+[MISSION5_LINE5]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Lo invirtió todo en investigación. Cuentas con un laboratorio que es el último grito y has investigado todas las tecnologías."
+
+[MISSION5_LINE6]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Además, tienes a tu servicio investigadores expertos que resultan carísimos."
+
+[MISSION5_LINE7]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Gastos inmensos y nula rentabilidad. Los inversores quieren que des la vuelta al lugar en el plazo de un año."
+
+[MISSION5_LINE8]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = " "
+
+[MISSION5_LINE9]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = " "
+
+
+
+[MISSION6_LINE0]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Producto: Patines"
+
+[MISSION6_LINE1]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Nivel: Medio"
+
+[MISSION6_LINE2]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Objetivo: Lograr un saldo de caja de 2.500.000$"
+
+[MISSION6_LINE3]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Tiempo ilimitado"
+
+[MISSION6_LINE4]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Llevas algún tiempo sin sobornar al Ministerio de Economía, así que el gobierno ha cumplido su amenaza: ha embargado tus productos."
+
+[MISSION6_LINE5]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "No puedes vender nada. Encima, por si esto fuera poco, tu rival está aprovechando esta magnífica oportunidad para borrarte del mapa para siempre."
+
+[MISSION6_LINE6]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "No le hace ascos a nada: el espionaje y la coacción forman parte de tu camino diario."
+
+[MISSION6_LINE7]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Y no esperes ayuda de la ley porque, en este país, los abogados son corruptos hasta la médula y, de todos modos, ninguno trabajaría para ti."
+
+[MISSION6_LINE8]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "La única forma de sobrevivir es cumplir la producción ocasional e investigar los pedidos que recibes de empresas del extranjero. Gana todo el dinero que puedas y desaparece mientras las cosas marchen."
+
+[MISSION6_LINE9]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = " "
+
+
+[MISSION7_LINE0]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Producto: Retretes"
+
+[MISSION7_LINE1]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Nivel: Medio "
+
+[MISSION7_LINE2]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Objetivo: Lograr una valoración de producto del 60% por parte de los emotivos"
+
+[MISSION7_LINE3]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Tiempo ilimitado"
+
+[MISSION7_LINE4]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Hay una fuga de talentos."
+
+[MISSION7_LINE5]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Solo te quedan técnicos. A pesar de todo, has decidido apoyar a tu empresa y medir tus fuerzas con los laboratorios de investigación secreta que cuentan con todo lo necesario."
+
+[MISSION7_LINE6]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Estás convencido de que encontrarás un mercado:"
+
+[MISSION7_LINE7]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "de ti depende que te sitúes correctamente y hagas tu agosto."
+
+[MISSION7_LINE8]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = " "
+
+[MISSION7_LINE9]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = " "
+
+
+[MISSION8_LINE0]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Producto: Androide de ayuda en el hogar"
+
+[MISSION8_LINE1]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Nivel: Medio"
+
+[MISSION8_LINE2]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Objetivo: Ser el último jugador superviviente"
+
+[MISSION8_LINE3]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Tiempo ilimitado"
+
+[MISSION8_LINE4]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Eres Don Limpio."
+
+
+[MISSION8_LINE5]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "§Como eres un auténtico caballero, desprecias a tus rivales, que se han aliado para acabar con tu empresa sea como sea, y los métodos de algunos apestan."
+
+[MISSION8_LINE6]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Para no rebajarte a su nivel, decides poner el asunto en manos de los abogados y emprender reiteradas acciones legales."
+
+[MISSION8_LINE7]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "El problema es dar con el culpable porque si entablas una demanda contra un rival inocente, pierdes. Sin embargo, si pillas al culpable la multa será tan elevada que no le quedará más remedio que  rendirse."
+
+[MISSION8_LINE8]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Resiste los cobardes ataques de la competencia y consigue que los condenen uno por uno."
+
+[MISSION8_LINE9]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = " "
+
+; *****************************************************************************
+;
+;	MISSION SPECIFIC STRINGS
+;
+; *****************************************************************************
+[MISSION5_CRASH]
+COMMENT       = "Nombre de jours restant affiches dans le chat"
+LAST_MODIFIED = "23/04/2001"
+STRING        = "DESPLOME DEL MERCADO: D-"
+
+
+; *****************************************************************************
+;
+;	VICTORY
+;
+; *****************************************************************************
+[VICTORY0]
+COMMENT="Conditions de victoire"
+LAST_MODIFIED="1/10/2000"
+STRING="Completa todas las investigaciones del árbol tecnológico"
+
+[VICTORY1]
+COMMENT="Conditions de victoire"
+LAST_MODIFIED="1/10/2000"
+STRING="Lleva tu nivel de caja a $5.000.000"
+
+[VICTORY2]
+COMMENT="Conditions de victoire"
+LAST_MODIFIED="1/10/2000"
+STRING="Lleva el precio de tus acciones a $700"
+
+[VICTORY3]
+COMMENT="Conditions de victoire"
+LAST_MODIFIED="1/10/2000"
+STRING="Vende 300 de unidades a los técnicos"
+
+[VICTORY4]
+COMMENT="Conditions de victoire"
+LAST_MODIFIED="1/10/2000"
+STRING="Vende 300 de unidades a los emotivos"
+
+[VICTORY5]
+COMMENT="Conditions de victoire"
+LAST_MODIFIED="1/10/2000"
+STRING="Investigar lo mas  posible durante dos años"
+
+[VICTORY6]
+COMMENT="Conditions de victoire"
+LAST_MODIFIED="1/10/2000"
+STRING="Ganar lo maximo posible en dos años"
+
+[VICTORY7]
+COMMENT="Conditions de victoire"
+LAST_MODIFIED="1/10/2000"
+STRING="Ganar lo maximo posible en dos años"
+
+[VICTORY8]
+COMMENT="Conditions de victoire"
+LAST_MODIFIED="1/10/2000"
+STRING="Conseguir la parte mas importante del mercado Tecnoide en dos años"
+
+[VICTORY9]
+COMMENT="Conditions de victoire"
+LAST_MODIFIED="1/10/2000"
+STRING="Conseguir la parte mas importante del mercado Emotivo en dos años"
+
+
+
+; *****************************************************************************
+;
+;	SYSTEM
+;
+; *****************************************************************************
+[SYSTEM_SHADOW_ON]
+COMMENT="Utilisation des ombres"
+LAST_MODIFIED="1/10/2000"
+STRING="Activar sombra de duende"
+
+[SYSTEM_SHADOW_OFF]
+COMMENT="Utilisation des ombres"
+LAST_MODIFIED="1/10/2000"
+STRING="Desactivar sombre de duende"
+
+[YES]
+COMMENT="Yes"
+LAST_MODIFIED="1/10/2000"
+STRING="Sí"
+
+[NO]
+COMMENT="No"
+LAST_MODIFIED="1/10/2000"
+STRING="No"
+
+
+; *****************************************************************************
+;
+;	GAME OVER
+;
+; *****************************************************************************
+[GAME_OVER_MAIN_MENU_TITLE_LOOSE0]
+COMMENT       = "Titre de fin de partie"
+LAST_MODIFIED = "09/05/2000"
+STRING        = "Estas en bancarrota..."
+
+[GAME_OVER_MAIN_MENU_TITLE_LOOSE1]
+COMMENT       = "Titre de fin de partie"
+LAST_MODIFIED = "09/05/2000"
+STRING        = "Tu oponente lo hizo mejor que tú"
+
+[GAME_OVER_MAIN_MENU_TITLE_WIN0]
+COMMENT       = "Titre de fin de partie"
+LAST_MODIFIED = "09/05/2000"
+STRING        = "Vencedor por KO! Todos tus competidores estan en bancarrota"
+
+[GAME_OVER_MAIN_MENU_TITLE_WIN1]
+COMMENT       = "Titre de fin de partie"
+LAST_MODIFIED = "09/05/2000"
+STRING        = "Bravo ! Como un buen manager, has conseguido tu objetivo"
+
+[GAME_OVER_MAIN_MENU_TITLE_HOST]
+COMMENT       = "Titre de fin de partie"
+LAST_MODIFIED = "09/05/2000"
+STRING        = "Como organizador de la partida ; si sales, interrumpes el juego..."
+
+[GAME_OVER_CREDITS_CURVE0]
+COMMENT       = "Courbes de fin de jeu"
+LAST_MODIFIED = "11/05/2000"
+STRING        = "Ventas"
+
+[GAME_OVER_CREDITS_CURVE1]
+COMMENT       = "Courbes de fin de jeu"
+LAST_MODIFIED = "11/05/2000"
+STRING        = "Patentes"
+
+[GAME_OVER_CREDITS_CURVE2]
+COMMENT       = "Courbes de fin de jeu"
+LAST_MODIFIED = "11/05/2000"
+STRING        = "Otros"
+
+[GAME_OVER_BALANCE_CURVE0]
+COMMENT       = "Courbes de fin de jeu"
+LAST_MODIFIED = "11/05/2000"
+STRING        = "Balanza comercial"
+
+[GAME_OVER_DEBITS_CURVE0]
+COMMENT       = "Courbes de fin de jeu"
+LAST_MODIFIED = "11/05/2000"
+STRING        = "Compras de componentes"
+
+[GAME_OVER_DEBITS_CURVE1]
+COMMENT       = "Courbes de fin de jeu"
+LAST_MODIFIED = "11/05/2000"
+STRING        = "Sueldos"
+
+[GAME_OVER_DEBITS_CURVE2]
+COMMENT       = "Courbes de fin de jeu"
+LAST_MODIFIED = "11/05/2000"
+STRING        = "Presupuesto para publicidad"
+
+[GAME_OVER_DEBITS_CURVE3]
+COMMENT       = "Courbes de fin de jeu"
+LAST_MODIFIED = "11/05/2000"
+STRING        = "Otros"
+
+
+[GAME_OVER_SCORE_MESSAGE_TIMER]
+COMMENT       = "Message sur l'ecran final donnant le bilan du joueur"
+LAST_MODIFIED = "17/05/2000"
+STRING        = "Dias:"
+
+[GAME_OVER_SCORE_MESSAGE_CASH]
+COMMENT       = "Message sur l'ecran final donnant le bilan du joueur"
+LAST_MODIFIED = "17/05/2000"
+STRING        = "Caja:"
+
+[GAME_OVER_SCORE_MESSAGE_SHARE]
+COMMENT       = "Message sur l'ecran final donnant le bilan du joueur"
+LAST_MODIFIED = "17/05/2000"
+STRING        = "Precio de acción:"
+
+[GAME_OVER_SCORE_MESSAGE_EMOTIVES]
+COMMENT       = "Message sur l'ecran final donnant le bilan du joueur"
+LAST_MODIFIED = "17/05/2000"
+STRING        = "Ventas emotivos:"
+
+[GAME_OVER_SCORE_MESSAGE_TECHNOIDS]
+COMMENT       = "Message sur l'ecran final donnant le bilan du joueur"
+LAST_MODIFIED = "17/05/2000"
+STRING        = "Ventas técnicos:"
+
+
+
+; *****************************************************************************
+;
+;	GAME MENU
+;
+; *****************************************************************************
+[GAME_MENU_BACK_MAIN_MENU]
+COMMENT="Retour"
+LAST_MODIFIED="1/10/2000"
+STRING="Volver"
+
+[GAME_MENU_CANCEL]
+COMMENT="Annuler"
+LAST_MODIFIED="1/10/2000"
+STRING="Cancelar"
+
+
+[GAME_MENU_MAIN_TITLE]
+COMMENT="Game Menu : menu principal"
+LAST_MODIFIED="1/10/2000"
+STRING="MENÚ PRINCIPAL"
+
+[GAME_MENU_TITLE]
+COMMENT="Game Menu : Titre"
+LAST_MODIFIED="1/10/2000"
+STRING="MENÚ  "
+
+[GAME_MENU_RESUMEGAME]
+COMMENT="Game Menu : Reprendre la partie"
+LAST_MODIFIED="1/10/2000"
+STRING="Reanudar juego"
+
+[GAME_MENU_NEWGAME]
+COMMENT="Game Menu : Nouvelle partie"
+LAST_MODIFIED="1/10/2000"
+STRING="Juego offline"
+
+[GAME_MENU_SAVEGAME]
+COMMENT="Game Menu : Sauvegarder la partie courante"
+LAST_MODIFIED="1/10/2000"
+STRING="GUARDAR"
+
+[GAME_MENU_QUITTER]
+COMMENT="Game Menu : Quitter la partie courante"
+LAST_MODIFIED="1/10/2000"
+STRING="¿Seguro que deseas salir?"
+
+[GAME_MENU_SAVEGAME_BUTTON]
+COMMENT="Game Menu : Sauvegarder la partie sélectionné"
+LAST_MODIFIED="1/10/2000"
+STRING="Guardar"
+
+[GAME_MENU_OPTION]
+COMMENT="Game Menu : Régler les options"
+LAST_MODIFIED="1/10/2000"
+STRING="Opciones"
+
+[GAME_MENU_NETWORK]
+COMMENT="Game Menu : Commencer une partie multi-joueurs"
+LAST_MODIFIED="1/10/2000"
+STRING="Juego online"
+
+[GAME_MENU_CREDITS]
+COMMENT="Game Menu : Afficher les crédits"
+LAST_MODIFIED="1/10/2000"
+STRING="Agradecimientos"
+
+[GAME_MENU_PLAY]
+COMMENT="Game Menu : Jouer"
+LAST_MODIFIED="1/10/2000"
+STRING="Jugar"
+
+
+[GAME_MENU_QUITGAME]
+COMMENT="Game Menu : bakcc to main menu"
+LAST_MODIFIED="1/10/2000"
+STRING="Volver al menú"
+
+[GAME_MENU_QUITAPPLICATION]
+COMMENT="Game Menu : Quitter le jeu"
+LAST_MODIFIED="1/10/2000"
+STRING="Salir de Crazy Factory"
+
+
+; *****************************************************************************
+;
+;	MENU PRINCIPAL - OFFLINE
+;
+; *****************************************************************************
+[GAME_MENU_OFFLINE_TUTORIAL]
+COMMENT="Game Menu : Mode tutorial"
+LAST_MODIFIED="1/10/2000"
+STRING="Tutorial"
+
+[TUTORIAL0_NAME]
+COMMENT       = "Nom du premier tutorial"
+LAST_MODIFIED = "11/04/2001"
+STRING        = "El laboratorio"
+
+[TUTORIAL1_NAME]
+COMMENT       = "Nom du second tutorial"
+LAST_MODIFIED = "11/04/2001"
+STRING        = "Producción"
+
+[TUTORIAL2_NAME]
+COMMENT       = "Nom du troisième tutorial"
+LAST_MODIFIED = "11/04/2001"
+STRING        = "El mercado"
+
+[TUTORIAL3_NAME]
+COMMENT       = "Nom du quatrième tutorial"
+LAST_MODIFIED = "11/04/2001"
+STRING        = "Estrategias de defensa y ataque"
+
+
+[GAME_MENU_OFFLINE_CAMPAIGN]
+COMMENT="Game Menu : Mode campagne"
+LAST_MODIFIED="1/10/2000"
+STRING="Juego de campaña"
+
+[GAME_MENU_OFFLINE_SOLO]
+COMMENT="Game Menu : Mode libre"
+LAST_MODIFIED="1/10/2000"
+STRING="Juego libre"
+
+[GAME_MENU_OFFLINE_LOADGAME]
+COMMENT="Game Menu : Charger une partie"
+LAST_MODIFIED="1/10/2000"
+STRING="Cargar juego"
+
+[GAME_MENU_OFFLINE_TITLE]
+COMMENT="Game Menu : TITLE"
+LAST_MODIFIED="1/10/2000"
+STRING="JUEGO OFFLINE"
+
+[GAME_MENU_OFFLINE_CAMPAIGN_TITLE]
+COMMENT="Game Menu : TITLE"
+LAST_MODIFIED="1/10/2000"
+STRING="JUEGO DE CAMPAÑA"
+
+[GAME_MENU_OFFLINE_LOAD_TITLE]
+COMMENT="Game Menu : TITLE"
+LAST_MODIFIED="1/10/2000"
+STRING="CARGAR  "
+
+
+; *****************************************************************************
+;
+;	MENU PRINCIPAL - NETWORK
+;
+; *****************************************************************************
+[GAME_WAIT_NETWORK]
+COMMENT="SYSTEM : attente deux autres joueurs"
+LAST_MODIFIED="1/10/2000"
+STRING="Esperando jugadores"
+
+[NETWORK_TITLE]
+COMMENT="Titre fenetre réseau principale"
+LAST_MODIFIED="1/10/2000"
+STRING="Juego online"
+
+[NETWORK_CUSTOM_TITLE]
+COMMENT="Titre pour partie personnalisée"
+LAST_MODIFIED="1/10/2000"
+STRING="Personalizar juego "
+
+[NETWORK_JOIN_LAN_TITLE]
+COMMENT="Titre pour partie LAN"
+LAST_MODIFIED="1/10/2000"
+STRING="Juego LAN"
+
+[NETWORK_JOIN_TCPIP_TITLE]
+COMMENT="Titre pour partie TCP/IP"
+LAST_MODIFIED="1/10/2000"
+STRING="Juego TCP/IP"
+
+[NETWORK_JOIN_IP_ADRESS]
+COMMENT="Adresse TCP/IP"
+LAST_MODIFIED="1/10/2000"
+STRING="Dirección IP"
+
+
+[NETWORK_JOIN_SESSION]
+COMMENT="Bouton pour rejoindre 1 partie réseau"
+LAST_MODIFIED="1/10/2000"
+STRING="Unirse al juego"
+
+[NETWORK_CREATE_SESSION]
+COMMENT="Bouton pour creer 1 partie réseau"
+LAST_MODIFIED="1/10/2000"
+STRING="Crear juego"
+
+[NETWORK_CONNECTION]
+COMMENT="Type de connection"
+LAST_MODIFIED="1/10/2000"
+STRING="Conexión"
+
+[NETWORK_CONNECTION_INTERNET]
+COMMENT="Type de connection : Internet TCP/IP"
+LAST_MODIFIED="19/01/2001"
+STRING="Juego en Internet"
+
+[NETWORK_CONNECTION_LAN]
+COMMENT="Type de connection : LAN TCP/IP"
+LAST_MODIFIED=19/01/2001"
+STRING="Juego LAN"
+
+[NETWORK_SESSION_LIST]
+COMMENT="Liste D sessions disponibles"
+LAST_MODIFIED="1/10/2000"
+STRING="Sesiones disponibles"
+
+[NETWORK_PLAYER_TYPE_HUMAN]
+COMMENT="Type de joueur"
+LAST_MODIFIED="1/10/2000"
+STRING="Humano"
+
+[NETWORK_PLAYER_TYPE_COMPUTER0]
+COMMENT="Type de joueur"
+LAST_MODIFIED="1/10/2000"
+STRING="Ordenador Emprendedor"
+
+[NETWORK_PLAYER_TYPE_COMPUTER1]
+COMMENT="Type de joueur"
+LAST_MODIFIED="1/10/2000"
+STRING="Ordenador Anarquista"
+
+[NETWORK_PLAYER_TYPE_COMPUTER2]
+COMMENT="Type de joueur"
+LAST_MODIFIED="1/10/2000"
+STRING="Ordenador Tecno"
+
+[NETWORK_PLAYER_TYPE_COMPUTER3]
+COMMENT="Type de joueur"
+LAST_MODIFIED="1/10/2000"
+STRING="Ordenador Publico General"
+
+[NETWORK_PLAYER_TYPE_COMPUTER4]
+COMMENT="Type de joueur"
+LAST_MODIFIED="1/10/2000"
+STRING="Ordenador Violento"
+
+[NETWORK_PLAYER_TYPE_COMPUTER5]
+COMMENT="Type de joueur"
+LAST_MODIFIED="1/10/2000"
+STRING="Ordenador Prudente"
+
+[NETWORK_PLAYER_TYPE_COMPUTER6]
+COMMENT="Type de joueur"
+LAST_MODIFIED="1/10/2000"
+STRING="Ordenador 'La Ganga'"
+
+[NETWORK_PLAYER_TYPE_COMPUTER7]
+COMMENT="Type de joueur"
+LAST_MODIFIED="1/10/2000"
+STRING="Ordenador Inactivo"
+
+[NETWORK_PLAYER_TYPE_COMPUTER_RANDOM]
+COMMENT="Type de joueur"
+LAST_MODIFIED="1/10/2000"
+STRING="Ordenador Caotico"
+
+
+[NETWORK_PLAYER_TYPE_CLOSED]
+COMMENT="Type de joueur"
+LAST_MODIFIED="1/10/2000"
+STRING="Cerrado"
+
+[NETWORK_IA_COOPERATIVE]
+COMMENT="IA Coopératives"
+LAST_MODIFIED="1/10/2000"
+STRING="IA conspiradora"
+
+[NETWORK_LAUNCH]
+COMMENT="Launch game"
+LAST_MODIFIED="1/10/2000"
+STRING="Crear"
+
+[NETWORK_PLAYER_NAME]
+COMMENT="Player name title"
+LAST_MODIFIED="1/10/2000"
+STRING="N. jugador"
+
+[NETWORK_PLAYER_TYPE]
+COMMENT="Player type title"
+LAST_MODIFIED="1/10/2000"
+STRING="Tipo de jugador"
+
+[NETWORK_PLAYER_START_CASH]
+COMMENT="Player start cash title"
+LAST_MODIFIED="1/10/2000"
+STRING="Caja"
+
+[NETWORK_PLAYER_PING]
+COMMENT="Player ping title"
+LAST_MODIFIED="1/10/2000"
+STRING="Ping"
+
+[NETWORK_PRODUCT_TYPE]
+COMMENT="Product type title"
+LAST_MODIFIED="1/10/2000"
+STRING="Producto"
+
+[NETWORK_PLAYER_LOGO]
+COMMENT="Player logo hint"
+LAST_MODIFIED="1/10/2000"
+STRING="Logotipo"
+
+
+; ----------------------
+; NETWORK ERROR MESSAGES
+
+[NETWORK_TCPIP_NOT_AVAILABLE]
+COMMENT="TCP/IP connexion is not available"
+LAST_MODIFIED="7/02/2001"
+STRING="La conexión TCP/IP no está disponible"
+
+[NETWORK_CANNOT_CREATE_SERVER]
+COMMENT="Unable to launch server"
+LAST_MODIFIED="7/02/2001"
+STRING="Imposible lanzar servidor"
+
+[NETWORK_CANNOT_INITIALIZE_CONNECTION]
+COMMENT="Unable to initialize TCP/IP connexion"
+LAST_MODIFIED="7/02/2001"
+STRING="Imposible iniciar conexión TCP/IP"
+
+[NETWORK_CANNOT_JOIN_SERVER_SESSION]
+COMMENT="Unable to join server session"
+LAST_MODIFIED="7/02/2001"
+STRING="Imposible unirse a la sesión del servidor"
+
+[NETWORK_SESSION_LOST]
+COMMENT="Session lost"
+LAST_MODIFIED="7/02/2001"
+STRING="Sesión perdida"
+
+[NETWORK_SERVER_DISCONNECTED]
+COMMENT="Server has disconnected"
+LAST_MODIFIED="7/02/2001"
+STRING="El servidor se ha desconectado"
+
+[NETWORK_HOST_DISCONNECTED]
+COMMENT="Host has disconnected"
+LAST_MODIFIED="15/03/2001"
+STRING="El host se ha desconectado"
+
+[NETWORK_REJECT_PLAYER]
+COMMENT="You were rejected from the game"
+LAST_MODIFIED="7/02/2001"
+STRING="Has sido descalificado del juego"
+
+[NETWORK_NO_SESSION_SELECTED]
+COMMENT="Select a session first"
+LAST_MODIFIED="7/02/2001"
+STRING="Elige una sesión"
+
+[NETWORK_NO_IP_ADDRESS]
+COMMENT       = "Enter a valid IP address x.x.x.x"
+LAST_MODIFIED = "24/04/2001"
+STRING        = "Teclea una dirección IP válida x.x.x.x"
+
+[NETWORK_CONNECTION_LOST]
+COMMENT="Connection lost"
+LAST_MODIFIED="7/02/2001"
+STRING="Conexión perdida"
+
+[NETWORK_MEDIUM_BUSY]
+COMMENT="Network medium busy"
+LAST_MODIFIED="7/02/2001"
+STRING="Red medio ocupada"
+
+[NETWORK_NOT_LOGGED_IN]
+COMMENT="Not logged in"
+LAST_MODIFIED="7/02/2001"
+STRING="Jugador no registrado"
+
+[NETWORK_SEND_TOO_BIG]
+COMMENT="Send too big"
+LAST_MODIFIED="7/02/2001"
+STRING="Envío demasiado grande"
+
+; ----------------------
+; NETWORK INFO MESSAGES
+
+[NETWORK_HOST_CREATION]
+COMMENT="Creating server, please wait..."
+LAST_MODIFIED="7/02/2001"
+STRING="Sincronizando, por favor espera..."
+
+[NETWORK_TCPIP_JOIN]
+COMMENT="Attempting to join remote server, please wait..."
+LAST_MODIFIED="7/02/2001"
+STRING="Intentando conexión a servidor remoto, por favor espera…"
+
+[NETWORK_LAN_JOIN]
+COMMENT="Attempting to join session, please wait..."
+LAST_MODIFIED="7/02/2001"
+STRING="Intentando conexión a sesión, por favor espera…"
+
+[NETWORK_SESSION_CREATED]
+COMMENT       = ": session created"
+LAST_MODIFIED = "24/04/2001"
+STRING        = ": sesión creada"
+
+[NETWORK_SESSION_JOINED]
+COMMENT       = ": session joined"
+LAST_MODIFIED = "24/04/2001"
+STRING        = ": sesión abierta"
+
+[NETWORK_KICK_FROM_GAME]
+COMMENT="You were kicked from the game"
+LAST_MODIFIED="14/03/2001"
+STRING="Has sido expulsado del juego"
+
+[NETWORK_PLAYER_LEFT_GAME]
+COMMENT="has left the game"
+LAST_MODIFIED="15/03/2001"
+STRING="ha salido del juego"
+
+[NETWORK_PLAYER_JOIN_GAME]
+COMMENT="has joined the game"
+LAST_MODIFIED="15/03/2001"
+STRING="se ha unido al juego"
+
+
+; *****************************************************************************
+;
+;	MENU PRINCIPAL - OPTIONS
+;
+; *****************************************************************************
+[OPTIONS_TITLE]
+COMMENT="Titre principal"
+LAST_MODIFIED="1/10/2000"
+STRING="OPCIONES"
+
+[OPTIONS_SOUND_TITLE]
+COMMENT="Titre principal pour l'affichage D options sonores"
+LAST_MODIFIED="1/10/2000"
+STRING="Sonido"
+
+[OPTIONS_DISPLAY_TITLE]
+COMMENT="Titre principal pour l'affichage D options graphiques"
+LAST_MODIFIED="1/10/2000"
+STRING="Imagen"
+
+[OPTIONS_HIGH_RESOLUTION]
+COMMENT="Bouton déterminant si l'on doit utilisé la haute résolution ou non"
+LAST_MODIFIED="1/10/2000"
+STRING="Alta resolución"
+
+[OPTIONS_GAME_SHADOW]
+COMMENT="Bouton déterminant si les ombres doivent etre affichées"
+LAST_MODIFIED="1/10/2000"
+STRING="Sombra duende"
+
+[OPTIONS_MOUSE_SHADOW]
+COMMENT="Bouton déterminant si la souris doit avoir 1 ombre ou pas"
+LAST_MODIFIED="1/10/2000"
+STRING="Sombra ratón"
+
+[OPTIONS_SOUND_CD]
+COMMENT="Volume des musiques"
+LAST_MODIFIED="1/10/2000"
+STRING="Volumen de la música"
+
+[OPTIONS_SOUND_WAVE]
+COMMENT="Volume des sons"
+LAST_MODIFIED="1/10/2000"
+STRING="Volumen de los efectos sonoros"
+
+[OPTIONS_SOUND_MASTER]
+COMMENT="Volume global"
+LAST_MODIFIED="1/10/2000"
+STRING="Volumen general"
+
+[OPTIONS_PLAYER_NAME]
+COMMENT="Nom du joueur"
+LAST_MODIFIED="1/10/2000"
+STRING="Nombre del jugador"
+
+
+
+; *****************************************************************************
+;
+;	LOWER BAR
+;
+; *****************************************************************************
+[BUTTON_PERSO]
+COMMENT="Bouton sélectionnant l'onglet Personnage dans la barre inférieure"
+LAST_MODIFIED="1/10/2000"
+STRING="Personal"
+
+[BUTTON_POSTE]
+COMMENT="Bouton sélectionnant l'onglet Poste De Travail dans la barre inférieure"
+LAST_MODIFIED="1/10/2000"
+STRING="Equipo"
+
+[BUTTON_ACTION]
+COMMENT="Bouton sélectionnant l'onglet Actions dans la barre inférieure"
+LAST_MODIFIED="1/10/2000"
+STRING="Acciones"
+
+[BUTTON_TOGGLEIN]
+COMMENT="Bouton permettant d'aller dans la vue intérieure"
+LAST_MODIFIED="1/10/2000"
+STRING="Dentro"
+
+[BUTTON_TOGGLEOUT]
+COMMENT="Bouton permettant d'aller dans la vue extérieure"
+LAST_MODIFIED="1/10/2000"
+STRING="Fuera"
+
+
+; *****************************************************************************
+;
+;	LOWER BAR - CURVES
+;
+; *****************************************************************************
+[BUTTON_CURVE_SELL]
+COMMENT="Barre inférieure (gestion des courbes) : Affiche les ventes du produit"
+LAST_MODIFIED="1/10/2000"
+STRING="Ventas "
+
+[BUTTON_CURVE_CASH]
+COMMENT="Barre inférieure (gestion des courbes) : Affiche le montant d'argent disponible"
+LAST_MODIFIED="1/10/2000"
+STRING="Caja"
+
+[BUTTON_CURVE_BALANCE]
+COMMENT="Barre inférieure (gestion des courbes) : Affiche la balance commerciale"
+LAST_MODIFIED="1/10/2000"
+STRING="Balanza comercial"
+
+[BUTTON_CURVE_ACTION]
+COMMENT="Barre inférieure (gestion des courbes) : Affiche le prix de l'action"
+LAST_MODIFIED="1/10/2000"
+STRING="Precio de las acciones"
+
+[GRAPH_CURVES]
+COMMENT="Barre inférieure (gestion des courbes) : Courbes de jeu"
+LAST_MODIFIED="1/10/2000"
+STRING="Gráficos"
+
+
+; *****************************************************************************
+;
+;	LOWER BAR - PEOPLE
+;
+; *****************************************************************************
+
+[LB_PANNEL_PEOPLE_TEXT_CURRENT_SALARY]
+COMMENT="Barre inférieure (panneau employé) : Salaire courant de l'employé - TEXTE STATIQUE AFFICHE DANS L'INTERFACE"
+LAST_MODIFIED="1/10/2000"
+STRING="Sueldo"
+
+[LB_PANNEL_PEOPLE_TEXT_MORAL]
+COMMENT="Barre inférieure (panneau employé) : Moral courant de l'employé - TEXTE STATIQUE AFFICHE DANS L'INTERFACE"
+LAST_MODIFIED="1/10/2000"
+STRING="Moral"
+
+[LB_PANNEL_PEOPLE_TEXT_EFFICIENCY]
+COMMENT="Barre inférieure (panneau employé) : Efficacité courante de l'employé - TEXTE STATIQUE AFFICHE DANS L'INTERFACE"
+LAST_MODIFIED="1/10/2000"
+STRING="Eficacia"
+
+[LB_PANNEL_PEOPLE_TEXT_LEVEL]
+COMMENT="Barre inférieure (panneau employé) : Niveau de l'employé - TEXTE STATIQUE AFFICHE DANS L'INTERFACE"
+LAST_MODIFIED="1/10/2000"
+STRING="Nivel"
+
+[LB_PANNEL_PEOPLE_BUTTON_INCREASE_SALARY]
+COMMENT="Barre inférieure (panneau employé) : Augmenter le salaire de l'employé"
+LAST_MODIFIED="1/10/2000"
+STRING="Aumento de sueldo"
+
+[LB_PANNEL_PEOPLE_BUTTON_DECREASE_SALARY]
+COMMENT="Barre inférieure (panneau employé) : Diminuer le salaire de l'employé"
+LAST_MODIFIED="1/10/2000"
+STRING="Reducción de sueldo"
+
+[LB_PANNEL_PEOPLE_LISTBOX_DESC]
+COMMENT="Barre inférieure (panneau employé) : Donne la description de l'employé"
+LAST_MODIFIED="1/10/2000"
+STRING="Descripción"
+
+[LB_PANNEL_PEOPLE_GAUGE_MORAL]
+COMMENT="Barre inférieure (panneau employé) : Jauge indiquant le moral de l'employé"
+LAST_MODIFIED="1/10/2000"
+STRING="Moral"
+
+[LB_PANNEL_PEOPLE_GAUGE_EFFICIENCY]
+COMMENT="Barre inférieure (panneau employé) : Jauge indiquant l'efficacité de l'employé"
+LAST_MODIFIED="1/10/2000"
+STRING="Eficacia"
+
+[LB_PANNEL_PEOPLE_GAUGE_LEVEL]
+COMMENT="Barre inférieure (panneau employé) : Jauge indiquand le niveau de l'employé"
+LAST_MODIFIED="1/10/2000"
+STRING="Nivel"
+
+[LB_PANNEL_PEOPLE_ENGAGE]
+COMMENT="Barre inférieure (panneau employé) : Engager la personne sélectionnée"
+LAST_MODIFIED="1/10/2000"
+STRING="Contratar"
+
+[LB_PANNEL_PEOPLE_DISMISS]
+COMMENT="Barre inférieure (panneau employé) : Virer l'employé courant"
+LAST_MODIFIED="1/10/2000"
+STRING="Despedir"
+
+[LB_PANNEL_PEOPLE_FORMATION_MORAL]
+COMMENT="Barre inférieure (panneau employé) : Envoyer l'employé en formation pour augementer son moral"
+LAST_MODIFIED="1/10/2000"
+STRING="Seminario de motivación"
+
+[LB_PANNEL_PEOPLE_FORMATION_LEVEL]
+COMMENT="Barre inférieure (panneau employé) : Envoyer l'employé en formation pour augementer son niveau"
+LAST_MODIFIED="1/10/2000"
+STRING="Entrenamiento de nivel"
+
+[LB_PANNEL_PEOPLE_FORMATION_EFFICIENCY]
+COMMENT="Barre inférieure (panneau employé) : Envoyer l'employé en formation pour augementer son efficacité"
+LAST_MODIFIED="1/10/2000"
+STRING="Entrenamiento de eficacia"
+
+
+
+; *****************************************************************************
+;
+;	LOWER BAR - WORKSTATION
+;
+; *****************************************************************************
+
+[LB_PANNEL_WORKSTATION_TEXT_CURRENT_COST]
+COMMENT="Barre inférieure (panneau poste de travail) : Coût du poste de travail - TEXTE STATIQUE AFFICHE DANS L'INTERFACE"
+LAST_MODIFIED="1/10/2000"
+STRING="Coste"
+
+[LB_PANNEL_WORKSTATION_TEXT_INTEGRITY]
+COMMENT="Barre inférieure (panneau poste de travail) : Usure du poste de travail - (UNIQUEMENT MACHINE PROD & MACHINE CHIEF PROD)- TEXTE STATIQUE AFFICHE DANS L'INTERFACE"
+LAST_MODIFIED="1/10/2000"
+STRING="Desgaste"
+
+[LB_PANNEL_WORKSTATION_TEXT_EFFICIENCY]
+COMMENT="Barre inférieure (panneau poste de travail) : Efficacité du poste de travail - TEXTE STATIQUE AFFICHE DANS L'INTERFACE"
+LAST_MODIFIED="1/10/2000"
+STRING="Eficacia"
+
+[LB_PANNEL_WORKSTATION_TEXT_LEVEL]
+COMMENT="Barre inférieure (panneau poste de travail) : Niveau du poste de travail - TEXTE STATIQUE AFFICHE DANS L'INTERFACE"
+LAST_MODIFIED="1/10/2000"
+STRING="Nivel"
+
+[LB_PANNEL_WORKSTATION_LISTBOX_DESC]
+COMMENT="Barre inférieure (panneau poste de travail) : Donne la description du poste de travail"
+LAST_MODIFIED="1/10/2000"
+STRING="Descripción"
+
+[LB_PANNEL_WORKSTATION_GAUGE_INTEGRITY]
+COMMENT="Barre inférieure (panneau poste de travail) : Indique l'usure du poste de travail - (UNIQUEMENT MACHINE PROD & MACHINE CHIEF PROD)"
+LAST_MODIFIED="1/10/2000"
+STRING="Desgaste"
+
+[LB_PANNEL_WORKSTATION_GAUGE_EFFICIENCY]
+COMMENT="Barre inférieure (panneau poste de travail) : Indique le coût du poste de travail sélectionné"
+LAST_MODIFIED="1/10/2000"
+STRING="Eficacia"
+
+[LB_PANNEL_WORKSTATION_GAUGE_LEVEL]
+COMMENT="Barre inférieure (panneau poste de travail) : Indique le niveau du poste de travail sélectionné"
+LAST_MODIFIED="1/10/2000"
+STRING="Nivel"
+
+[LB_PANNEL_WORKSTATION_BUY]
+COMMENT="Barre inférieure (panneau poste de travail) : Achat d'un nouveau poste de travail"
+LAST_MODIFIED="1/10/2000"
+STRING="Comprar"
+
+
+
+; *****************************************************************************
+;
+;	LOWER BAR - ACTION
+;
+; *****************************************************************************
+
+[LB_PANNEL_ACTION_LISTBOX_DESC]
+COMMENT="Barre inférieure (panneau action) : [ACF] Text contenant une description"
+LAST_MODIFIED="1/10/2000"
+STRING="Descripción"
+
+[LB_PANNEL_ACTION_BUTTON_COMPONENT]
+COMMENT="Barre inférieure (panneau action) : Bouton indiquant le composant que l'on développe"
+LAST_MODIFIED="1/10/2000"
+STRING="Categoría del componente"
+
+[LB_PANNEL_ACTION_BUTTON_REGULATING]
+COMMENT="Barre inférieure (panneau action) : Bouton permettant le réglage des actions continues & ponctuelles"
+LAST_MODIFIED="1/10/2000"
+STRING="Calendario"
+
+[LB_PANNEL_ACTION_BUTTON_VALIDATE]
+COMMENT="Barre inférieure (panneau action) : Bouton validant les choix dans l'arbre technologique"
+LAST_MODIFIED="1/10/2000"
+STRING="Iniciar investigación"
+
+; *****************************************************************************
+;
+;	LOWER BAR - ACTION PANEL (TECHNO TREE)
+;
+; *****************************************************************************
+[LB_ACTION_TECHNO_TREE_TEXT1]
+COMMENT="Barre inférieure (panneau action - Arbre techno) : Niveau de technicité"
+LAST_MODIFIED="1/10/2000"
+STRING="Técnicos"
+
+[LB_ACTION_TECHNO_TREE_TEXT2]
+COMMENT="Barre inférieure (panneau action - Arbre techno) : Design"
+LAST_MODIFIED="1/10/2000"
+STRING="Diseño"
+
+; *****************************************************************************
+;
+;	LOWER BAR - ACTION PANEL
+;
+; *****************************************************************************
+[LB_ACTION_FINANCIER_TEXT1_HINT]
+COMMENT="Barre inférieure (panneau action) : Action continue du financier (infobulle)"
+LAST_MODIFIED="1/10/2000"
+STRING="Limpia las cuentas para escapar de hacienda"
+
+[LB_ACTION_FINANCIER_TEXT1]
+COMMENT="Barre inférieure (panneau action) : Action continue du financier"
+LAST_MODIFIED="1/10/2000"
+STRING="Limpieza"
+
+[LB_ACTION_FINANCIER_TEXT2_HINT]
+COMMENT="Barre inférieure (panneau action) : Action continue du financier (infobulle)"
+LAST_MODIFIED="1/10/2000"
+STRING="Nuevos préstamos para más financiación"
+
+[LB_ACTION_FINANCIER_TEXT2]
+COMMENT="Barre inférieure (panneau action) : Action continue du financier"
+LAST_MODIFIED="1/10/2000"
+STRING="Finanzas"
+
+
+[LB_ACTION_DRH_TEXT1_HINT]
+COMMENT="Barre inférieure (panneau action) : Action continue de la DRH (infobulle)"
+LAST_MODIFIED="1/10/2000"
+STRING="Buscar nuevos candidatos"
+
+[LB_ACTION_DRH_TEXT1]
+COMMENT="Barre inférieure (panneau action) : Action continue de la DRH"
+LAST_MODIFIED="1/10/2000"
+STRING="Contratación"
+
+[LB_ACTION_DRH_TEXT2_HINT]
+COMMENT="Barre inférieure (panneau action) : Action continue de la DRH (infobulle)"
+LAST_MODIFIED="1/10/2000"
+STRING="Robar empleados de tus rivales"
+
+[LB_ACTION_DRH_TEXT2]
+COMMENT="Barre inférieure (panneau action) : Action continue de la DRH"
+LAST_MODIFIED="1/10/2000"
+STRING="Robar  "
+
+
+[LB_ACTION_PUB_TEXT1_HINT]
+COMMENT="Barre inférieure (panneau action) : Action continue du publicitaire (infobulle)"
+LAST_MODIFIED="1/10/2000"
+STRING="Optimiza el presupuesto para hacer publicidad para los técnicos"
+
+[LB_ACTION_PUB_TEXT1]
+COMMENT="Barre inférieure (panneau action) : Action continue du publicitaire"
+LAST_MODIFIED="1/10/2000"
+STRING="Prensa técnica"
+
+[LB_ACTION_PUB_TEXT2_HINT]
+COMMENT="Barre inférieure (panneau action) : Action continue du publicitaire (infobulle)"
+LAST_MODIFIED="1/10/2000"
+STRING="Optimiza el presupuesto para hacer publicidad para los emotivos"
+
+[LB_ACTION_PUB_TEXT2]
+COMMENT="Barre inférieure (panneau action) : Action continue du publicitaire"
+LAST_MODIFIED="1/10/2000"
+STRING="Publicidad TV"
+
+
+[LB_ACTION_COM_TEXT1_HINT]
+COMMENT="Barre inférieure (panneau action) : Action continue du commercial (infobulle)"
+LAST_MODIFIED="1/10/2000"
+STRING="Negociar con el distribuidor"
+
+[LB_ACTION_COM_TEXT1]
+COMMENT="Barre inférieure (panneau action) : Action continue du commercial"
+LAST_MODIFIED="1/10/2000"
+STRING="Negociar "
+
+[LB_ACTION_COM_TEXT2_HINT]
+COMMENT="Barre inférieure (panneau action) : Action continue du commercial (infobulle)"
+LAST_MODIFIED="1/10/2000"
+STRING="Ubicación del producto para una buena imagen del producto"
+
+[LB_ACTION_COM_TEXT2]
+COMMENT="Barre inférieure (panneau action) : Action continue du commercial"
+LAST_MODIFIED="1/10/2000"
+STRING="Puesto producto"
+
+
+
+[LB_ACTION_MANUT_CHIEF_TEXT1_HINT]
+COMMENT="Barre inférieure (panneau action) : Action continue du chef manut (infobulle)"
+LAST_MODIFIED="1/10/2000"
+STRING="Regular producción"
+
+[LB_ACTION_MANUT_CHIEF_TEXT1]
+COMMENT="Barre inférieure (panneau action) : Action continue du chef manut"
+LAST_MODIFIED="1/10/2000"
+STRING="Producción"
+
+[LB_ACTION_MANUT_CHIEF_TEXT2_HINT]
+COMMENT="Barre inférieure (panneau action) : Action continue du chef manut (infobulle)"
+LAST_MODIFIED="1/10/2000"
+STRING="Montar componentes"
+
+[LB_ACTION_MANUT_CHIEF_TEXT2]
+COMMENT="Barre inférieure (panneau action) : Action continue du chef manut"
+LAST_MODIFIED="1/10/2000"
+STRING="Montaje"
+
+[LB_ACTION_MANUT_CHIEF_TEXT3_HINT]
+COMMENT="Barre inférieure (panneau action) : Action continue du chef manut (infobulle)"
+LAST_MODIFIED="1/10/2000"
+STRING="Reparar maquinaria de montaje"
+
+[LB_ACTION_MANUT_CHIEF_TEXT3]
+COMMENT="Barre inférieure (panneau action) : Action continue du chef manut"
+LAST_MODIFIED="1/10/2000"
+STRING="Reparación"
+
+
+[LB_ACTION_MANUT_TEXT1_HINT]
+COMMENT="Barre inférieure (panneau action) : Action continue du manut (infobulle)"
+LAST_MODIFIED="1/10/2000"
+STRING="Fabricar componentes"
+
+[LB_ACTION_MANUT_TEXT1]
+COMMENT="Barre inférieure (panneau action) : Action continue du manut"
+LAST_MODIFIED="1/10/2000"
+STRING="Fabricación"
+
+[LB_ACTION_MANUT_TEXT2_HINT]
+COMMENT="Barre inférieure (panneau action) : Action continue du manut (infobulle)"
+LAST_MODIFIED="1/10/2000"
+STRING="Reparar máquina componente"
+
+[LB_ACTION_MANUT_TEXT2]
+COMMENT="Barre inférieure (panneau action) : Action continue du manut"
+LAST_MODIFIED="1/10/2000"
+STRING="Reparación"
+
+
+[LB_ACTION_GUARDIAN_TEXT1_HINT]
+COMMENT="Barre inférieure (panneau action) : Action continue du guardien (infobulle)"
+LAST_MODIFIED="1/10/2000"
+STRING="Protege los departamentos de administración y marketing de los espías"
+
+[LB_ACTION_GUARDIAN_TEXT1]
+COMMENT="Barre inférieure (panneau action) : Action continue du guardien"
+LAST_MODIFIED="1/10/2000"
+STRING="Adm y marketing"
+
+[LB_ACTION_GUARDIAN_TEXT2_HINT]
+COMMENT="Barre inférieure (panneau action) : Action continue du guardien (infobulle)"
+LAST_MODIFIED="1/10/2000"
+STRING="Protege el departamento de producción de los espías"
+
+[LB_ACTION_GUARDIAN_TEXT2]
+COMMENT="Barre inférieure (panneau action) : Action continue du guardien"
+LAST_MODIFIED="1/10/2000"
+STRING="Producción"
+
+[LB_ACTION_GUARDIAN_TEXT3_HINT]
+COMMENT="Barre inférieure (panneau action) : Action continue du guardien (infobulle)"
+LAST_MODIFIED="1/10/2000"
+STRING="Protege el laboratorio de los espías"
+
+[LB_ACTION_GUARDIAN_TEXT3]
+COMMENT="Barre inférieure (panneau action) : Action continue du guardien"
+LAST_MODIFIED="1/10/2000"
+STRING="Laboratorio"
+
+
+
+; *****************************************************************************
+;
+;	UPPER BAR
+;
+; *****************************************************************************
+
+[BUTTON_MENU]
+COMMENT="Barre supérieure () : Affiche le menu pendant le jeu"
+LAST_MODIFIED="1/10/2000"
+STRING="Volver al menú"
+
+[BUTTON_INDICATOR]
+COMMENT="Barre supérieure () : Permet de sélectionner l'onglet Indicateurs"
+LAST_MODIFIED="1/10/2000"
+STRING="Indicadores"
+
+[BUTTON_CREDIT_DEBIT]
+COMMENT="Barre supérieure () : Permet de sélectionner l'onglet credits / debits"
+LAST_MODIFIED="1/10/2000"
+STRING="Libro de contabilidad"
+
+[BUTTON_FINANCE]
+COMMENT="Barre supérieure () : Permet de sélectionner l'onglet financement"
+LAST_MODIFIED="1/10/2000"
+STRING="Finanzas"
+
+[BUTTON_NEWS]
+COMMENT="Barre supérieure () : Permet de sélectionner l'onglet des news"
+LAST_MODIFIED="1/10/2000"
+STRING="Correo"
+
+[UB_BALANCE]
+COMMENT="Barre supérieure () : Balance du joueur"
+LAST_MODIFIED="1/10/2000"
+STRING="Balanza comercial"
+
+[UB_CASH]
+COMMENT="Barre supérieure () : Argent disponible pour le joueur"
+LAST_MODIFIED="1/10/2000"
+STRING="Saldo de caja"
+
+[UB_DATE]
+COMMENT="Barre supérieure () : Affiche la date courante pendant le jeu"
+LAST_MODIFIED="1/10/2000"
+STRING="Fecha"
+
+[UB_EMPLOYEES]
+COMMENT="Barre supérieure () : Affiche le nombre d'employés  du joueur courant"
+LAST_MODIFIED="1/10/2000"
+STRING="Número de empleados"
+
+
+
+; *****************************************************************************
+;
+;	PANNELS - INDICATORS
+;
+; *****************************************************************************
+[PANNEL_INDICATORS]
+COMMENT="Onglet (Indicateurs) : Titre de l'onglet (EN MAJUSCULES)"
+LAST_MODIFIED="1/10/2000"
+STRING="INDICADORES"
+
+[PANNEL_INDICATORS_SOLDE]
+COMMENT       = "Onglet (Indicateurs) : Solde de tout compte"
+LAST_MODIFIED = "4/20/2000"
+STRING        = "Linea de rentabilidad"
+
+[PANNEL_INDICATORS_DEBTS]
+COMMENT="Onglet (Indicateurs) : Dettes"
+LAST_MODIFIED="1/10/2000"
+STRING="Deuda:"
+
+[PANNEL_INDICATORS_FALLING_DUE]
+COMMENT="Onglet (Indicateurs) : Echéances"
+LAST_MODIFIED="1/10/2000"
+STRING="Vencimiento:"
+
+[PANNEL_INDICATORS_ACTION_PRICE]
+COMMENT="Onglet (Indicateurs) : Prix de l'action"
+LAST_MODIFIED="1/10/2000"
+STRING="Precio de acción:"
+
+[PANNEL_INDICATORS_PRODUCTION]
+COMMENT="Onglet (Indicateurs) : Production courante"
+LAST_MODIFIED="1/10/2000"
+STRING="Producción:"
+
+[PANNEL_INDICATORS_PRODUCTS_SOLD]
+COMMENT="Onglet (Indicateurs) : Nombre de produits vendus"
+LAST_MODIFIED="1/10/2000"
+STRING="Unidades vendidas:"
+
+[PANNEL_INDICATORS_STOCKS]
+COMMENT="Onglet (Indicateurs) : Nombre de produits en stock"
+LAST_MODIFIED="1/10/2000"
+STRING="Existencias:"
+
+[PANNEL_INDICATORS_PRIX_COMPOSANTS]
+COMMENT       = "Onglet (Indicateurs) : Prix des composants"
+LAST_MODIFIED = "4/20/2000"
+STRING        = "Precio de los componentes"
+
+[PANNEL_INDICATORS_MARGE_JOUEUR]
+COMMENT       = "Onglet (Indicateurs) : Marge du joueur"
+LAST_MODIFIED = "4/20/2000"
+STRING        = "Margen del jugador"
+
+[PANNEL_INDICATORS_MARGE_DISTRIBUTEUR]
+COMMENT       = "Onglet (Indicateurs) : Marge du distributeur"
+LAST_MODIFIED = "4/20/2000"
+STRING        = "Margen del distribuidor"
+
+[PANNEL_INDICATORS_PRIX_VENTE]
+COMMENT       = "Onglet (Indicateurs) : Prix de vente"
+LAST_MODIFIED = "4/20/2000"
+STRING        = "Precio de venta"
+
+[PANNEL_INDICATORS_FISCAL_RISK]
+COMMENT="Onglet (Indicateurs) : Risque de contrôle fiscal"
+LAST_MODIFIED="1/10/2000"
+STRING="Riesgo fiscal:"
+
+[PANNEL_INDICATORS_SECURITY_PRODUCTION]
+COMMENT="Onglet (Indicateurs) : Sécurité au sein de la production"
+LAST_MODIFIED="1/10/2000"
+STRING="Nivel de seguridad  producción: "
+
+[PANNEL_INDICATORS_SECURITY_LABORATORY]
+COMMENT="Onglet (Indicateurs) : Sécurité au sein du laboratoire"
+LAST_MODIFIED="1/10/2000"
+STRING="Nivel de seguridad laboratorio:"
+
+[PANNEL_INDICATORS_SECURITY_MARKETING]
+COMMENT="Onglet (Indicateurs) : Sécurité au sein du marketing"
+LAST_MODIFIED="1/10/2000"
+STRING="Nivel de seguridad marketing:"
+
+[PANNEL_INDICATORS_SECURITY_ADMINISTRATION]
+COMMENT="Onglet (Indicateurs) : Sécurité au sein de l'administration"
+LAST_MODIFIED="1/10/2000"
+STRING="Nivel de seguridad administración:"
+
+[PANNEL_INDICATORS_PUBLIC_NOTORIETY]
+COMMENT="Onglet (Indicateurs) : Notoriété de la société"
+LAST_MODIFIED="1/10/2000"
+STRING="Reputación:"
+
+[PANNEL_INDICATORS_PUB]
+COMMENT="Onglet (Indicateurs) : Budget publicitaire"
+LAST_MODIFIED="1/10/2000"
+STRING="Presupuesto para publicidad:"
+
+[PANNEL_INDICATORS_PRODUCT_IMAGE]
+COMMENT="Onglet (Indicateurs) : Image du produit"
+LAST_MODIFIED="1/10/2000"
+STRING="Imagen del producto:"
+
+[PANNEL_INDICATORS_MARKET]
+COMMENT="Onglet (Indicateurs) : Parts du marché"
+LAST_MODIFIED="1/10/2000"
+STRING="CUOTA DE MERCADO:"
+
+
+[PANNEL_INDICATORS_PRODUCT_NOTE]
+COMMENT       = "Onglet (Indicateurs) : Note du produit"
+LAST_MODIFIED = "11/04/2001"
+STRING        = "Nota del producto :"
+
+
+; *****************************************************************************
+;
+;	PANNELS - FINANCING
+;
+; *****************************************************************************
+[PANNEL_FINANCING]
+COMMENT="Onglet (Financement) : Titre de l'onglet (EN MAJUSCULES)"
+LAST_MODIFIED="1/10/2000"
+STRING="FINANZAS"
+
+[PANNEL_FINANCING_LOAN]
+COMMENT="Onglet (Financement) : Emprunter de l'argent"
+LAST_MODIFIED="1/10/2000"
+STRING="Pedir préstamo"
+
+[PANNEL_FINANCING_SUGGEST_SUM]
+COMMENT="Onglet (Financement) : Proposer une somme"
+LAST_MODIFIED="1/10/2000"
+STRING="Préstamo solicitado"
+
+[PANNEL_FINANCING_FINANCIAL]
+COMMENT="Onglet (Financement) : Financeur"
+LAST_MODIFIED="1/10/2000"
+STRING="Acreedor"
+
+[PANNEL_FINANCING_RATE]
+COMMENT="Onglet (Financement) : Taux d'emprunt"
+LAST_MODIFIED="1/10/2000"
+STRING="Interés"
+
+[PANNEL_FINANCING_DURATION]
+COMMENT="Onglet (Financement) : Durée du crédit"
+LAST_MODIFIED="1/10/2000"
+STRING="Vencido:"
+
+
+; *****************************************************************************
+;
+;	PANNELS - CREDIT-DEBIT
+;
+; *****************************************************************************
+[PANNEL_CREDIT]
+COMMENT="Onglet (Crédits/Débits) : Titre de l'onglet (EN MAJUSCULES)"
+LAST_MODIFIED="1/10/2000"
+STRING="INGRESOS"
+
+[PANNEL_DEBIT]
+COMMENT="Onglet (Crédits/Débits) : Titre de l'onglet (EN MAJUSCULES)"
+LAST_MODIFIED="1/10/2000"
+STRING="GASTOS"
+
+[PANNEL_DEBIT_EMPLOYES]
+COMMENT="Onglet (Crédits/Débits) : Dépenses Employés"
+LAST_MODIFIED="1/10/2000"
+STRING="EMPLEADOS"
+
+[PANNEL_DEBIT_SALARY]
+COMMENT="Onglet (Crédits/Débits) : Salaire"
+LAST_MODIFIED="1/10/2000"
+STRING="Sueldos"
+
+[PANNEL_DEBIT_INDEMNITIES]
+COMMENT="Onglet (Crédits/Débits) : Indemnités"
+LAST_MODIFIED="1/10/2000"
+STRING="Indemnización por despido"
+
+[PANNEL_DEBIT_ACTIONS]
+COMMENT="Onglet (Crédits/Débits) : Actions"
+LAST_MODIFIED="1/10/2000"
+STRING="Coste de las acciones"
+
+[PANNEL_DEBIT_ACHATS]
+COMMENT="Onglet (Crédits/Débits) : Achats"
+LAST_MODIFIED="1/10/2000"
+STRING="COMPRAS"
+
+[PANNEL_DEBIT_WORKSTATION]
+COMMENT="Onglet (Crédits/Débits) : Postes de travail"
+LAST_MODIFIED="1/10/2000"
+STRING="Estaciones de trabajo"
+
+[PANNEL_DEBIT_EQUIP]
+COMMENT="Onglet (Crédits/Débits) : Equipements"
+LAST_MODIFIED="1/10/2000"
+STRING="Equipo"
+
+[PANNEL_DEBIT_COMPOSANTS]
+COMMENT="Onglet (Crédits/Débits) : Composants"
+LAST_MODIFIED="1/10/2000"
+STRING="Componentes"
+
+[PANNEL_DEBIT_PUB]
+COMMENT="Onglet (Crédits/Débits) : Budget pub"
+LAST_MODIFIED="1/10/2000"
+STRING="PRESUPUESTOS PARA PUBLICIDAD"
+
+[PANNEL_DEBIT_PUB_TV]
+COMMENT="Onglet (Crédits/Débits) : Pub TV"
+LAST_MODIFIED="1/10/2000"
+STRING="Publicidad en TV"
+
+[PANNEL_DEBIT_PRESSE]
+COMMENT="Onglet (Crédits/Débits) : Presse spécialisée"
+LAST_MODIFIED="1/10/2000"
+STRING="Prensa técnica"
+
+[PANNEL_DEBIT_DIVERS]
+COMMENT="Onglet (Crédits/Débits) : Divers"
+LAST_MODIFIED="1/10/2000"
+STRING="VARIOS"
+
+[PANNEL_DEBIT_REMBOURSEMENT]
+COMMENT="Onglet (Crédits/Débits) : Remboursement prêts"
+LAST_MODIFIED="1/10/2000"
+STRING="Devolución de préstamos"
+
+[PANNEL_DEBIT_AMENDES]
+COMMENT="Onglet (Crédits/Débits) : Amendes"
+LAST_MODIFIED="1/10/2000"
+STRING="Multas"
+
+[PANNEL_DEBIT_TOTAL]
+COMMENT="Onglet (Crédits/Débits) : Total"
+LAST_MODIFIED="1/10/2000"
+STRING="GASTO TOTAL"
+
+
+
+[PANNEL_CREDIT_VENTE]
+COMMENT="Onglet (Crédits/Débits) : Vente de produits"
+LAST_MODIFIED="1/10/2000"
+STRING="Ventas del producto"
+
+[PANNEL_CREDIT_PROCES]
+COMMENT="Onglet (Crédits/Débits) : Procès gagnés"
+LAST_MODIFIED="1/10/2000"
+STRING="Triunfo de los tribunales"
+
+[PANNEL_CREDIT_BREVETS]
+COMMENT="Onglet (Crédits/Débits) : Brevets & royalties"
+LAST_MODIFIED="1/10/2000"
+STRING="Patentes y royalties"
+
+[PANNEL_CREDIT_PRET]
+COMMENT="Onglet (Crédits/Débits) : Pret"
+LAST_MODIFIED="1/10/2000"
+STRING="Préstamo  "
+
+[PANNEL_CREDIT_TOTAL]
+COMMENT="Onglet (Crédits/Débits) : Total"
+LAST_MODIFIED="1/10/2000"
+STRING="INGRESO TOTAL"
+
+
+
+
+
+; *****************************************************************************
+;
+;	PANNELS - NEWS
+;
+; *****************************************************************************
+[PANEL_NEWS]
+COMMENT="Onglet (News) : Titre de l'onglet (EN MAJUSCULES)"
+LAST_MODIFIED="1/10/2000"
+STRING="Correo "
+
+[PANEL_NEWS_HOME]
+COMMENT="Onglet (News) : Afficher les news internes"
+LAST_MODIFIED="1/10/2000"
+STRING="Corre interno"
+
+[PANEL_NEWS_LETTER]
+COMMENT="Onglet (News) : Afficher les news externes"
+LAST_MODIFIED="1/10/2000"
+STRING="Correo externo"
+
+[PANEL_NEWS_RECENTER]
+COMMENT="Onglet (News) : Aller sur la zone concernée par la news"
+LAST_MODIFIED="1/10/2000"
+STRING="Ver remitente"
+
+
+[PANEL_NEWS_OK]
+COMMENT       = "Onglet (News) : OK"
+LAST_MODIFIED = "1/10/2000"
+STRING        = "Validar"
+
+
+[PANEL_NEWS_ANNULER]
+COMMENT       = "Onglet (News) : ANNULER"
+LAST_MODIFIED = "1/10/2000"
+STRING        = "Suprimir"
+
+
+[PANEL_NEWS_DUSTBIN]
+COMMENT="Onglet (News) : Supprimer une news de la liste"
+LAST_MODIFIED="1/10/2000"
+STRING="Suprimir"
+
+[PANEL_NEWS_LISTBOX1]
+COMMENT="Onglet (News) : Liste de toutes les news"
+LAST_MODIFIED="1/10/2000"
+STRING="Mensaje"
+
+[PANEL_NEWS_LISTBOX2]
+COMMENT="Onglet (News) : News sélectionnée"
+LAST_MODIFIED="1/10/2000"
+STRING="Mensaje seleccionado"
+
+
+; *****************************************************************************
+;
+;	ACTION PONCTUELLE
+;
+; *****************************************************************************
+
+[ACTION_PONCT_REPAIR]
+COMMENT="Action ponctuelle : réparer machine"
+LAST_MODIFIED="1/10/2000"
+STRING="Reparar máquina: 500$"
+
+
+[ACTION_PONCT_KADO_AM]
+COMMENT="Action ponctuelle : cadeau market & admin"
+LAST_MODIFIED="1/10/2000"
+STRING="Motivar administración y marketing: 1000$"
+
+[ACTION_PONCT_KADO_PROD]
+COMMENT="Action ponctuelle : cadeau prod"
+LAST_MODIFIED="1/10/2000"
+STRING="Motivar producción: 1000$"
+
+[ACTION_PONCT_KADO_LABO]
+COMMENT="Action ponctuelle : cadeau labo"
+LAST_MODIFIED="1/10/2000"
+STRING="Motivar laboratorio: 1000$"
+
+[ACTION_PONCT_KADO_EXTERIOR]
+COMMENT="Action ponctuelle : cadeau exterieur"
+LAST_MODIFIED="1/10/2000"
+STRING="Motivar exterior: 1000$"
+
+
+
+[ACTION_PONCT_BLACK_CASE]
+COMMENT="Action ponctuelle : caisse noire"
+LAST_MODIFIED="1/10/2000"
+STRING="Niv.2: Crear caja para sobornos: 1000$"
+
+[ACTION_PONCT_CAR]
+COMMENT="Action ponctuelle : établir contact avec mafia"
+LAST_MODIFIED="1/10/2000"
+STRING="Niv.3: Ponerse en contacto con la mafia: 2000$"
+
+
+[ACTION_PONCT_PROCES]
+COMMENT="Action ponctuelle : procès pour espionnage"
+LAST_MODIFIED="1/10/2000"
+STRING="Niv.1: Presentar cargos por espionaje: 10000$"
+
+[ACTION_PONCT_RUMOR]
+COMMENT="Action ponctuelle : rumeur"
+LAST_MODIFIED="1/10/2000"
+STRING="Niv.2: Lanzar un rumor: 5000$"
+
+[ACTION_PONCT_X_FILES]
+COMMENT="Action ponctuelle : contrôle fiscal"
+LAST_MODIFIED="1/10/2000"
+STRING="Niv.3: Iniciar inspección fiscal: 1000$"
+
+
+[ACTION_PONCT_ZEPPELIN]
+COMMENT="Action ponctuelle : négocier la concession zeppelin"
+LAST_MODIFIED="1/10/2000"
+STRING="Niv.2: Negociar dirigible: 20000$"
+
+[ACTION_PONCT_LUNAR]
+COMMENT="Action ponctuelle : négocier la concession Pub lunaire"
+LAST_MODIFIED="1/10/2000"
+STRING="Niv.3: Negociar anuncio lunar: 30000$"
+
+
+
+[ACTION_PONCT_SABOT]
+COMMENT="Action ponctuelle : saboter"
+LAST_MODIFIED="1/10/2000"
+STRING="Sabotear la producción del rival: 1500$"
+
+[ACTION_PONCT_STEAL]
+COMMENT="Action ponctuelle : voler"
+LAST_MODIFIED="1/10/2000"
+STRING="Robar la patente del rival: 1500$"
+
+[ACTION_PONCT_SPY]
+COMMENT="Action ponctuelle : espionner"
+LAST_MODIFIED="1/10/2000"
+STRING="Espiar administración y marketing del rival: 1500$"
+
+
+
+[ACTION_PONCT_STOCK]
+COMMENT="Action ponctuelle : ecouler ancier stocks"
+LAST_MODIFIED="1/10/2000"
+STRING="Niv.2: Liquidar existencias antiguas: 1000$"
+
+[ACTION_PONCT_POT_DE_VIN]
+COMMENT="Action ponctuelle : Faire un pot de vin au distributeur"
+LAST_MODIFIED="1/10/2000"
+STRING="Niv.3: Sobornar distribuidor: 1500$"
+
+
+
+[ACTION_PONCT_MENACER_AM]
+COMMENT="Action ponctuelle : menacer qql'1 dans l'administration ou le market"
+LAST_MODIFIED="1/10/2000"
+STRING="Sobornar administración y marketing del rival: 500$"
+
+[ACTION_PONCT_MENACER_EXT]
+COMMENT="Action ponctuelle : menacer qql'1 en extérieur"
+LAST_MODIFIED="1/10/2000"
+STRING="Amenazar al personal externo del rival: 500$"
+
+[ACTION_PONCT_MENACER_LABO]
+COMMENT="Action ponctuelle : menacer qql'1 dans le labo"
+LAST_MODIFIED="1/10/2000"
+STRING="Amenazar al laboratorio del rival: 500$"
+
+[ACTION_PONCT_MENACER_PROD]
+COMMENT="Action ponctuelle : menacer qql'1 dans la production"
+LAST_MODIFIED="1/10/2000"
+STRING="Amenazar a la producción del rival: 500$"
+
+
+; *****************************************************************************
+;
+;	SIMULATION
+;
+; *****************************************************************************
+
+[JOB_TYPE_ACCOUNTANT]
+COMMENT="Financier"
+LAST_MODIFIED="7/03/2001"
+STRING="contable"
+
+[JOB_TYPE_FINANCIER]
+COMMENT="Juriste"
+LAST_MODIFIED="7/03/2001"
+STRING="abogado"
+
+[JOB_TYPE_MANAGER]
+COMMENT="DRH"
+LAST_MODIFIED="7/03/2001"
+STRING="RH"
+
+[JOB_TYPE_SPY]
+COMMENT="Espion"
+LAST_MODIFIED="7/03/2001"
+STRING="espía"
+
+[JOB_TYPE_PUB]
+COMMENT="Publicitaire"
+LAST_MODIFIED="7/03/2001"
+STRING="publicidad  "
+
+[JOB_TYPE_COM]
+COMMENT="Commercial"
+LAST_MODIFIED="7/03/2001"
+STRING="ventas  "
+
+[JOB_TYPE_MAFIOSI]
+COMMENT="Mafieu"
+LAST_MODIFIED="7/03/2001"
+STRING="mafia"
+
+[JOB_TYPE_SEARCHER]
+COMMENT="Chercheur"
+LAST_MODIFIED="7/03/2001"
+STRING="científica"
+
+[JOB_TYPE_DRIVER_CHIEF]
+COMMENT="Chef machiniste"
+LAST_MODIFIED="7/03/2001"
+STRING="supervisor "
+
+[JOB_TYPE_DRIVER]
+COMMENT="Machiniste"
+LAST_MODIFIED="7/03/2001"
+STRING="técnico"
+
+[JOB_TYPE_GUARDIAN]
+COMMENT="Gardien"
+LAST_MODIFIED="7/03/2001"
+STRING="seguridad"
+
+[SOCIETY_LOGO]
+COMMENT="Sigle francais pour les sociétés"
+LAST_MODIFIED="7/03/2001"
+STRING="S.A."

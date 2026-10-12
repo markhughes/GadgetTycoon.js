@@ -1,0 +1,71 @@
+[0]
+String="4 roues"
+
+[1]
+String="Roues en bois"
+
+[2]
+String="4 roues"
+
+[3]
+String="Roues en plastique"
+
+[4]
+String="4 roues"
+
+[5]
+String="Roues en plastique avec suspension"
+
+[6]
+String="Roues en ligne"
+
+[7]
+String="Roues en ligne en plastique avec suspension"
+
+[8]
+String="Roues en ligne"
+
+[9]
+String="Roues en ligne en métal avec suspension"
+
+[10]
+String="Roues en ligne"
+
+[11]
+String="Roues tout-terrain"
+
+[12]
+String="Propulsion"
+
+[13]
+String="Générateur de propulsion faible"
+
+[14]
+String="Propulsion"
+
+[15]
+String="Générateur de propulsion moyenne"
+
+[16]
+String="Propulsion"
+
+[17]
+String="Propulsion à double turbine intégrée au chausson"
+
+[18]
+String="Commande magnétique"
+
+[19]
+String="Commande portable unidirectionnelle"
+
+[20]
+String="Commande magnétique"
+
+[21]
+String="Commande portable bidirectionnelle"
+
+[22]
+String="Commande magnétique"
+
+[23]
+String="Commande portable multidirectionnelle"

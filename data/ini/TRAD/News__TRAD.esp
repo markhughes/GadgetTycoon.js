@@ -1,0 +1,691 @@
+
+; *****************************************************************************
+;
+;	NEWS
+;
+; *****************************************************************************
+[NEWS_TITLE0]
+COMMENT="News title comment"
+LAST_MODIFIED="1/10/2000"
+STRING="TitleToDraw"
+
+; ********************************************************
+;
+; NEWS TITLES
+;
+; ********************************************************
+
+
+;/////////////////////////////////////////////////////////////
+;// GENERIC NEWS
+;//
+
+
+//Dynamique
+;
+[0]
+Title="Supervisor: La línea de producción no está completa"
+;
+[1]
+Title="Supervisor: Una de las máquinas se ha averiado"
+;
+[2]
+Title="Supervisor: He terminado de reparar la máquina de montaje"
+;
+[3]
+Title="Técnico: He terminado de reparar la maquina de componentes"
+;
+[4]
+Title="Supervisor: Se ha reanudado la producción"
+;
+[5]
+Title="Científica: Hemos solicitado una patente"
+;
+[6]
+Title="Patente concedida..."
+;
+[7]
+Title="Científica: Hemos llevado una patente al dominio público"
+;
+[8]
+Title="Patente pública..."
+;
+[9]
+Title="Científica: No hemos avanzado suficiente para iniciar esta investigación"
+;
+[10]
+Title="Científica: Necesitamos comprar un kit de pruebas avanzado"
+;
+[11]
+Title="Científica: Necesitamos comprar un generador de fibras"
+;
+[12]
+Title="Científica: Necesitamos comprar un ordenador sanitario"
+;
+[13]
+Title="Científica: Necesitamos comprar un generador de propulsión"
+;
+[14]
+Title="Científica: Necesitamos comprar una unidad de fibra"
+;
+[15]
+Title="Científica: Necesitamos comprar una turbina de vuelo"
+;
+[16]
+Title="Científica: Necesitamos comprar una unidad hovertech"
+;
+[17]
+Title="Científica: Necesitamos comprar un tanque de humor acuoso"
+;
+[18]
+Title="Científica: Necesitamos comprar una máquina de microchips"
+;
+[19]
+Title="Científica: Necesitamos comprar una unidad de fuerza mecánica"
+;
+[20]
+Title="RH: ¡Tengo un nuevo candidato!"
+;
+[21]
+Title="RH: La moral ha aumentado en la producción"
+
+;
+[22]
+Title="RH: La moral es un apoyo en el exterior"
+;
+[23]
+Title="RH: La moral es mejor en el laboratorio"
+;
+[24]
+Title="RH: La moral ha subido en marketing y administración"
+
+;
+[25]
+Title="Contable: Me he puesto en contacto con la mafia"
+;
+[26]
+Title="Contable: He creado el fondo secreto para sobornos"
+;
+[27]
+Title="RH: Ha vuelto del entrenamiento de nivel"
+;
+[28]
+Title="RH: Ha vuelto del seminario de motivación"
+;
+[29]
+Title="RH: Ha vuelto del entrenamiento de eficacia"
+;
+[30]
+Title="Publicidad: Tenemos un anuncio lunar"
+;
+[31]
+Title="Publicidad: tenemos un dirigible"
+;
+[32]
+Title=" El anunció lunar es para..."
+;
+[33]
+Title="Fin del anuncio lunar en el plazo de 10 días..."
+;
+[34]
+Title="Pub: Fin del dirigible en el plazo de 10 días..."
+;
+[35]
+Title="Ventas: El distribuidor ha aceptado mi soborno"
+;
+[36]
+Title="Ventas: Puedo liquidar las existencias"
+;
+[37]
+Title="Venta: He liquidado todas las existencias"
+;
+[38]
+Title="Tienes que crear un fondo para sobornos"
+
+;
+[39]
+Title="Tienes que crear un fondo para sobornos y después ponerte en contacto con la mafia"
+
+;
+[40]
+Title="Abogado: Jefe, he iniciado una acción judicial"
+;
+[41]
+Title="Inocente..."
+;
+[42]
+Title="Culpable..."
+;
+[43]
+Title="Abogado: Me he puesto en contacto con Hacienda,  pronto tendremos una inspección"
+;
+[44]
+Title="Inspección fiscal inminente..."
+;
+[45]
+Title="Informe de Hacienda..."
+;
+[46]
+Title="Informe de Hacienda..."
+;
+[47]
+Title="Abogado: ¡He lanzado un rumor!"
+;
+[48]
+Title="Noticias de última hora..."
+;
+[49]
+Title="Espía: no he conseguido robar nada"
+;
+[50]
+Title="Espía: he robado los documentos de la investigación de un componente"
+;
+[51]
+Title="Última hora: Robo industrial "
+;
+[52]
+Title="Científica: Alguien ha robado los documentos de la investigación de un componente"
+;
+[53]
+Title="Espía: Misión cumplida: he saboteado su producción"
+;
+[54]
+Title="Última hora: Esp. industrial"
+;
+[55]
+Title="Supervisor: Alguien ha saboteado mi máquina"
+;
+[56]
+Title="Espía: Mi informe..."
+;
+[57]
+Title="Última hora: Esp. industrial "
+;
+[58]
+Title="Admin & Marketing: Nos han desvalijado"
+;
+[59]
+Title="Espía: No pienso ir allí. Está demasiado bien protegido"
+;
+[60]
+Title="Espía capturado..."
+;
+[61]
+Title="Espía: Gracias por pagar mi fianza, jefe. Estoy en deuda con usted"
+;
+[62]
+Title="Mafia: El personal de producción está aterrorizado"
+
+;
+[63]
+Title="Mafia: Las Científicas están aterrorizadas"
+;
+[64]
+Title="Mafia: El personal externo está asustado"
+;
+[65]
+Title="Mafia: Los departamentos de marketing y administración tienen miedo"
+;
+[66]
+Title="Seguridad: Acabo de librarme de un espía"
+;
+[67]
+Title="Entregada orden de invest. ..."
+;
+[68]
+Title="Entregada orden de producción..."
+;
+[69]
+Title="Científica: Antes necesitamos investigar el filtro para orina/heces"
+;
+[70]
+Title="Científica: Antes necesitamos investigar el filtro sonda para análisis sanitario completo"
+;
+[71]
+Title="Científica: Antes necesitamos investigar el casco básico con protección para barbilla"
+;
+[72]
+Title="Científica: Antes necesitamos investigar las botas de piel flexibles y de calidad"
+;
+[73]
+Title="Científica: Antes necesitamos investigar el zapato de plástico con tobillos articulados"
+;
+[74]
+Title="Científica: Antes necesitamos investigar el caso aerodinámico que elimina fricciones"
+;
+[75]
+Title="Científica: Antes necesitamos investigar el casco con visera facial de diseño elegante"
+;
+[76]
+Title="Científica: Necesitamos investigar urgentemente el controlador de mano multidireccional"
+;
+[77]
+Title="Científica: Antes necesitamos investigar la sonda multidireccional"
+;
+[78]
+Title="Científica: Antes necesitamos investigar el radar de larga distancia y alta precisión"
+;
+[79]
+Title="Científica: Antes necesitamos investigar el ojo simple 2D básico"
+;
+[80]
+Title="Científica: Antes necesitamos investigar los ojos binoculares 3D"
+;
+[81]
+Title="Científica: Necesitamos investigar urgentemente la memoria para una larga lista de movimientos"
+;
+[82]
+Title="Científica: Antes necesitamos investigar el generador de tareas avanzadas activadas por la voz"
+;
+[83]
+Title="Científica: Antes necesitamos investigar el microprocesador de aprendizaje independiente"
+;
+[84]
+Title="Científica: Antes necesitamos investigar las piernas de robot básicas"
+;
+[85]
+Title="Científica: Antes necesitamos investigar las piernas flexibles"
+;
+[86]
+Title="Científica: Antes necesitamos investigar las piernas basadas en la anatomia humana"
+;
+[87]
+Title       = "Necesitamos un nivel superior para fabricar este componente"
+;
+[88]
+Title       = "Se ha modificado el componente y se han eliminado las existencias antiguas"
+
+[89]
+Title       = "Necesitamos una estación de trabajo de supervisor de más nivel."
+
+//Alétaoire
+;
+[90]
+Title="Eco-flash: Bajan las ventas..."
+;
+[91]
+Title="Eco-flash: Suben las ventas..."
+;
+[92]
+Title="Eco-flash: Bajan las ventas..."
+;
+[93]
+Title="Eco-flash: Suben las ventas..."
+;
+[94]
+Title="Bancos: Suben los intereses..."
+;
+[95]
+Title="Bancos: Bajan los intereses..."
+;
+[96]
+Title="Of. Empleo: Baja el empleo"
+;
+[97]
+Title="Of. empleo: Hora de contratar"
+;
+[98]
+Title="El proveedor sube los precios..."
+;
+[99]
+Title="El proveedor baja los precios..."
+;
+[100]
+Title="Orden de investigación..."
+;
+[101]
+Title="Empresa Ecologica..."
+;
+[102]
+Title="Respuesta de Empresa Ecologica..."
+;
+[103]
+Title="Respuesta de Empresa Ecologica..."
+;
+[104]
+Title="Casi es Navidad..."
+;
+[105]
+Title="Inspección fiscal"
+
+;
+[106]
+Title="Inspección fiscal: Multa..."
+;
+[107]
+Title="Inspección fiscal: Todo bien..."
+
+;
+[108]
+Title="Técnico: Necesito un descanso"
+;
+[109]
+Title="Supervisor: Alguien ha saboteado mi máquina"
+;
+[110]
+Title="Supervisor: Ya he tenido suficiente"
+;
+[111]
+Title="Mafia: Estoy deprimido"
+;
+[112]
+Title="Científica: Estoy cansada"
+;
+[113]
+Title="RH: Estoy muerta de cansancio"
+;
+[114]
+Title="Abogado: Estoy agotado"
+;
+[115]
+Title="Contable: Estoy harto"
+;
+[116]
+Title="Publicidad:  En este momento todo me pone nerviosa"
+;
+[117]
+Title="Ventas: ¡No puedo esperar hasta el fin de semana!"
+;
+[118]
+Title="Seguridad: Este polígono industrial es deprimente"
+;
+[119]
+Title="Dimisión..."
+
+;
+[120]
+Title="Contable: Estamos al borde de la ruina"
+;
+[121]
+Title="Bancarrota..."
+
+;
+[122]
+Title="Orden de invest. aceptada..."
+;
+[123]
+Title="Orden de producción aceptada..."
+;
+[124]
+Title="Orden de producción aceptada..."
+;
+[125]
+Title="Orden de producción aceptada..."
+;
+[126]
+Title="La orden de producción ha fallado..."
+
+;
+[127]
+Title="Objetivo..."
+;
+[128]
+Title="Objetivo..."
+;
+[129]
+Title="Objetivo..."
+;
+[130]
+Title="Objetivo..."
+;
+[131]
+Title="Objetivo..."
+;
+[132]
+Title="Objetivo..."
+;
+[133]
+Title="Objetivo..."
+;
+[134]
+Title="Objetivo..."
+;
+[135]
+Title="Objetivo..."
+;
+[136]
+Title="Objetivo..."
+
+;	E_VICTORY_CONDITION_DEMO
+[137]
+Title 		= "Objetivo..."
+;	E_VICTORY_CONDITION_LEVEL04
+[138]
+Title 		= "Objetivo..."
+;	E_VICTORY_CONDITION_LEVEL05
+[139]
+Title 		= "Objetivo..."
+;	E_VICTORY_CONDITION_LEVEL06
+[140]
+Title 		= "Objetivo..."
+;	E_VICTORY_CONDITION_LEVEL07
+[141]
+Title 		= "Objetivo..."
+;	E_VICTORY_CONDITION_LEVEL08
+[142]
+Title 		= "Objetivo..."
+;
+[143]
+Title 		= "Objetivo..."
+;
+[144]
+Title 		= "Objetivo..."
+;
+[145]
+Title 		= "Objetivo..."
+;
+[146]
+Title 		= "Objetivo..."
+;
+[147]
+Title 		= "Objetivo..."
+;
+[148]
+Title 		= ""
+;
+[149]
+Title 		= "Me voy..."
+
+;/////////////////////////////////////////////////////////////
+;// PRODUCTS NEWS
+;//
+
+;// TOILET
+
+[300]		
+Title="Orden de producción..."
+
+;// ROLLERBLADE
+
+[400]
+Title="Orden de producción..."
+
+;// ROBOT
+
+[500];
+Title="Orden de producción..."
+
+;/////////////////////////////////////////////////////////////
+;// MISSIONS
+;//
+
+;// TUTORIAL
+
+;// TUTORIAL1
+[600];
+Title="Abre la ventana del correo para seguir el tutorial (F4)" 
+
+[601];
+Title="Tutorial: Llevar a cabo una investigación"
+
+[602];
+Title="Tutorial: Componentes"
+
+[603];
+Title="Tutorial: Árbol tecnológico"
+
+[604];
+Title="Fin del primer tutorial"
+
+;// TUTORIAL2
+[625];
+Title="Abre la ventana del correo para seguir el tutorial (F4)"
+
+[626];
+Title="Tutorial: Fabricación de los productos"
+
+[627];
+Title="Fin del segundo tutorial"
+
+;// TUTORIAL3
+[650];
+Title="Abre la ventana del correo para seguir el tutorial (F4)"
+
+[651];
+Title="Tutorial: Ventas"
+
+[652];
+Title="Tutorial: Técnicos y Emotivos"
+
+[653];
+Title="Fin del tercer tutorial"
+
+;// TUTORIAL4
+[675];
+Title="Abre la ventana del correo para seguir el tutorial (F4)"
+
+[676];
+Title="Tutorial: La moral"
+
+[677];
+Title="Tutorial: Robo de empleados"
+
+[678];
+Title="Tutorial: Espionaje y extorsión"
+
+[679];
+Title="Tutorial: Seguridad"
+
+[680];
+Title="Fin del cuarto tutorial"
+
+
+;// MISSION1
+
+;[700];
+;Title="Objetivo..."
+
+;// MISSION2
+
+;[800];
+;Title="Objetivo..."
+
+;// MISSION3
+
+;[900];
+;Title="Objetivo..."
+
+[901]
+Title		= "" 
+
+;// MISSION4
+
+;[1000];
+;Title="Objetivo..."
+
+[1001]
+Title		= "" 
+
+;// MISSION5
+
+;[1100];
+;Title="Objetivo..."
+
+[1101];
+Title		= "Derrumbe de la bolsa!!"
+
+[1102];
+Title		= "D+90: Situación alentadora"
+
+[1103];
+Title		= "D+90: Impulso al mercado"
+
+[1104];
+Title		= "D-90: Quiebra gran empresa"
+
+[1105];
+Title		= "D-90: Despidos generalizados"
+
+[1106];
+Title		= "D+30: Estupendos resultados"
+
+[1107];
+Title		= "D+30: Beneficios de las telecom"
+
+[1108];
+Title		= "D-30: Dimisión"
+
+[1109];
+Title		= "D-30: Temor por los tipos de interés"
+
+[1110];
+Title		= "D+10: Situación alentadora..."
+
+[1111];
+Title		= "D+10: Bajada de los tipos de interés"
+
+[1112];
+Title		= "D-10: Aviso de caída de los beneficios"
+
+[1113];
+Title		= "D-10: Subida de los tipos de interés"
+
+
+;// MISSION6
+
+;[1200];
+;Title="Objetivo..."
+
+;// MISSION7
+
+;[1300];
+;Title="Objetivo..."
+[1300];		E_NEWS_COMMANDE_MISSION_1
+Title		= "Orden de producción..."
+
+[1301];		E_NEWS_COMMANDE_MISSION_2
+Title		= "Orden de producción..."
+
+[1302];		E_NEWS_COMMANDE_MISSION_3
+Title		= "Orden de producción..."
+
+[1303];		E_NEWS_COMMANDE_MISSION_4
+Title		= "Orden de producción..."
+
+[1304];		E_NEWS_COMMANDE_MISSION_5
+Title		= "Orden de producción..."
+
+[1305];		E_NEWS_COMMANDE_MISSION_6
+Title		= "Orden de producción..."
+
+[1306];		E_NEWS_COMMANDE_MISSION_7
+Title		= "Orden de producción..."
+
+[1307];		E_NEWS_COMMANDE_MISSION_8
+Title		= "Orden de producción..."
+
+[1308];		E_NEWS_COMMANDE_MISSION_9
+Title		= "Orden de producción..."
+
+[1309];		E_NEWS_COMMANDE_MISSION_10
+Title		= "Orden de producción..."
+
+;// MISSION8
+
+;[1400];
+;Title="Objetivo..."
+
+;// MISSION9
+
+;[1500];
+;Title="Objetivo..."

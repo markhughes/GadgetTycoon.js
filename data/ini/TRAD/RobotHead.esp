@@ -1,0 +1,71 @@
+[0]
+String="Sensibilidad táctil"
+
+[1]
+String="Sonda táctil simple"
+
+[2]
+String="Sensibilidad táctil"
+
+[3]
+String="3 sondas táctiles"
+
+[4]
+String="Sensibilidad táctil"
+
+[5]
+String="Sonda multidireccional"
+
+[6]
+String="Sensibilidad radar"
+
+[7]
+String="Radar de corta distancia y baja precisión"
+
+[8]
+String="Sensibilidad radar"
+
+[9]
+String="Radar de media distancia y precisión media"
+
+[10]
+String="Sensibilidad radar"
+
+[11]
+String="Radar de larga distancia y alta precisión"
+
+[12]
+String="Sensibilidad visual"
+
+[13]
+String="Ojo simple 2D básico"
+
+[14]
+String="Sensibilidad visual"
+
+[15]
+String="Ojos binoculares 3D"
+
+[16]
+String="Sensibilidad visual"
+
+[17]
+String="Ojo de 'insecto' de 360º en 3D"
+
+[18]
+String="Sensibilidad infrarrojos"
+
+[19]
+String="Sensor de infrarrojos de corta distancia"
+
+[20]
+String="Sensibilidad infrarrojos"
+
+[21]
+String="Sensibilidad de infrarrojos de larga distancia"
+
+[22]
+String="Sensibilidad infrarrojos"
+
+[23]
+String="Supersensor de infrarrojos con conexión a satélite"

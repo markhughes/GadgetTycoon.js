@@ -1,0 +1,71 @@
+[0]
+String="Perception tactile"
+
+[1]
+String="Sonde tactile unique"
+
+[2]
+String="Perception tactile"
+
+[3]
+String="3 sondes tactiles"
+
+[4]
+String="Perception tactile"
+
+[5]
+String="Couronne de sondes multidirectionnelle"
+
+[6]
+String="Perception radar"
+
+[7]
+String="Radar courte portée, précision basse"
+
+[8]
+String="Perception radar"
+
+[9]
+String="Radar moyenne portée, précision moyenne"
+
+[10]
+String="Perception radar"
+
+[11]
+String="Radar longue portée, haute précision"
+
+[12]
+String="Perception visuelle"
+
+[13]
+String="Cyclope vue 2D"
+
+[14]
+String="Perception visuelle"
+
+[15]
+String="Binoculaire vue 3D"
+
+[16]
+String="Perception visuelle"
+
+[17]
+String="Vue 3D à 360° de type 'insecte'"
+
+[18]
+String="Perception infra-rouge"
+
+[19]
+String="Capteur infra-rouge courte portée"
+
+[20]
+String="Perception infra-rouge"
+
+[21]
+String="Capteur infra-rouge longue portée"
+
+[22]
+String="Perception infra-rouge"
+
+[23]
+String="Super-capteur infra-rouge avec liaison satellite"

@@ -1,0 +1,693 @@
+
+; *****************************************************************************
+;
+;	NEWS
+;
+; *****************************************************************************
+[NEWS_TITLE0]
+COMMENT="News title comment"
+LAST_MODIFIED="1/10/2000"
+STRING="TitleToDraw"
+
+; ********************************************************
+;
+; NEWS TITLES
+;
+; ********************************************************
+
+
+;/////////////////////////////////////////////////////////////
+;// GENERIC NEWS
+;//
+
+
+//Dynamique
+;
+[0]
+Title="Supervisore: La linea di produzione non è completa"
+;
+[1]
+Title="Supervisore: Una delle macchine si è rotta, bisogna ripararla"
+;
+[2]
+Title="Supervisore: Ho terminato di riparare l'assemblatrice"
+;
+[3]
+Title="Tecnico: Ho terminato di riparare la macchina dei componenti"
+;
+[4]
+Title="Supervisore: La produzione è ripresa"
+;
+[5]
+Title="Ricercatrice: Abbiamo inoltrato una richiesta di brevetto"
+;
+[6]
+Title="Brevetto concesso..."
+;
+[7]
+Title="Ricercatore: Abbiamo reso pubblico un brevetto "
+;
+[8]
+Title="Brevetto pubblico..."
+;
+[9]
+Title="Ricercatrice: Non siamo abbastanza avanzati per lanciare questa ricerca"
+;
+[10]
+Title="Ricercatrice: Dobbiamo acquistare un kit test chimici avanzato"
+;
+[11]
+Title="Ricercatrice: Dobbiamo acquistare un generatore di fibre "
+;
+[12]
+Title="Ricercatrice: Dobbiamo acquistare un computer medico"
+;
+[13]
+Title="Ricercatrice: Dobbiamo acquistare un generatore jet"
+;
+[14]
+Title="Ricercatrice: Dobbiamo acquistare un'unità fibra"
+;
+[15]
+Title="Ricercatrice: Dobbiamo acquistare una turbina"
+;
+[16]
+Title="Ricercatrice: Dobbiamo acquistare un'unità hovercraft"
+;
+[17]
+Title="Ricercatrice: Dobbiamo acquistare una vasca vapore acqueo"
+;
+[18]
+Title="Ricercatrice: Dobbiamo acquistare una macchina per microchip"
+;
+[19]
+Title="Ricercatrice: Dobbiamo acquistare un'unità di prova resistenza"
+;
+[20]
+Title="Personale: Ho un nuovo candidato!"
+;
+[21]
+Title="Personale: Il morale è di nuovo alto in produzione"
+
+;
+[22]
+Title="Personale: Il morale è di nuovo alto tra gli esterni"
+;
+[23]
+Title="Personale: Il morale è di nuovo alto in laboratorio"
+;
+[24]
+Title="Personale: Il morale è di nuovo alto in amministrazione e marketing"
+
+;
+[25]
+Title="Ragioniera: Ho contattato la mafia"
+;
+[26]
+Title="Ragioniera: Ho creato i fondi neri"
+;
+[27]
+Title="Personale: Aggiornamento..."
+;
+[28]
+Title="Personale : Automotivazione..."
+;
+[29]
+Title="Personale: Corso efficienza..."
+;
+[30]
+Title="Pubblicitaria: Abbiamo una pubblicità lunare"
+;
+[31]
+Title="Pubblicitaria: Abbiamo un dirigibile"
+;
+[32]
+Title="Pubblicità lunare..."
+;
+[33]
+Title="Scadenza pubblicità lunare tra 10 giorni..."
+;
+[34]
+Title="Pubblicitaria: Scadenza dirigibile tra 10 giorni..."
+;
+[35]
+Title="Vendite: Il distributore ha accettato la tangente  "
+;
+[36]
+Title="Vendite: Posso svendere lo stock"
+;
+[37]
+Title="Vendite: Stock svenduto..."
+;
+[38]
+Title="Devi creare dei fondi neri"
+
+;
+[39]
+Title="Devi creare dei fondi neri e poi contattare la mafia"
+
+;
+[40]
+Title="Avvocato: Ho iniziato un'azione legale"
+;
+[41]
+Title="Innocente..."
+;
+[42]
+Title="Colpevole..."
+;
+[43]
+Title="Avvocato: Ho contattato l'esattore; presto dovremmo subire un'ispezione"
+;
+[44]
+Title="Ispezione fiscale imminente..."
+;
+[45]
+Title="Rapporto dell'esattore... "
+;
+[46]
+Title="Rapporto dell'esattore... "
+;
+[47]
+Title="Avvocato: Ho messo in giro una voce!"
+;
+[48]
+Title="Notiziario... "
+;
+[49]
+Title="Spia: Non sono riuscito a rubare nulla"
+;
+[50]
+Title="Spia: Ho rubato le ricerche per lo sviluppo di un componente"
+;
+[51]
+Title="Notiziario: Spionaggio industriale..."
+;
+[52]
+Title="Ricercatrice: Qualcuno ha rubato le ricerche per lo sviluppo di un nostro componente"
+;
+[53]
+Title="Spia: Missione compiuta: ho sabotato la loro produzione"
+;
+[54]
+Title="Notiziario: Spionaggio industriale..."
+;
+[55]
+Title="Supervisore: La mia macchina è stata sabotata"
+;
+[56]
+Title="Spia: Il mio rapporto..."
+;
+[57]
+Title="Notiziario: Spionaggio industriale..."
+;
+[58]
+Title="Amministrazione e marketing: Abbiamo subito un furto"
+;
+[59]
+Title="Spia: Non ci vado: è troppo sorvegliato"
+;
+[60]
+Title="Spia catturata..."
+;
+[61]
+Title="Spia: Grazie per aver pagato la cauzione, capo. Sono in debito."
+;
+[62]
+Title="Mafia: Il personale della produzione è terrorizzato"
+
+;
+[63]
+Title="Mafia: Le ricercatrici sono terrorizzate"
+;
+[64]
+Title="Mafia: Il personale esterno è terrorizzato"
+;
+[65]
+Title="Mafia: Il personale amministrativo e del marketing è terrorizzato"
+;
+[66]
+Title="Sicurezza: Mi sono appena liberato di una spia"
+;
+[67]
+Title="Ordine di ricerca consegnato..."
+;
+[68]
+Title="Ordine produzione consegnato..."
+
+;
+[69]
+Title="Ricercatrice: Dobbiamo sviluppare urgentemente il filtro urine/feci"
+;
+[70]
+Title="Ricercatrice: Dobbiamo sviluppare urgentemente il filtro a sonda con diagnosi completa"
+;
+[71]
+Title="Ricercatrice: Dobbiamo sviluppare urgentemente il casco semplice con sottogola"
+;
+[72]
+Title="Ricercatrice: Dobbiamo sviluppare urgentemente gli stivaletti flessibili in cuoio di qualità"
+;
+[73]
+Title="Ricercatrice: Dobbiamo sviluppare urgentemente lo stivaletto in plastica con caviglia snodata"
+;
+[74]
+Title="Ricercatrice: Dobbiamo sviluppare urgentemente il casco a eliminazione totale dell'attrito"
+;
+[75]
+Title="Ricercatrice: Dobbiamo sviluppare urgentemente il casco con elegante visiera protettiva"
+;
+[76]
+Title="Ricercatrice: Dobbiamo sviluppare urgentemente il controllo multidirezionale manuale"
+;
+[77]
+Title="Ricercatrice: Dobbiamo sviluppare urgentemente la sonda tattile multidirezionale"
+;
+[78]
+Title="Ricercatrice: Dobbiamo sviluppare urgentemente il radar a lungo raggio, alta precisione"
+;
+[79]
+Title="Ricercatrice: Dobbiamo sviluppare urgentemente la visione base bidimensionale con un occhio solo"
+;
+[80]
+Title="Ricercatrice: Dobbiamo sviluppare urgentemente la visione binoculare tridimensionale"
+;
+[81]
+Title="Ricercatrice: Dobbiamo sviluppare urgentemente la memoria per un lungo elenco di movimenti"
+;
+[82]
+Title="Ricercatrice: Dobbiamo sviluppare urgentemente il generatore d'azioni avanzato ad attivazione vocale"
+;
+[83]
+Title="Ricercatrice: Dobbiamo sviluppare urgentemente il microprocessore ad apprendimento autonomo"
+;
+[84]
+Title="Ricercatrice: Dobbiamo sviluppare urgentemente le gambe meccaniche elementari"
+;
+[85]
+Title="Ricercatrice: Dobbiamo sviluppare urgentemente le gambe flessibili"
+;
+[86]
+Title="Ricercatrice: Dobbiamo sviluppare urgentemente le gambe modellate sull'anatomia umana"
+;
+[87]
+Title       = "Non siamo abbastanza avanzati per producce"
+;
+[88]
+Title       = "In seguito al cambiamente del prodotto, abbiamo buttato via lo stock"
+
+[89]
+Title       = "L'unità di controllo del supervisore non funziona bene"
+
+
+//Alétaoire
+;
+[90]
+Title="Economia: Vendite in calo..."
+;
+[91]
+Title="Economia: Vendite in aumento..."
+;
+[92]
+Title="Economia: Vendite in calo..."
+;
+[93]
+Title="Economia: Vendite in aumento..."
+;
+[94]
+Title="Banche: Tassi in aumento..."
+;
+[95]
+Title="Banche: Tassi in calo..."
+;
+[96]
+Title="Assunzioni: Mercato in crisi..."
+;
+[97]
+Title="Assunzioni: È il momento di assumere..."
+;
+[98]
+Title="Fornitore aumenta i prezzi..."
+;
+[99]
+Title="Fornitore riduce i prezzi..."
+;
+[100]
+Title="Ordine di ricerca..."
+;
+[101]
+Title="Azienda ecologica... "
+;
+[102]
+Title="Risposta azienda ecologica... "
+;
+[103]
+Title="Risposta azienda ecologica... "
+;
+[104]
+Title="È quasi Natale... "
+;
+[105]
+Title="Ispezione fiscale "
+
+;
+[106]
+Title="Ispezione fiscale: multa... "
+;
+[107]
+Title="Ispezione fiscale: in regola..."
+
+;
+[108]
+Title="Tecnico: Ho bisogno di una pausa"
+;
+[109]
+Title="Supervisore: Ne ho abbastanza"
+;
+[110]
+Title="Spia: Non mi sento bene"
+;
+[111]
+Title="Mafia: Sono depresso"
+;
+[112]
+Title="Ricercatrice: Sono stanca"
+;
+[113]
+Title="Personale: Sono distrutta"
+;
+[114]
+Title="Avvocato: Sono esausto"
+;
+[115]
+Title="Ragioniera: Non ne posso più"
+;
+[116]
+Title="Pubblicitaria: Tutto mi dà sui nervi ora"
+;
+[117]
+Title="Vendite: Non vedo l'ora che arrivi il weekend!"
+;
+[118]
+Title="Sicurezza: Questo stabilimento è deprimente"
+;
+[119]
+Title="Dimissioni..."
+
+;
+[120]
+Title="Ragioniera: Stiamo per fallire"
+;
+[121]
+Title="Bancarotta..."
+
+;
+[122]
+Title="Ordine di ricerca accettato..."
+;
+[123]
+Title="Ordine di produzione accettato..."
+;
+[124]
+Title="Ordine di produzione accettato..."
+;
+[125]
+Title="Ordine di produzione accettato..."
+;
+[126]
+Title="Ordine di produzione rifiutato..."
+
+;
+[127]
+Title="Obiettivo..."
+;
+[128]
+Title="Obiettivo..."
+;
+[129]
+Title="Obiettivo..."
+;
+[130]
+Title="Obiettivo..."
+;
+[131]
+Title="Obiettivo..."
+;
+[132]
+Title="Obiettivo..."
+;
+[133]
+Title="Obiettivo..."
+;
+[134]
+Title="Obiettivo..."
+;
+[135]
+Title="Obiettivo..."
+;
+[136]
+Title="Obiettivo..."
+
+;	E_VICTORY_CONDITION_DEMO
+[137]
+Title 		= "Obiettivo..."
+;	E_VICTORY_CONDITION_LEVEL04
+[138]
+Title 		= "Comunicazione..."
+;	E_VICTORY_CONDITION_LEVEL05
+[139]
+Title 		= "Comunicazione..."
+;	E_VICTORY_CONDITION_LEVEL06
+[140]
+Title 		= "Comunicazione..."
+;	E_VICTORY_CONDITION_LEVEL07
+[141]
+Title 		= "Comunicazione..."
+;	E_VICTORY_CONDITION_LEVEL08
+[142]
+Title 		= "Comunicazione..."
+;
+[143]
+Title 		= "Comunicazione..."
+;
+[144]
+Title 		= "Comunicazione..."
+;
+[145]
+Title 		= "Comunicazione..."
+;
+[146]
+Title 		= "Comunicazione..."
+;
+[147]
+Title 		= "Comunicazione..."
+;
+[148]
+Title 		= ""
+;
+[149]
+Title 		= "Me ne vado..."
+
+;/////////////////////////////////////////////////////////////
+;// PRODUCTS NEWS
+;//
+
+;// TOILET
+
+[300]		
+Title="Ordine di produzione..."
+
+;// ROLLERBLADE
+
+[400]
+Title="Ordine di produzione..."
+
+;// ROBOT
+
+[500];
+Title="Ordine di produzione..."
+
+;/////////////////////////////////////////////////////////////
+;// MISSIONS
+;//
+
+;// TUTORIAL
+
+;// TUTORIAL1
+[600];
+Title="Tutorial "
+
+[601];
+Title="Tutorial: Conduzione della ricerca"
+
+[602];
+Title="Tutorial: Componenti"
+
+[603];
+Title="Tutorial: Struttura tecnologica"
+
+[604];
+Title="Fine parte 1"
+
+;// TUTORIAL2
+[625];
+Title="Apri la finestra della posta per seguire il tutorial"
+
+[626];
+Title="Tutorial: Produzione"
+
+[627];
+Title="Fine parte 2"
+
+;// TUTORIAL3
+[650];
+Title="Apri la finestra della posta per seguire il tutorial"
+
+[651];
+Title="Tutorial: Vendite"
+
+[652];
+Title="Tutorial: Tecnologia ed Emotivi"
+
+[653];
+Title="Fine parte 3"
+
+;// TUTORIAL4
+[675];
+Title="Apri la finestra della posta per seguire il tutorial"
+
+[676];
+Title="Tutorial: Morale"
+
+[677];
+Title="Tutorial: Adescamento"
+
+[678];
+Title="Tutorial : Spionaggio e rappresaglia"
+
+[679];
+Title="Tutorial: Spionaggio e rappresaglia"
+
+[680];
+Title="Fine parte 4"
+
+
+;// MISSION1
+
+;[700];
+;Title="Comunicazione..."
+
+;// MISSION2
+
+;[800];
+;Title="Comunicazione..."
+
+;// MISSION3
+
+;[900];
+;Title="Comunicazione..."
+
+[901]
+Title		= "" 
+
+;// MISSION4
+
+;[1000];
+;Title="Comunicazione..."
+
+[1001]
+Title		= "" 
+
+;// MISSION5
+
+;[1100];
+;Title="Comunicazione..."
+
+[1101];
+Title		= "CROLLO DEL MERCATO !!"
+
+[1102];
+Title		= "G+90: Incoraggiante…"
+
+[1103];
+Title		= "G+90: I mercati crescono…"
+
+[1104];
+Title		= "G-90: Fallimento di una grande azienda…"
+
+[1105];
+Title		= "G-90: Cassa integrazione "
+
+[1106];
+Title		= "G+30: Risultati superiori"
+
+[1107];
+Title		= "G+30: Profitti del settore TLC"
+
+[1108];
+Title		= "G-30: Dimissioni"
+
+[1109];
+Title		= "G-30: Si teme l'aumento dei tassi di interesse"
+
+[1110];
+Title		= "G+10: Incoraggiante…"
+
+[1111];
+Title		= "G+10: Taglio dei tassi di interesse"
+
+[1112];
+Title		= "G-10: Timori per i profitti"
+
+[1113];
+Title		= "G-10: Aumento dei tassi di interesse"
+
+
+;// MISSION6
+
+;[1200];
+;Title="Comunicazione..."
+
+;// MISSION7
+
+;[1300];
+;Title="Comunicazione..."
+[1300];		E_NEWS_COMMANDE_MISSION_1
+Title		= "Ordine di produzione..."
+
+[1301];		E_NEWS_COMMANDE_MISSION_2
+Title		= "Ordine di produzione..."
+
+[1302];		E_NEWS_COMMANDE_MISSION_3
+Title		= "Ordine di produzione..."
+
+[1303];		E_NEWS_COMMANDE_MISSION_4
+Title		= "Ordine di produzione..."
+
+[1304];		E_NEWS_COMMANDE_MISSION_5
+Title		= "Ordine di produzione..."
+
+[1305];		E_NEWS_COMMANDE_MISSION_6
+Title		= "Ordine di produzione..."
+
+[1306];		E_NEWS_COMMANDE_MISSION_7
+Title		= "Ordine di produzione..."
+
+[1307];		E_NEWS_COMMANDE_MISSION_8
+Title		= "Ordine di produzione..."
+
+[1308];		E_NEWS_COMMANDE_MISSION_9
+Title		= "Ordine di produzione..."
+
+[1309];		E_NEWS_COMMANDE_MISSION_10
+Title		= "Ordine di produzione..."
+
+;// MISSION8
+
+;[1400];
+;Title="Comunicazione..."
+
+;// MISSION9
+
+;[1500];
+;Title="Comunicazione..."

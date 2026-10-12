@@ -1,0 +1,71 @@
+[0]
+String="4 ruedas"
+
+[1]
+String="Ruedas de madera"
+
+[2]
+String="4 ruedas"
+
+[3]
+String="Ruedas de plástico"
+
+[4]
+String="4 ruedas"
+
+[5]
+String="Ruedas de plástico con suspensión"
+
+[6]
+String="Línea de ruedas"
+
+[7]
+String="Línea de plástico con suspensión"
+
+[8]
+String="Línea de ruedas"
+
+[9]
+String="Línea metálica con suspensión"
+
+[10]
+String="Línea de ruedas"
+
+[11]
+String="Ruedas todo-terreno"
+
+[12]
+String="Potencia de propulsión"
+
+[13]
+String="Potenciador de propulsión de baja potencia"
+
+[14]
+String="Potencia de propulsión"
+
+[15]
+String="Propulsor de potencia media"
+
+[16]
+String="Potencia de propulsión"
+
+[17]
+String="Doble propulsión con turbina doble incorporada "
+
+[18]
+String="Controlador magnético"
+
+[19]
+String="Controlador de mano monodireccional"
+
+[20]
+String="Controlador magnético"
+
+[21]
+String="Controlador de mano bidireccional"
+
+[22]
+String="Controlador magnético"
+
+[23]
+String="Controlador de mano multidireccional"

@@ -1,0 +1,650 @@
+
+; *****************************************************************************
+;
+;	NEWS
+;
+; *****************************************************************************
+[NEWS_TITLE0]
+COMMENT="News title comment"
+LAST_MODIFIED="1/10/2000"
+STRING="TitleToDraw"
+
+; ********************************************************
+;
+; NEWS TITLES
+;
+; ********************************************************
+
+
+;/////////////////////////////////////////////////////////////
+;// GENERIC NEWS
+;//
+
+
+//Dynamique
+;
+[0]
+Title="Supervisor: A linha de produção não está completa"
+;
+[1]
+Title="Supervisor: Uma das máquinas está quebrada"
+;
+[2]
+Title="Supervisor: Eu terminei de consertar a máquina de montagem"
+;
+[3]
+Title="Técnico: Eu terminei de consertar a máquina de componentes"
+;
+[4]
+Title="Supervisor: A produção foi reiniciada"
+;
+[5]
+Title="Cientista: Nós solicitamos uma patente"
+;
+[6]
+Title="Patente concedida..."
+;
+[7]
+Title="Cientista: Nós trouxemos uma patente a domínio público"
+;
+[8]
+Title="Patente pública..."
+;
+[9]
+Title="Cientista: Não estamos suficientemente avançados para iniciar esta pesquisa, chefe."
+;
+[10]
+Title="Cientista: Nós precisamos comprar um Kit Teste Químico Avançado"
+;
+[11]
+Title="Cientista: Precisamos comprar um Gerador de Fibra"
+;
+[12]
+Title="Cientista: Nós precisamos comprar um Banco de Dados Médicos"
+;
+[13]
+Title="Cientista: Nós precisamos comprar um Gerador de turbinas"
+;
+[14]
+Title="Cientista: Nós precisamos comprar uma Amostra de fibra"
+;
+[15]
+Title="Cientista: Nós precisamos comprar uma Turbina de vôo"
+;
+[16]
+Title="Cientista: Nós precisamos comprar uma unidade HoverTech"
+;
+[17]
+Title="Cientista: Nós precisamos comprar um recipiente com gel"
+;
+[18]
+Title="Cientista: Nós precisamos comprar uma Máquina de microchip"
+;
+[19]
+Title="Cientista: Nós precisamos comprar uma unidade de resistência"
+;
+[20]
+Title="RH: Eu tenho um novo candidato!"
+;
+[21]
+Title="RH: O setor de produção teve sua disposição renovada!"
+
+;
+[22]
+Title="RH: A disposição está renovada no lado externo"
+;
+[23]
+Title="RH: A equipe do laboratório teve sua disposição renovada!"
+;
+[24]
+Title="RH: O setor de marketing e administração teve sua disposição renovada!"
+
+;
+[25]
+Title="Contadora: Eu contatei a máfia!"
+;
+[26]
+Title="Contadora: Criei o 'caixa 2'"
+;
+[27]
+Title="RH: Treinamento de níveis..."
+;
+[28]
+Title="RH: Seminário motivacional..."
+;
+[29]
+Title="RH: Treinamento em eficiência."
+;
+[30]
+Title="Publ.: Nós temos um anúncio na Lua!"
+;
+[31]
+Title="Publ.: Nós temos um balão publicitário!"
+;
+[32]
+Title="Anúncio na Lua..."
+;
+[33]
+Title="O Anúncio Lunar acaba em 10 dias..."
+;
+[34]
+Title="Publ.: O balão publicitário irá parar em 10 dias"
+;
+[35]
+Title="Vendas: O distribuidor aceitou a minha propina"
+;
+[36]
+Title="Vendas: Eu posso vender todo o estoque"
+;
+[37]
+Title="Vendas: O estoque foi vendido..."
+;
+[38]
+Title="Você terá que fazer um 'caixa 2'"
+
+;
+[39]
+Title="Você terá que fazer um 'caixa 2' e então contatar a máfia"
+
+;
+[40]
+Title="Advogado: Eu lancei uma ação judicial"
+;
+[41]
+Title="Inocente..."
+;
+[42]
+Title="Culpado..."
+;
+[43]
+Title="Advogado: Eu falei com o fiscal, então deveremos ser inspecionados logo"
+;
+[44]
+Title="Inspeção fiscal iminente"
+;
+[45]
+Title="Relatório fiscal..."
+;
+[46]
+Title="Relatório fiscal..."
+;
+[47]
+Title="Advogado: Eu iniciei um novo boato!"
+;
+[48]
+Title="Manchete..."
+;
+[49]
+Title="Espião: Não consegui roubar coisa alguma, chefe..."
+;
+[50]
+Title="Espião: Chefe! Consegui roubar o projeto de um componente!"
+;
+[51]
+Title="Manchete: Espionagem..."
+;
+[52]
+Title="Cientista: Malditos! Roubaram o projeto de um de nossos componentes"
+;
+[53]
+Title="Espião: Missão cumprida, chefe! O setor de produção de nosso rival foi sabotado"
+;
+[54]
+Title="Manchete: Espionagem..."
+;
+[55]
+Title="Supervisor: Chefe, minha máquina foi sabotada!"
+;
+[56]
+Title="Espião: Meu relatório..."
+;
+[57]
+Title="Manchete: Espionagem..."
+;
+[58]
+Title="Admin. & Marketing: Senhor, nós fomos roubados!"
+;
+[59]
+Title="Espião: Eu não vou lá não, chefe! É muito bem-protegido..."
+;
+[60]
+Title="Espião capturado..."
+;
+[61]
+Title="Espião: Obrigado por me tirar dessa fria, chefe! Estou devendo essa."
+;
+[62]
+Title="Mafioso: Papa! O setor de produção estare de cabelo em pé, Dio mio!"
+
+;
+[63]
+Title="Mafioso: As donnas cientista estão aterrorizadas, papa!"
+;
+[64]
+Title="Mafioso: O pessoal externo estare tutto assustado."
+;
+[65]
+Title="Mafioso: Papa, o setor de administrazione e marketing estão molto assustados!"
+;
+[66]
+Title="Segurança: Eu me livrei de um intruso, patrão!"
+;
+[67]
+Title="Pedido de pesquisa entregue..."
+;
+[68]
+Title="Pedido de produção entregue..."
+
+;
+[69]
+Title="Cientista: Nós precisamos desenvolver a Análise de Fezes e Urina urgentemente!"
+;
+[70]
+Title="Cientista: Nós precisamos desenvolver Sensores de Check-up com urgência!"
+;
+[71]
+Title="Cientista: Nós precisamos desenvolver um capacete básico com proteção para o queixo, com urgência!"
+;
+[72]
+Title="Cientista: Nós precisamos desenvolver uma linha de botas de couro flexíveis, com urgência!"
+;
+[73]
+Title="Cientista: Nós precisamos desenvolver uma linha de sapatos plásticos com articulação para os tornozelos - com urgência!"
+;
+[74]
+Title="Cientista: Nós precisamos desenvolver algum capacete que tenha total eliminação de atrito - com urgência!"
+;
+[75]
+Title="Cientista: Nós precisamos desenvolver uma linha de capacetes com visor embutido, com urgência!"
+;
+[76]
+Title="Cientista: Nós precisamos desenvolver o controle multidirecional portátil, com urgência!"
+;
+[77]
+Title="Cientista: Nós precisamos desenvolver uma linha de sensores multidirecionais, com urgência!"
+;
+[78]
+Title="Cientista: Nós precisamos desenvolver um radar de longa distância e alta precisão, com urgência!"
+;
+[79]
+Title="Cientista: Nós precisamos desenvolver o olho bi-dimensional, com urgência!"
+;
+[80]
+Title="Cientista: Nós precisamos desenvolver olhos com visão 3D e zoom, com urgência!"
+;
+[81]
+Title="Cientista: Nós precisamos desenvolver uma memória para longas listas de movimentos, com urgência!"
+;
+[82]
+Title="Cientista: Nós precisamos desenvolver um gerador de tarefas por comandos avançados de voz, com urgência!"
+;
+[83]
+Title="Cientista: Nós precisamos desenvolver um microprocessador de aprendizado independente, com urgência!"
+;
+[84]
+Title="Cientista: Nós precisamos desenvolver uma linha de pernas robóticas básicas, com urgência!"
+;
+[85]
+Title="Cientista: Nós precisamos desenvolver uma memória para longas listas de movimentos, com urgência!"
+;
+[86]
+Title="Cientista: Nós precisamos desenvolver uma linha de pernas baseadas na anatomia humana, com urgência!"
+;
+[87]
+Title       = "Nós precisamos estar em um nível maior para produzir este componente"
+;
+[88]
+Title       = "O componente foi mudado, e o estoque velho foi jogado fora"
+
+[89]
+Title       = "Nós precisamos de uma estação de trabalho superior para o nosso supervisor"
+
+
+
+//Alétaoire
+;
+[90]
+Title="Atenção: As vendas caíram..."
+;
+[91]
+Title="Atenção: As vendas subiram..."
+;
+[92]
+Title="Atenção: As vendas caíram..."
+;
+[93]
+Title="Atenção: As vendas subiram..."
+;
+[94]
+Title="Banco: Taxas de juros sobem..."
+;
+[95]
+Title="Banco: Taxas de juros caem..."
+;
+[96]
+Title="Mercado de empregos diminui..."
+;
+[97]
+Title="É uma boa hora para contratar!"
+;
+[98]
+Title="Fornecedor aumenta os preços"
+;
+[99]
+Title="Fornecedor diminui os preços"
+;
+[100]
+Title="Pedido de pesquisa..."
+;
+[101]
+Title="Leis ambientalistas..."
+;
+[102]
+Title="Leis ambientalistas..."
+;
+[103]
+Title="Leis ambientalistas..."
+;
+[104]
+Title="Estamos próximos do Natal..."
+;
+[105]
+Title="Inspeção fiscal"
+
+;
+[106]
+Title="Inspeção fiscal: Multa..."
+;
+[107]
+Title="Inspeção fiscal: Tudo certo!"
+
+;
+[108]
+Title="Técnico: Patrão, eu não agüento mais!"
+;
+[109]
+Title="Supervisor: Já estou farto..."
+;
+[110]
+Title="Espião: Não estou me sentindo bem..."
+;
+[111]
+Title="Mafioso: Papa, estamos molto deprimidos, capice?"
+;
+[112]
+Title="Cientista: Este ritmo está me matando..."
+;
+[113]
+Title="RH: Estou morta de cansaço!"
+;
+[114]
+Title="Advogado: Estou exausto..."
+;
+[115]
+Title="Contadora: Estou cheia disso!"
+;
+[116]
+Title="Publ.: Ultimamente tudo parece me deixar nervosa..."
+;
+[117]
+Title="Vendas: Não posso esperar até o final de semana!"
+;
+[118]
+Title="Segurança: Esse ambiente é muito depressivo, patrão..."
+;
+[119]
+Title="Demissão..."
+
+;
+[120]
+Title="Contadora: Nós estamos prestes a falir!"
+;
+[121]
+Title="Falência..."
+
+;
+[122]
+Title="Pedido de pesquisa aceito..."
+;
+[123]
+Title="Pedido de produção aceito..."
+;
+[124]
+Title="Pedido de produção aceito..."
+;
+[125]
+Title="Pedido de produção aceito..."
+;
+[126]
+Title="Pedido de produção negado..."
+
+;
+[127]
+Title="Objetivo..."
+;
+[128]
+Title="Objetivo..."
+;
+[129]
+Title="Objetivo..."
+;
+[130]
+Title="Objetivo..."
+;
+[131]
+Title="Objetivo..."
+;
+[132]
+Title="Objetivo..."
+;
+[133]
+Title="Objetivo..."
+;
+[134]
+Title="Objetivo..."
+;
+[135]
+Title="Objetivo..."
+;
+[136]
+Title="Objetivo..."
+;	E_VICTORY_CONDITION_DEMO
+[137]
+Title 		= "Condition de victoire..."
+;	E_VICTORY_CONDITION_LEVEL04
+[138]
+Title 		= "Objectif de mission..."
+;	E_VICTORY_CONDITION_LEVEL05
+[139]
+Title 		= "Objectif de mission..."
+;	E_VICTORY_CONDITION_LEVEL06
+[140]
+Title 		= "Objectif de mission..."
+;	E_VICTORY_CONDITION_LEVEL07
+[141]
+Title 		= "Objectif de mission..."
+;	E_VICTORY_CONDITION_LEVEL08
+[142]
+Title 		= "Objetivo..."
+;
+[143]
+Title 		= "Objetivo..."
+;
+[144]
+Title 		= "Objetivo..."
+;
+[145]
+Title 		= "Objetivo..."
+;
+[146]
+Title 		= "Objetivo..."
+;
+[147]
+Title 		= "Rescisão..."
+
+;/////////////////////////////////////////////////////////////
+;// PRODUCTS NEWS
+;//
+
+;// TOILET
+
+[300]		
+Title="Pedido de produção..."
+
+;// ROLLERBLADE
+
+[400]
+Title="Pedido de produção..."
+
+;// ROBOT
+
+[500];
+Title="Pedido de produção..."
+
+;/////////////////////////////////////////////////////////////
+;// MISSIONS
+;//
+
+;// TUTORIAL
+
+;// TUTORIAL1
+[600];
+Title="Abra a janela de mensagens e siga o tutorial" 
+
+[601];
+Title="Tutorial: Desenvolver pesquisas"
+
+[602];
+Title="Tutorial: Componentes"
+
+[603];
+Title="Tutorial: Árvore tecnológica"
+
+[604];
+Title="Fim da parte 2"
+
+;// TUTORIAL2
+[625];
+Title="Abra a janela de mensagens e siga o tutorial"
+
+[626];
+Title="Tutorial : Manufaturamento"
+
+[627];
+Title="Fim da parte 2"
+
+;// TUTORIAL3
+[650];
+Title="Abra a janela de mensagens e siga o tutorial"
+
+[651];
+Title="Tutorial: Vendas"
+
+[652];
+Title="Tutorial: Tecnos e emotivos"
+
+[653];
+Title="Fim da parte 3"
+
+;// TUTORIAL4
+[675];
+Title=Abra a janela de mensagens e siga o tutorial"
+
+[676];
+Title="Tutorial: Disposição"
+
+[677];
+Title="Tutorial: Roubando funcionários"
+
+[678];
+Title="Tutorial: Espionagem e retaliação"
+
+[679];
+Title="Tutorial: Segurança"
+
+[680];
+Title="Fim da parte 4"
+
+
+;// MISSION1
+
+[700];
+Title="Relatório..."
+
+;// MISSION2
+
+[800];
+Title="Relatório..."
+
+;// MISSION3
+
+[900];
+Title="Relatório..."
+
+;// MISSION4
+
+[1000];
+Title="Relatório..."
+
+;// MISSION5
+
+;[1100];
+;Title="Relatório..."
+[1100];
+Title		= "QUEBRA DA BOLSA !!"
+
+[1101];
+Title		= "D+90: Encorajamento..."
+
+[1102];
+Title		= "D+90: Mercado favorecido..."
+
+[1103];
+Title		= "D-90: Empresa abre falência..."
+
+[1104];
+Title		= "D-90: Programa de Contensão"
+
+[1105];
+Title		= "D+30: Melhores resultados"
+
+[1106];
+Title		= "D+30: Ganho em Telecomunicações"
+
+[1107];
+Title		= "D-30: Resignação"
+
+[1108];
+Title		= "D-30: Receio de aumento de juros"
+
+[1109];
+Title		= "D+10: Encorajamento"
+
+[1110];
+Title		= "D+10: Corte nas taxas de juros"
+
+[1111];
+Title		= "D-10: Queda de Lucros"
+
+[1112];
+Title		= "D-10: Aumentam as taxas de juros"
+
+;// MISSION6
+
+[1200];
+Title="Relatório..."
+
+;// MISSION7
+
+[1300];
+Title="Relatório..."
+
+;// MISSION8
+
+[1400];
+Title="Relatório..."
+
+;// MISSION9
+
+[1500];
+Title="Relatório..."

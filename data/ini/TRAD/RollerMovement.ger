@@ -1,0 +1,71 @@
+[0]
+String="4 Räder"
+
+[1]
+String="Holzräder"
+
+[2]
+String="4 Räder"
+
+[3]
+String="Kunststoffräder"
+
+[4]
+String="4 Räder"
+
+[5]
+String="Kunststoffräder mit Tragfedern"
+
+[6]
+String="Inliner"
+
+[7]
+String="Kunststoffschiene mit Tragfedern"
+
+[8]
+String="Inliner"
+
+[9]
+String="Metallschiene mit Tragfedern"
+
+[10]
+String="Inliner"
+
+[11]
+String="Cross Wheels"
+
+[12]
+String="Jetantrieb"
+
+[13]
+String="Jetverstärker mit geringer Kraft"
+
+[14]
+String="Jetantrieb"
+
+[15]
+String="Jetantrieb mit mittlerer Kraft"
+
+[16]
+String="Jetantrieb"
+
+[17]
+String="Eingebauter Doppeljet mit zwei Turbinen"
+
+[18]
+String="Magnetcontroller"
+
+[19]
+String="Tragbarer Controller mit einer Achse"
+
+[20]
+String="Magnetcontroller"
+
+[21]
+String="Tragbarer Controller mit zwei Achsen"
+
+[22]
+String="Magnetcontroller"
+
+[23]
+String="Tragbarer Controller mit mehreren Achsen"

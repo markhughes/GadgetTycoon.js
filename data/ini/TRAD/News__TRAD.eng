@@ -1,0 +1,692 @@
+
+; *****************************************************************************
+;
+;	NEWS
+;
+; *****************************************************************************
+[NEWS_TITLE0]
+COMMENT="News title comment"
+LAST_MODIFIED="1/10/2000"
+STRING="TitleToDraw"
+
+; ********************************************************
+;
+; NEWS TITLES
+;
+; ********************************************************
+
+
+;/////////////////////////////////////////////////////////////
+;// GENERIC NEWS
+;//
+
+
+//Dynamique
+;
+[0]
+Title="Supervisor: The production line is not complete"
+;
+[1]
+Title="Supervisor: One of the machines has broken down"
+;
+[2]
+Title="Supervisor: I have finished reparing the assembly machine"
+;
+[3]
+Title="Technician: I have finished reparing the component machine"
+;
+[4]
+Title="Supervisor: Production has started again"
+;
+[5]
+Title="Researcher: We have applied for a patent"
+;
+[6]
+Title="Patent granted..."
+;
+[7]
+Title="Researcher: We have brought a patent into the public domain "
+;
+[8]
+Title="Public patent..."
+;
+[9]
+Title="Researcher: We are not advanced enough to launch this research"
+;
+[10]
+Title="Researcher: We need to buy an Advanced chemical test kit"
+;
+[11]
+Title="Researcher: We need to buy a Fibre knot generator"
+;
+[12]
+Title="Researcher: We need to buy a Health data computer"
+;
+[13]
+Title="Researcher: We need to buy a Jet-generator"
+;
+[14]
+Title="Researcher: We need to buy a Fiber unit"
+;
+[15]
+Title="Researcher: We need to buy a Flight turbine"
+;
+[16]
+Title="Researcher: We need to buy a Hovertech unit"
+;
+[17]
+Title="Researcher: We need to buy an Aqueous humor vat"
+;
+[18]
+Title="Researcher: We need to buy a Microchip machine"
+;
+[19]
+Title="Researcher: We need to buy a Mechanical stamina unit"
+;
+[20]
+Title="HR: I have a new candidate!"
+;
+[21]
+Title="HR: Morale is back up in production"
+
+;
+[22]
+Title="HR: Morale is back up outside"
+;
+[23]
+Title="HR: Morale is back up in the lab"
+;
+[24]
+Title="HR: Morale is back up in marketing & admin"
+
+;
+[25]
+Title="Accountant: I have contacted the mafia"
+;
+[26]
+Title="Accountant: I have created the slush fund"
+;
+[27]
+Title="HR: Level training..."
+;
+[28]
+Title="HR : Motivation seminar..."
+;
+[29]
+Title="HR: Efficiency training..."
+;
+[30]
+Title="Pub: We have a Lunar ad"
+;
+[31]
+Title="Pub: We have an airship"
+;
+[32]
+Title="Lunar ad..."
+;
+[33]
+Title="End of Lunar ad in 10 days..."
+;
+[34]
+Title="Pub: End of airship in 10 days"
+;
+[35]
+Title="Sales: The distributor accepted my bribe  "
+;
+[36]
+Title="Sales: I can sell off the stock"
+;
+[37]
+Title="Sales: I have sold off the stock..."
+;
+[38]
+Title="You have to make a slush fund"
+
+;
+[39]
+Title="You have to make a slush fund and then contact the mafia"
+
+;
+[40]
+Title="Lawyer: I've launched a court action"
+;
+[41]
+Title="Innocent..."
+;
+[42]
+Title="Guilty..."
+;
+[43]
+Title="Lawyer: I contacted the taxman, so we should be inspected soon"
+;
+[44]
+Title="Tax inspection imminent..."
+;
+[45]
+Title="Taxman's report... "
+;
+[46]
+Title="Taxman's report... "
+;
+[47]
+Title="Lawyer: I've started a rumour!"
+;
+[48]
+Title="Newsflash... "
+;
+[49]
+Title="Spy: I didn't manage to steal anything"
+;
+[50]
+Title="Spy: I stole the research papers for a component"
+;
+[51]
+Title="Newsflash: Industrial espionage..."
+;
+[52]
+Title="Researcher: Someone has stolen the research papers for one of our components"
+;
+[53]
+Title="Spy: Mission accomplished: I have sabotaged their production"
+;
+[54]
+Title="Newsflash: Industrial espionage..."
+;
+[55]
+Title="Supervisor: My machine has been sabotaged"
+;
+[56]
+Title="Spy: My report..."
+;
+[57]
+Title="Newsflash: Industrial espionage..."
+;
+[58]
+Title="Admin & Marketing: We have been burgled"
+;
+[59]
+Title="Spy: I'm not going there. It's too well-protected"
+;
+[60]
+Title="Spy captured..."
+;
+[61]
+Title="Spy: Thanks for bailing me out, boss. I owe you."
+;
+[62]
+Title="Mafia: Production personnel are terrified"
+
+;
+[63]
+Title="Mafia: The Researchers are terrified"
+;
+[64]
+Title="Mafia: Outside personnel are scared"
+;
+[65]
+Title="Mafia: Marketing and admin are frightened"
+;
+[66]
+Title="Security: I just got rid of a spy"
+;
+[67]
+Title="Research order delivered..."
+;
+[68]
+Title="Production order delivered..."
+
+;
+[69]
+Title="Researcher: We urgently need to research the Urine/Faeces-filter"
+;
+[70]
+Title="Researcher: We urgently need to research the Probe filter for total health analysis"
+;
+[71]
+Title="Researcher: We urgently need to research the Basic Helmet with chin protection"
+;
+[72]
+Title="Researcher: We urgently need to research the Supple, quality leather boots"
+;
+[73]
+Title="Researcher: We urgently need to research the Plastic shoe with articulated ankles"
+;
+[74]
+Title="Researcher: We urgently need to research the Aerospeed helmet for total friction elimination"
+;
+[75]
+Title="Researcher: We urgently need to research the Helmet with stylish face visor"
+;
+[76]
+Title="Researcher: We urgently need to research the Multidirectional hand-held controller"
+;
+[77]
+Title="Researcher: We urgently need to research the Multidirectional probe surround "
+;
+[78]
+Title="Researcher: We urgently need to research the Long-distance, high-precision radar"
+;
+[79]
+Title="Researcher: We urgently need to research the 2D basic single eye"
+;
+[80]
+Title="Researcher: We urgently need to research the 3D binocular eyes"
+;
+[81]
+Title="Researcher: We urgently need to research the Memory for a long list of movements"
+;
+[82]
+Title="Researcher: We urgently need to research the Advanced-activated tasks generator"
+;
+[83]
+Title="Researcher: We urgently need to research the Independant learning micro-processor"
+;
+[84]
+Title="Researcher: We urgently need to research the Basic robotic legs"
+;
+[85]
+Title="Researcher: We urgently need to research the Flexible legs"
+;
+[86]
+Title="Researcher: We urgently need to research the Legs based on human anatomy "
+;
+[87]
+Title       = "We need a higher level to produce this component"
+;
+[88]
+Title       = "The component has been changed, and the old stock thrown away"
+
+[89]
+Title       = "We need a higher level supervisor's workstation"
+
+//Alétaoire
+;
+[90]
+Title="Eco-flash: Sales down..."
+;
+[91]
+Title="Eco-flash: Sales up..."
+;
+[92]
+Title="Eco-flash: Sales down..."
+;
+[93]
+Title="Eco-flash: Sales up..."
+;
+[94]
+Title="Banks: Interest rate hike..."
+;
+[95]
+Title="Banks: Interest rate drop..."
+;
+[96]
+Title="Job center: Job market low..."
+;
+[97]
+Title="Job center: It's the right time to recruit..."
+;
+[98]
+Title="Supplier raises prices..."
+;
+[99]
+Title="Supplier drops prices..."
+;
+[100]
+Title="Research order..."
+;
+[101]
+Title="Green company... "
+;
+[102]
+Title="Green company answer... "
+;
+[103]
+Title="Green company answer... "
+;
+[104]
+Title="It's nearly Christmas... "
+;
+[105]
+Title="Tax inspection "
+
+;
+[106]
+Title="Tax inspection: penalty... "
+;
+[107]
+Title="Tax inspection: All clear..."
+
+;
+[108]
+Title="Technician: I need a break"
+;
+[109]
+Title="Supervisor: I've had enough"
+;
+[110]
+Title="Spy: I'm not feeling very well"
+;
+[111]
+Title="Mafia: I'm depressed"
+;
+[112]
+Title="Researcher: I'm tired"
+;
+[113]
+Title="HR: I'm knackered"
+;
+[114]
+Title="Lawyer: I'm exhausted"
+;
+[115]
+Title="Accountant: I'm fed up"
+;
+[116]
+Title="Pub: Everything gets on my nerves at the moment"
+;
+[117]
+Title="Sales: Can't wait till the weekend!"
+;
+[118]
+Title="Security: This industrial estate is depressing"
+;
+[119]
+Title="Resignation..."
+
+;
+[120]
+Title="Accountant: We are about to go bust"
+;
+[121]
+Title="Bankruptcy..."
+
+;
+[122]
+Title="Research order accepted..."
+;
+[123]
+Title="Production order accepted..."
+;
+[124]
+Title="Production order accepted..."
+;
+[125]
+Title="Production order accepted..."
+;
+[126]
+Title="Production order failed..."
+
+;
+[127]
+Title="Objective..."
+;
+[128]
+Title="Objective..."
+;
+[129]
+Title="Objective..."
+;
+[130]
+Title="Objective..."
+;
+[131]
+Title="Objective..."
+;
+[132]
+Title="Objective..."
+;
+[133]
+Title="Objective..."
+;
+[134]
+Title="Objective..."
+;
+[135]
+Title="Objective..."
+;
+[136]
+Title="Objective..."
+
+;	E_VICTORY_CONDITION_DEMO
+[137]
+Title 		= "Objective..."
+;	E_VICTORY_CONDITION_LEVEL04
+[138]
+Title 		= "Brief..."
+;	E_VICTORY_CONDITION_LEVEL05
+[139]
+Title 		= "Brief..."
+;	E_VICTORY_CONDITION_LEVEL06
+[140]
+Title 		= "Brief..."
+;	E_VICTORY_CONDITION_LEVEL07
+[141]
+Title 		= "Brief..."
+;	E_VICTORY_CONDITION_LEVEL08
+[142]
+Title 		= "Brief..."
+;
+[143]
+Title 		= "Brief..."
+;
+[144]
+Title 		= "Brief..."
+;
+[145]
+Title 		= "Brief..."
+;
+[146]
+Title 		= "Brief..."
+;
+[147]
+Title 		= "Brief..."
+;
+[148]
+Title 		= ""
+;
+[149]
+Title 		= "Laying off..."
+
+;/////////////////////////////////////////////////////////////
+;// PRODUCTS NEWS
+;//
+
+;// TOILET
+
+[300]		
+Title="Production order..."
+
+;// ROLLERBLADE
+
+[400]
+Title="Production order..."
+
+;// ROBOT
+
+[500];
+Title="Production order..."
+
+;/////////////////////////////////////////////////////////////
+;// MISSIONS
+;//
+
+;// TUTORIAL
+
+;// TUTORIAL1
+[600];
+Title="Open the mail window to follow the tutorial"
+
+[601];
+Title="Tutorial: Carry out research"
+
+[602];
+Title="Tutorial: Components"
+
+[603];
+Title="Tutorial: Technology Tree"
+
+[604];
+Title="End part 1"
+
+;// TUTORIAL2
+[625];
+Title="Open the mail window to follow the tutorial"
+
+[626];
+Title="Tutorial: Manufacturing"
+
+[627];
+Title="End part 2"
+
+;// TUTORIAL3
+[650];
+Title="Open the mail window to follow the tutorial"
+
+[651];
+Title="Tutorial: Sales"
+
+[652];
+Title="Tutorial: Technies and emotives"
+
+[653];
+Title="End part 3"
+
+;// TUTORIAL4
+[675];
+Title="Open the mail window to follow the tutorial"
+
+[676];
+Title="Tutorial: Morale"
+
+[677];
+Title="Tutorial: Poaching"
+
+[678];
+Title="Tutorial: Spying and retaliation"
+
+[679];
+Title="Tutorial: Security"
+
+[680];
+Title="End part 4"
+
+
+;// MISSION1
+
+;[700];
+;Title="Brief..."
+
+;// MISSION2
+
+;[800];
+;Title="Brief..."
+
+;// MISSION3
+
+;[900];
+;Title="Brief..."
+
+[900]
+Title		= "" 
+
+;// MISSION4
+
+;[1000];
+;Title="Brief..."
+
+[1000];
+Title		= "" 
+
+;// MISSION5
+
+;[1100];
+;Title="Brief..."
+
+[1100];
+Title		= "MARKET CRASH !!
+
+[1101];
+Title		= "D+90: Encouraging..."
+
+[1102];
+Title		= "D+90: Markets boosted..."
+
+[1103];
+Title		= "D-90: Major firm goes bankrupt..."
+
+[1104];
+Title		= "D-90: Extensive reduncies"
+
+[1105];
+Title		= "D+30: Better results"
+
+[1106];
+Title		= "D+30: Gains on telecoms sectors"
+
+[1107];
+Title		= "D-30: Resignation"
+
+[1108];
+Title		= "D-30: Fears of interest rate hike"
+
+[1109];
+Title		= "D+10: Encouraging..."
+
+[1110];
+Title		= "D+10: Interest rates' cut"
+
+[1111];
+Title		= "D-10: Profit warnings"
+
+[1112];
+Title		= "D-10: Interest rates' raise"
+
+
+;// MISSION6
+
+;[1200];
+;Title="Brief..."
+
+;// MISSION7
+
+;[1300];
+;Title="Brief..."
+[1300];		E_NEWS_COMMANDE_MISSION_1
+Title		= "Production order..."
+
+[1301];		E_NEWS_COMMANDE_MISSION_2
+Title		= "Production order..."
+
+[1302];		E_NEWS_COMMANDE_MISSION_3
+Title		= "Production order..."
+
+[1303];		E_NEWS_COMMANDE_MISSION_4
+Title		= "Production order..."
+
+[1304];		E_NEWS_COMMANDE_MISSION_5
+Title		= "Production order..."
+
+[1305];		E_NEWS_COMMANDE_MISSION_6
+Title		= "Production order..."
+
+[1306];		E_NEWS_COMMANDE_MISSION_7
+Title		= "Production order..."
+
+[1307];		E_NEWS_COMMANDE_MISSION_8
+Title		= "Production order..."
+
+[1308];		E_NEWS_COMMANDE_MISSION_9
+Title		= "Production order..."
+
+[1309];		E_NEWS_COMMANDE_MISSION_10
+Title		= "Production order..."
+
+;// MISSION8
+
+;[1400];
+;Title="Brief..."
+
+;// MISSION9
+
+;[1500];
+;Title="Brief..."

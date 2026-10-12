@@ -1,0 +1,71 @@
+[0]
+String="Stange"
+
+[1]
+String="Einseitige Stange "
+
+[2]
+String="Stange"
+
+[3]
+String="Doppelseitige Stange"
+
+[4]
+String="Stange"
+
+[5]
+String="360°-Rundumstange"
+
+[6]
+String="Greifer"
+
+[7]
+String="Einzelner einfacher Greifer"
+
+[8]
+String="Greifer"
+
+[9]
+String="Zwei einfache Greifer"
+
+[10]
+String="Greifer"
+
+[11]
+String="Einfaches Greiferpaar mit Drehgelenken"
+
+[12]
+String="Arme"
+
+[13]
+String="Drehbares Greiferpaar mit Ellenbogen"
+
+[14]
+String="Arme"
+
+[15]
+String="Arme mit faltbaren Schultern und Ellenbogen"
+
+[16]
+String="Arme"
+
+[17]
+String="Einziehbare Arme für erhöhte Beweglichkeit"
+
+[18]
+String="Künstliche Hände"
+
+[19]
+String="Zwei Finger mit gegenüberliegendem Daumen"
+
+[20]
+String="Künstliche Hände"
+
+[21]
+String="Fünf einfache Finger mit gegenüberliegendem Daumen"
+
+[22]
+String="Künstliche Hände"
+
+[23]
+String="Auf menschlichem Körperbau basierende Hände"

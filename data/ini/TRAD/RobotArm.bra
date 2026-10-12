@@ -1,0 +1,71 @@
+[0]
+String="Barra de proteção"
+
+[1]
+String="Barra de proteção simples"
+
+[2]
+String="Barra de proteção"
+
+[3]
+String="Barra de proteção dupla"
+
+[4]
+String="Barra de proteção"
+
+[5]
+String="Barra de proteção de 360° em torno do robô"
+
+[6]
+String="Pinças"
+
+[7]
+String="Pinça simples"
+
+[8]
+String="Pinças"
+
+[9]
+String="Pinça dupla simples"
+
+[10]
+String="Pinças"
+
+[11]
+String="Par de pinças com pulsos rotativos"
+
+[12]
+String="Braços"
+
+[13]
+String="Par de pinças com cotovelos flexíveis"
+
+[14]
+String="Braços"
+
+[15]
+String="Braço com ombros e cotovelos flexíveis"
+
+[16]
+String="Braços"
+
+[17]
+String="Braços retráteis - máxima flexibilidade"
+
+[18]
+String="Mãos "
+
+[19]
+String="Polegares opositores e dois dedos"
+
+[20]
+String="Mãos "
+
+[21]
+String="Polegares opositores com 5 dedos simples"
+
+[22]
+String="Mãos "
+
+[23]
+String="Mãos similares à humana, alta destreza"

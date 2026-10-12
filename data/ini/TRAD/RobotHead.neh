@@ -1,0 +1,71 @@
+[0]
+String="Tastwaarneming"
+
+[1]
+String="Met één voelspriet"
+
+[2]
+String="Tastwaarneming"
+
+[3]
+String="Met drie voelsprieten"
+
+[4]
+String="Tastwaarneming"
+
+[5]
+String="Met voelsprieten voor alle richtingen"
+
+[6]
+String="Radarwaarneming"
+
+[7]
+String="Weinig precieze radar voor korte afstand"
+
+[8]
+String="Radarwaarneming"
+
+[9]
+String="Redelijk precieze radar voor gemiddelde afstand"
+
+[10]
+String="Radarwaarneming"
+
+[11]
+String="Zeer precieze radar voor lange afstand"
+
+[12]
+String="Visuele waarneming"
+
+[13]
+String="2D standaard enkel oog"
+
+[14]
+String="Visuele waarneming"
+
+[15]
+String="3D dubbele ogen"
+
+[16]
+String="Visuele waarneming"
+
+[17]
+String="3D 'facetoog' voor 360° zicht"
+
+[18]
+String="Infraroodwaarneming"
+
+[19]
+String="Infraroodsensor voor korte afstand"
+
+[20]
+String="Infraroodwaarneming"
+
+[21]
+String="Infraroodwaarneming voor lange afstand"
+
+[22]
+String="Infraroodwaarneming"
+
+[23]
+String="Infrarode supersensor met satellietverbinding"

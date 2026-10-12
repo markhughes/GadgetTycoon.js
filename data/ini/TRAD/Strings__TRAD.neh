@@ -1,0 +1,2133 @@
+; *****************************************************************************
+;
+;	MISSION
+;
+; *****************************************************************************
+[MISSION0]
+COMMENT       = "Titre de la mission 0"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "Toiletwedstrijd"
+
+[MISSION1]
+COMMENT       = "Titre de la mission 1"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "Zoek een oplossing!"
+
+[MISSION2]
+COMMENT       = "Titre de la mission 2"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "Op naar het Oosten"
+
+[MISSION3]
+COMMENT       = "Titre de la mission 3"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "Hyperinflatie!"
+
+[MISSION4]
+COMMENT       = "Titre de la mission 4"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "De aandelenmarkt crasht!"
+
+[MISSION5]
+COMMENT       = "Titre de la mission 5"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Voorkom einde starter"
+
+[MISSION6]
+COMMENT       = "Titre de la mission 6"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Het embargo"
+
+[MISSION7]
+COMMENT       = "Titre de la mission 7"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Uittocht van kennis"
+
+[MISSION8]
+COMMENT       = "Titre de la mission 8"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Meneer Correct"
+
+; *****************************************************************************
+;
+;	MISSION_DESC
+;
+; *****************************************************************************
+[MISSION0_LINE0]
+COMMENT       = "Description de la mission 0"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "Product: Toiletten"
+
+[MISSION0_LINE1]
+COMMENT       = "Description de la mission 0"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "Niveau: Makkelijk"
+
+[MISSION0_LINE2]
+COMMENT       = "Description de la mission 0"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "Doelstelling: Het meest geraffineerde toilet produceren"
+
+[MISSION0_LINE3]
+COMMENT       = "Description de la mission 0"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "Onbeperkte tijd "
+
+[MISSION0_LINE4]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "Geachte Heer,§§Als secretaris van de Europese Wetenschapsstichting is het mij een voorrecht u uit te nodigen deel te nemen aan de 4e Internationale Toilettenbeurs die volgend jaar rond deze tijd zal plaatsvinden in Kopenhagen."
+
+[MISSION0_LINE5]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "Ik hoop oprecht dat de Fameuze Latrine Faciliteit de evolutietechnologie voor het nieuwe millennium zal zijn, zoals kernfusie dat vijftig jaar geleden was en buskruit vijfhonderd jaar geleden."
+
+[MISSION0_LINE6]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "Als deelnemer aan de beurs heeft u de gelegenheid uw werk te tonen aan een jury van concullega's en het werk te aanschouwen van andere bedrijven in de branche."
+
+[MISSION0_LINE7]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "Een prijs van $100,000 wordt uitgereikt voor het beste toilet, gevolgd door twee prijzen voor de tweede plaats van elk $20,000."
+
+[MISSION0_LINE8]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "We hopen u in Kopenhagen te zien,§§Hoogachtend,§§I . Asimov"
+
+[MISSION0_LINE9]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "5/5/2001"
+STRING        = ""
+
+
+[MISSION1_LINE0]
+COMMENT       = "Description de la mission 1"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "Product: Toiletten"
+
+[MISSION1_LINE1]
+COMMENT       = "Description de la mission 1"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "Niveau: Moeilijk "
+
+[MISSION1_LINE2]
+COMMENT       = "Description de la mission 1"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "Doelstelling: 400 Toiletten verkopen"
+
+[MISSION1_LINE3]
+COMMENT       = "Description de la mission 1"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "Onbeperkte tijd"
+
+[MISSION1_LINE4]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "Je bent een management-consultant die is gespecialiseerd in startende bedrijven en hebt een bericht op je antwoordapparaat van een toiletfabrikant die moeite heeft zijn goederen aan de man te brengen."
+
+[MISSION1_LINE5]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "Kun jij hun dalende winstcurve ombuigen en doortrekken naar positieve waarden?§§“Mijn naam is dhr. Bochtig van de firma U-Bochtech en Spoeling. Misschien kent u ons nog niet, maar ik weet zeker dat u wel eens op ons heeft gezeten. Wij maken namelijk toiletten. Futuristische toiletten."
+
+[MISSION1_LINE6]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "Maar de toekomst ziet er niet zo goed uit. Daarom bel ik u.§Het probleem is dat niemand onze toiletten koopt. Men geneert zich te praten over de frisse nieuwe toekomst die wij bieden, zoals verstelbare potten en medische analyses."
+
+[MISSION1_LINE7]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "Kennelijk blijft men liever in de middeleeuwen van vlotters en kalkaanslag steken. Ik heb met de afdeling P&O gesproken en zij zeggen dat er ook geen technici of productiechefs zijn. De productie ligt dus bijna stil en bovendien verlangen ze dikke salarissen. Nou, ik heb dus geprobeerd te praten met P&O, maar dat heeft niet veel opgeleverd."
+
+[MISSION1_LINE8]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "Ik kan eigenlijk ook niet al te best opschieten met de onderzoeks- en ontwikkelingsafdeling, zij doen hun werk niet naar behoren. Geen patenten, geen royalty's. Kortom, de sfeer hier is shit! Ik wil hun salaris wel verhogen als ze zich wat flexibeler zouden opstellen, of als ik het me kon veroorloven."
+
+[MISSION1_LINE9]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "Maar we hebben nauwelijks voorraad over om in de markt te zetten en zelfs al zouden we de voorraad verkopen, dan brengt het nog niet de royalty's op die we nodig hebben. Kortom, ik weet niet wat er fout is gegaan! Heeft u nu een beetje een indruk? Ik dacht dat ik het u maar beter in handen kon geven voordat ik het helemaal opgeef. Ik hoop dat u beter bent opgewassen tegen de spanning dan ik.”"
+
+
+[MISSION2_LINE0]
+COMMENT       = "Description de la mission 2"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "Product: Rolschaatsen"
+
+[MISSION2_LINE1]
+COMMENT       = "Description de la mission 2"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "Niveau: Makkelijk"
+
+[MISSION2_LINE2]
+COMMENT       = "Description de la mission 2"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "Doelstelling: $10.000.000 Verdienen"
+
+[MISSION2_LINE3]
+COMMENT       = "Description de la mission 2"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "Onbeperkte tijd"
+
+[MISSION2_LINE4]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "Dus jij dacht dat het slecht ging? Ik ben bang dat het nog veel erger wordt. Je kleine broertje, toch al nooit het brein van de familie, heeft het briljante idee opgevat om zijn complete erfenis te verkwisten aan een vervallen, verliesgevende, voormalige staatsrolschaatsfabriek, in een onstabiel, ex-Sovjet Oostblokland met een prille democratie."
+
+[MISSION2_LINE5]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "De inflatie houdt het land in zijn greep, de gedemoraliseerde en onbekwame beroepsbevolking die weinig vraagt, maar nog minder bijdraagt, ziet haar levensstandaard dalen aangezien de beter gekwalificeerde tegenhangers naar het Westen trekken."
+
+[MISSION2_LINE6]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "De privatisering van het bankwezen heeft een financieel gat achtergelaten dat slechts door de maffia wordt opgevuld. En dat is nog niet het ergste. Het feest mag dan voorbij zijn voor de eenpartijstaat, maar het enorm logge Gosudarttistische Rolschaatsinstituut had tot recentelijk een totale monopoliepositie wat betreft productie en onderzoek."
+
+[MISSION2_LINE7]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "Het bedrijf wordt nog steeds zwaar gesubsidieerd door de regering en is er natuurlijk niet happig op dit op te geven. Het personeel staat ook niet te trappelen om hervormingen, want de fabriek biedt ondanks alle gebreken nog altijd meer zekerheid dan het meedogenloze westerse kapitalisme."
+
+[MISSION2_LINE8]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "Red de eer van de familie, schep orde in deze janboel en verdien een stevige tien miljoen namens je broer. Vervolgens kan hij dat internetbedrijf opzetten in Silicon Valley zoals je hem al aangeraden had te doen."
+
+[MISSION2_LINE9]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "5/5/2001"
+STRING        = ""
+
+
+
+[MISSION3_LINE0]
+COMMENT       = "Description de la mission 3"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "Product: Robot Thuishulp"
+
+[MISSION3_LINE1]
+COMMENT       = "Description de la mission 3"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "Niveau: Moeilijk"
+
+[MISSION3_LINE2]
+COMMENT       = "Description de la mission 3"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "Doelstelling: Als enige speler overblijven"
+
+[MISSION3_LINE3]
+COMMENT       = "Description de la mission 3"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "Onbeperkte tijd"
+
+[MISSION3_LINE4]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "De periode van lage inflatie en fiscale beperkingen lijkt ten einde. Omdat de wereldeconomie afremt, hebben regeringen belastingen en rentetarieven verlaagd in een poging hun eigen economieën een impuls te geven."
+
+[MISSION3_LINE5]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "Het inflatieniveau dat hieruit voortvloeide was echter iets dat niemand kon voorspellen. Bovendien wijst marktonderzoek uit dat een nieuw toilettentijdperk voorlopig nog niet aan zal breken. Het publiek blijft zich generen voor zijn lichaamsfuncties en geven de voorkeur aan 19e-eeuwse technologie."
+
+[MISSION3_LINE6]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "Het rapport onthult ook dat preutsheid niet de enige reden is voor de neergang. Het publiek is oprecht verbijsterd over de hoeveelheid modellen die er op de markt zijn."
+
+[MISSION3_LINE7]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "Dat is niet zo verwonderlijk als je bedenkt dat jij en nog zeven andere bedrijven moeten ploeteren om het hoofd boven water te houden."
+
+[MISSION3_LINE8]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "De prijzen van de producten rijzen de pan uit, waardoor er een hoop bedrijven failliet zullen gaan voordat de economie zichzelf weer heeft gereguleerd."
+
+[MISSION3_LINE9]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "Kun jij de storm doorstaan en ben jij een van de bedrijven die nog steeds meedoen als de wolken zijn weggetrokken?"
+
+
+[MISSION4_LINE0]
+COMMENT       = "Description de la mission 4"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "Product: Rolschaatsen"
+
+[MISSION4_LINE1]
+COMMENT       = "Description de la mission 4"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "Niveau: Moeilijk"
+
+[MISSION4_LINE2]
+COMMENT       = "Description de la mission 4"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "Doelstelling: Over het meeste geld beschikken als de markt instort"
+
+[MISSION4_LINE3]
+COMMENT       = "Description de la mission 4"
+LAST_MODIFIED = "4/18/2001"
+STRING        = "Beperkte tijd"
+
+[MISSION4_LINE4]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "De financiële markten stijgen al veel te lang. Behalve de naïefsten, weet iedereen dat dit niet zo door kan blijven gaan: geen hoogconjunctuur zonder een laagconjunctuur."
+
+[MISSION4_LINE5]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "Deze hausse-bui is inderdaad zeer indrukwekkend geweest, maar alle tekenen wijzen op een baisse die niet best zal zijn. De markt staat op instorten en dit staat binnenkort te gebeuren."
+
+[MISSION4_LINE6]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "Elke onbenullige analist kan je dat vertellen. Het probleem is alleen: wanneer? Hoeveel tijd is er nog om je winst te nemen?"
+
+[MISSION4_LINE7]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "5/5/2001"
+STRING        = "De winnaar in dit spel is degene die het meeste geld heeft als de markt ineen stort.""
+
+[MISSION4_LINE8]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "5/5/2001"
+STRING        = ""
+
+[MISSION4_LINE9]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "5/5/2001"
+STRING        = ""
+
+
+[MISSION5_LINE0]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Product: Toiletten"
+
+[MISSION5_LINE1]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Niveau: Makkelijk"
+
+[MISSION5_LINE2]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Doelstelling: Uit de rode cijfers komen door je saldo naar 0 te brengen"
+
+[MISSION5_LINE3]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Beperkte tijd"
+
+[MISSION5_LINE4]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Je bent naar een startend bedrijf gestuurd dat op het punt staat failliet te gaan en diep in de schulden zit."
+
+[MISSION5_LINE5]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "De strategie van je voorganger was rampzalig. Hij investeerde alles in onderzoek."
+
+[MISSION5_LINE6]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Je hebt een supermodern lab en er is onderzoek gedaan naar elke technologie."
+
+[MISSION5_LINE7]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Je hebt specialistische onderzoekers in dienst die erg duur zijn. Enorme uitgaven en geen winst. De investeerders willen dat je de situatie binnen een jaar verandert. "
+
+[MISSION5_LINE8]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = " "
+
+[MISSION5_LINE9]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = " "
+
+
+
+[MISSION6_LINE0]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Product: Rolschaatsen"
+
+[MISSION6_LINE1]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Niveau: Gemiddeld"
+
+[MISSION6_LINE2]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Doelstelling: $2.500.000 Verdienen"
+
+[MISSION6_LINE3]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Onbeperkte tijd"
+
+[MISSION6_LINE4]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Je hebt geen smeergeld aan het Ministerie van Financiën betaald en nu heeft de regering zijn dreigement uitgevoerd: een productembargo. Je mag niets meer verkopen."
+
+[MISSION6_LINE5]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Om het allemaal nog erger te maken, grijpt je rivaal deze prachtige gelegenheid aan om je compleet te ruïneren. Niets is te smerig voor hem: spionage en intimidatie zijn aan de orde van de dag."
+
+[MISSION6_LINE6]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Reken er maar niet op dat het rechtssysteem je zal helpen, want in dit land zijn de advocaten door en door corrupt en wil sowieso niemand voor je werken."
+
+[MISSION6_LINE7]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "§De enige manier om te overleven is om de productie- en onderzoeksorders uit te voeren die je af en toe van buitenlandse bedrijven krijgt. Probeer zoveel mogelijk geld te verdienen en maak dat je wegkomt zolang het nog goed gaat."
+
+[MISSION6_LINE8]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = " "
+
+[MISSION6_LINE9]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = " "
+
+
+[MISSION7_LINE0]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Product: Toiletten"
+
+[MISSION7_LINE1]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Niveau: Gemiddeld"
+
+[MISSION7_LINE2]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Doelstelling: Bereik een productwaardering van 60% onder designfreaks"
+
+[MISSION7_LINE3]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Onbeperkte tijd"
+
+[MISSION7_LINE4]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Er zijn een heleboel specialisten vertrokken. Je hebt alleen nog technici over."
+
+[MISSION7_LINE5]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Ondanks alles heb je besloten om bij het bedrijf te blijven en te concurreren met geheime onderzoekslaboratoria die alle benodigde hulpmiddelen hebben."
+
+[MISSION7_LINE6]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Je bent ervan overtuigd dat je een markt kunt vinden:"
+
+[MISSION7_LINE7]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "het is aan jou om het bedrijf op de juiste manier te positioneren en een klapper te maken."
+
+[MISSION7_LINE8]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = " "
+
+[MISSION7_LINE9]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = " "
+
+
+[MISSION8_LINE0]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Product: Robot Thuishulp"
+
+[MISSION8_LINE1]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Niveau: Gemiddeld"
+
+[MISSION8_LINE2]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Doelstelling: Als enige speler overblijven"
+
+[MISSION8_LINE3]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Onbeperkte tijd"
+
+[MISSION8_LINE4]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Jij bent Meneer Correct."
+
+[MISSION8_LINE5]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "§Aangezien jij een echte heer bent, heb je een hekel aan je rivalen die hun krachten hebben gebundeld om je bedrijf met alle, merendeels smerige, middelen te gronde te richten."
+
+[MISSION8_LINE6]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Je wilt je niet verlagen tot hun niveau en besluit daarom advocaten in de arm te nemen en voortdurend rechtszaken aan te spannen. Het probleem is om de schuldige partij aan te wijzen, want je zult de rechtszaak verliezen als je een onschuldige rivaal voor het gerecht sleept."
+
+[MISSION8_LINE7]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = "Als je de boosdoener echter te pakken weet te krijgen, zal de schadevergoeding zo hoog zijn dat hij wel gedwongen wordt zich gewonnen te geven. Hou je staande onder de lafhartige aanvallen van de concurrentie en zorg ervoor dat ze één voor één worden veroordeeld."
+
+[MISSION8_LINE8]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = " "
+
+[MISSION8_LINE9]
+COMMENT       = "Description de la mission"
+LAST_MODIFIED = "6/13/2001"
+STRING        = " "
+
+; *****************************************************************************
+;
+;	MISSION SPECIFIC STRINGS
+;
+; *****************************************************************************
+[MISSION5_CRASH]
+COMMENT       = "Nombre de jours restant affiches dans le chat"
+LAST_MODIFIED = "23/04/2001"
+STRING        = "MARKTCRASH: D-"
+
+
+; *****************************************************************************
+;
+;	VICTORY
+;
+; *****************************************************************************
+[VICTORY0]
+COMMENT="Conditions de victoire"
+LAST_MODIFIED="1/10/2000"
+STRING="Voltooi al het technologisch onderzoek voor dit product "
+
+[VICTORY1]
+COMMENT="Conditions de victoire"
+LAST_MODIFIED="1/10/2000"
+STRING="Zorg ervoor dat je $5.000.000 aan geld hebt"
+
+[VICTORY2]
+COMMENT="Conditions de victoire"
+LAST_MODIFIED="1/10/2000"
+STRING="Zorg ervoor dat je aandelenprijs stijgt tot $700"
+
+[VICTORY3]
+COMMENT="Conditions de victoire"
+LAST_MODIFIED="1/10/2000"
+STRING="Verkoop 300 eenheden aan techniekfreaks"
+
+[VICTORY4]
+COMMENT="Conditions de victoire"
+LAST_MODIFIED="1/10/2000"
+STRING="Verkoop 300 eenheden aan designfreaks"
+
+[VICTORY5]
+COMMENT="Conditions de victoire"
+LAST_MODIFIED="1/10/2000"
+STRING="Voltooi zoveel mogelijk onderzoeken in het technologish diagram. 2 jaar
+maximaal"
+
+[VICTORY6]
+COMMENT="Conditions de victoire"
+LAST_MODIFIED="1/10/2000"
+STRING="Laat Uw cash zo hoog mogelijk stijgen. 2 jaar maximaal"
+
+[VICTORY7]
+COMMENT="Conditions de victoire"
+LAST_MODIFIED="1/10/2000"
+STRING="Laat Uw aandelenprij zo hoog mogelijk stijgen. 2 jaar maximaal"
+
+[VICTORY8]
+COMMENT="Conditions de victoire"
+LAST_MODIFIED="1/10/2000"
+STRING="Zorg dat U het grootste aandeel van de technickfreaks markt heeft na 2
+jaar"
+
+[VICTORY9]
+COMMENT="Conditions de victoire"
+LAST_MODIFIED="1/10/2000"
+STRING="Zorg dat U het grootste aandeel van de designfreaks markt heeft na 2 jaar"
+
+[VICTORY10]
+COMMENT       = "Conditions de victoire"
+LAST_MODIFIED = "25/04/2001"
+STRING        = "*DEMO* Gagner le plus d'argent possible en 30min"
+
+; *****************************************************************************
+;
+;	SYSTEM
+;
+; *****************************************************************************
+[SYSTEM_SHADOW_ON]
+COMMENT="Utilisation des ombres"
+LAST_MODIFIED="1/10/2000"
+STRING="Sprite-schaduw aan"
+
+[SYSTEM_SHADOW_OFF]
+COMMENT="Utilisation des ombres"
+LAST_MODIFIED="1/10/2000"
+STRING="Sprite-schaduw uit"
+
+[YES]
+COMMENT="Yes"
+LAST_MODIFIED="1/10/2000"
+STRING="Ja"
+
+[NO]
+COMMENT="No"
+LAST_MODIFIED="1/10/2000"
+STRING="Nee"
+
+
+; *****************************************************************************
+;
+;	GAME OVER
+;
+; *****************************************************************************
+[GAME_OVER_MAIN_MENU_TITLE_LOOSE0]
+COMMENT       = "Titre de fin de partie"
+LAST_MODIFIED = "09/05/2000"
+STRING        = "U bent failliet gegaan..."
+
+[GAME_OVER_MAIN_MENU_TITLE_LOOSE1]
+COMMENT       = "Titre de fin de partie"
+LAST_MODIFIED = "09/05/2000"
+STRING        = "Uw tegenstander was beter dan U"
+
+[GAME_OVER_MAIN_MENU_TITLE_WIN0]
+COMMENT       = "Titre de fin de partie"
+LAST_MODIFIED = "09/05/2000"
+STRING        = "Met KO gewonnen!! Al Uw tegenstanders zijn failliet gegaan"
+
+[GAME_OVER_MAIN_MENU_TITLE_WIN1]
+COMMENT       = "Titre de fin de partie"
+LAST_MODIFIED = "09/05/2000"
+STRING        = "Bravo! Als goede manager heeft U Uw objectieven behaalt"
+
+[GAME_OVER_MAIN_MENU_TITLE_HOST]
+COMMENT       = "Titre de fin de partie"
+LAST_MODIFIED = "09/05/2000"
+STRING        = "Als U als host het spel verlaat, eindigt U het spel"
+
+[GAME_OVER_CREDITS_CURVE0]
+COMMENT       = "Courbes de fin de jeu"
+LAST_MODIFIED = "11/05/2000"
+STRING        = "Productverkoop"
+
+[GAME_OVER_CREDITS_CURVE1]
+COMMENT       = "Courbes de fin de jeu"
+LAST_MODIFIED = "11/05/2000"
+STRING        = "Patenten"
+
+[GAME_OVER_CREDITS_CURVE2]
+COMMENT       = "Courbes de fin de jeu"
+LAST_MODIFIED = "11/05/2000"
+STRING        = "Overige"
+
+[GAME_OVER_BALANCE_CURVE0]
+COMMENT       = "Courbes de fin de jeu"
+LAST_MODIFIED = "11/05/2000"
+STRING        = "Handelsbalans"
+
+[GAME_OVER_DEBITS_CURVE0]
+COMMENT       = "Courbes de fin de jeu"
+LAST_MODIFIED = "11/05/2000"
+STRING        = "Ontslagpremies"
+
+[GAME_OVER_DEBITS_CURVE1]
+COMMENT       = "Courbes de fin de jeu"
+LAST_MODIFIED = "11/05/2000"
+STRING        = "Salaris"
+
+[GAME_OVER_DEBITS_CURVE2]
+COMMENT       = "Courbes de fin de jeu"
+LAST_MODIFIED = "11/05/2000"
+STRING        = "Reclamebudget"
+
+[GAME_OVER_DEBITS_CURVE3]
+COMMENT       = "Courbes de fin de jeu"
+LAST_MODIFIED = "11/05/2000"
+STRING        = "Overige"
+
+
+
+; *****************************************************************************
+;
+;	GAME MENU
+;
+; *****************************************************************************
+[GAME_MENU_BACK_MAIN_MENU]
+COMMENT="Retour"
+LAST_MODIFIED="1/10/2000"
+STRING="Terug"
+
+[GAME_MENU_CANCEL]
+COMMENT="Annuler"
+LAST_MODIFIED="1/10/2000"
+STRING="Annuleren"
+
+
+[GAME_MENU_MAIN_TITLE]
+COMMENT="Game Menu : menu principal"
+LAST_MODIFIED="1/10/2000"
+STRING="HOOFDMENU"
+
+[GAME_MENU_TITLE]
+COMMENT="Game Menu : Titre"
+LAST_MODIFIED="1/10/2000"
+STRING="MENU"
+
+[GAME_MENU_RESUMEGAME]
+COMMENT="Game Menu : Reprendre la partie"
+LAST_MODIFIED="1/10/2000"
+STRING="Spel hervatten"
+
+[GAME_MENU_NEWGAME]
+COMMENT="Game Menu : Nouvelle partie"
+LAST_MODIFIED="1/10/2000"
+STRING="Offline-spel"
+
+[GAME_MENU_SAVEGAME]
+COMMENT="Game Menu : Sauvegarder la partie courante"
+LAST_MODIFIED="1/10/2000"
+STRING="OPSLAAN"
+
+[GAME_MENU_QUITTER]
+COMMENT="Game Menu : Quitter la partie courante"
+LAST_MODIFIED="1/10/2000"
+STRING="Wil je echt afsluiten?"
+
+[GAME_MENU_SAVEGAME_BUTTON]
+COMMENT="Game Menu : Sauvegarder la partie sélectionné"
+LAST_MODIFIED="1/10/2000"
+STRING="Opslaan"
+
+[GAME_MENU_OPTION]
+COMMENT="Game Menu : Régler les options"
+LAST_MODIFIED="1/10/2000"
+STRING="Opties"
+
+[GAME_MENU_NETWORK]
+COMMENT="Game Menu : Commencer une partie multi-joueurs"
+LAST_MODIFIED="1/10/2000"
+STRING="Online-spel"
+
+[GAME_MENU_CREDITS]
+COMMENT="Game Menu : Afficher les crédits"
+LAST_MODIFIED="1/10/2000"
+STRING="Credits"
+
+[GAME_MENU_PLAY]
+COMMENT="Game Menu : Jouer"
+LAST_MODIFIED="1/10/2000"
+STRING="Spelen"
+
+
+[GAME_MENU_QUITGAME]
+COMMENT="Game Menu : bakcc to main menu"
+LAST_MODIFIED="1/10/2000"
+STRING="Terug naar menu"
+
+[GAME_MENU_QUITAPPLICATION]
+COMMENT="Game Menu : Quitter le jeu"
+LAST_MODIFIED="1/10/2000"
+STRING="Crazy Factory afsluiten"
+
+
+; *****************************************************************************
+;
+;	MENU PRINCIPAL - OFFLINE
+;
+; *****************************************************************************
+[GAME_MENU_OFFLINE_TUTORIAL]
+COMMENT="Game Menu : Mode tutorial"
+LAST_MODIFIED="1/10/2000"
+STRING="Tutorial"
+
+[TUTORIAL0_NAME]
+COMMENT       = "Nom du premier tutorial"
+LAST_MODIFIED = "11/04/2001"
+STRING        = "Het lab"
+
+[TUTORIAL1_NAME]
+COMMENT       = "Nom du second tutorial"
+LAST_MODIFIED = "11/04/2001"
+STRING        = "De productie"
+
+[TUTORIAL2_NAME]
+COMMENT       = "Nom du troisième tutorial"
+LAST_MODIFIED = "11/04/2001"
+STRING        = "De markt"
+
+[TUTORIAL3_NAME]
+COMMENT       = "Nom du quatrième tutorial"
+LAST_MODIFIED = "11/04/2001"
+STRING        = "Verdedigings- en aanvalsstrategieën"
+
+
+[GAME_MENU_OFFLINE_CAMPAIGN]
+COMMENT="Game Menu : Mode campagne"
+LAST_MODIFIED="1/10/2000"
+STRING="Campagne-spel"
+
+[GAME_MENU_OFFLINE_SOLO]
+COMMENT="Game Menu : Mode libre"
+LAST_MODIFIED="1/10/2000"
+STRING="Vrij spelen"
+
+[GAME_MENU_OFFLINE_LOADGAME]
+COMMENT="Game Menu : Charger une partie"
+LAST_MODIFIED="1/10/2000"
+STRING="Spel laden"
+
+[GAME_MENU_OFFLINE_TITLE]
+COMMENT="Game Menu : TITLE"
+LAST_MODIFIED="1/10/2000"
+STRING="OFFLINE-SPEL"
+
+[GAME_MENU_OFFLINE_CAMPAIGN_TITLE]
+COMMENT="Game Menu : TITLE"
+LAST_MODIFIED="1/10/2000"
+STRING="CAMPAGNE-SPEL"
+
+[GAME_MENU_OFFLINE_LOAD_TITLE]
+COMMENT="Game Menu : TITLE"
+LAST_MODIFIED="1/10/2000"
+STRING="LADEN"
+
+[GAME_MENU_OFFLINE_BRIEFING]
+COMMENT       = "Game Menu : BRIEFING"
+LAST_MODIFIED = "30/04/2001"
+STRING        = "BRIEFING"
+
+
+; *****************************************************************************
+;
+;	MENU PRINCIPAL - NETWORK
+;
+; *****************************************************************************
+[GAME_WAIT_NETWORK]
+COMMENT="SYSTEM : attente deux autres joueurs"
+LAST_MODIFIED="1/10/2000"
+STRING="Bezig met wachten op spelers"
+
+[NETWORK_TITLE]
+COMMENT="Titre fenetre réseau principale"
+LAST_MODIFIED="1/10/2000"
+STRING="Online-spel"
+
+[NETWORK_CUSTOM_TITLE]
+COMMENT="Titre pour partie personnalisée"
+LAST_MODIFIED="1/10/2000"
+STRING="Spel op maat"
+
+[NETWORK_JOIN_LAN_TITLE]
+COMMENT="Titre pour partie LAN"
+LAST_MODIFIED="1/10/2000"
+STRING="Netwerkspel (LAN)"
+
+[NETWORK_JOIN_TCPIP_TITLE]
+COMMENT="Titre pour partie TCP/IP"
+LAST_MODIFIED="1/10/2000"
+STRING="TCP/IP-spel"
+
+[NETWORK_JOIN_IP_ADRESS]
+COMMENT="Adresse TCP/IP"
+LAST_MODIFIED="1/10/2000"
+STRING="IP-adres"
+
+
+[NETWORK_JOIN_SESSION]
+COMMENT="Bouton pour rejoindre 1 partie réseau"
+LAST_MODIFIED="1/10/2000"
+STRING="Bij spel aansluiten"
+
+[NETWORK_CREATE_SESSION]
+COMMENT="Bouton pour creer 1 partie réseau"
+LAST_MODIFIED="1/10/2000"
+STRING="Spel creëren"
+
+[NETWORK_CONNECTION]
+COMMENT="Type de connection"
+LAST_MODIFIED="1/10/2000"
+STRING="Verbinding"
+
+[NETWORK_CONNECTION_INTERNET]
+COMMENT="Type de connection : Internet TCP/IP"
+LAST_MODIFIED="19/01/2001"
+STRING="Internetspel"
+
+[NETWORK_CONNECTION_LAN]
+COMMENT="Type de connection : LAN TCP/IP"
+LAST_MODIFIED=19/01/2001"
+STRING="Netwerkspel (LAN)"
+
+[NETWORK_SESSION_LIST]
+COMMENT="Liste D sessions disponibles"
+LAST_MODIFIED="1/10/2000"
+STRING="Beschikbare sessies"
+
+[NETWORK_PLAYER_TYPE_HUMAN]
+COMMENT="Type de joueur"
+LAST_MODIFIED="1/10/2000"
+STRING="Menselijke speler"
+
+[NETWORK_PLAYER_TYPE_COMPUTER0]
+COMMENT="Type de joueur"
+LAST_MODIFIED="1/10/2000"
+STRING="Comp.speler Ondernemer"
+
+[NETWORK_PLAYER_TYPE_COMPUTER1]
+COMMENT="Type de joueur"
+LAST_MODIFIED="1/10/2000"
+STRING="Comp.speler Anarchist"
+
+[NETWORK_PLAYER_TYPE_COMPUTER2]
+COMMENT="Type de joueur"
+LAST_MODIFIED="1/10/2000"
+STRING="Comp.speler Techno"
+
+[NETWORK_PLAYER_TYPE_COMPUTER3]
+COMMENT="Type de joueur"
+LAST_MODIFIED="1/10/2000"
+STRING="Comp.speler Doorsnee consument"
+
+[NETWORK_PLAYER_TYPE_COMPUTER4]
+COMMENT="Type de joueur"
+LAST_MODIFIED="1/10/2000"
+STRING="Comp.speler Geweldadig"
+
+[NETWORK_PLAYER_TYPE_COMPUTER5]
+COMMENT="Type de joueur"
+LAST_MODIFIED="1/10/2000"
+STRING="Comp.speler Voorzichtig"
+
+[NETWORK_PLAYER_TYPE_COMPUTER6]
+COMMENT="Type de joueur"
+LAST_MODIFIED="1/10/2000"
+STRING="Comp.speler Gesubsidieerd"
+
+[NETWORK_PLAYER_TYPE_COMPUTER7]
+COMMENT="Type de joueur"
+LAST_MODIFIED="1/10/2000"
+STRING="Comp.speler Inactief"
+
+[NETWORK_PLAYER_TYPE_COMPUTER_RANDOM]
+COMMENT="Type de joueur"
+LAST_MODIFIED="1/10/2000"
+STRING="Willekeurige computer"
+
+
+[NETWORK_PLAYER_TYPE_CLOSED]
+COMMENT="Type de joueur"
+LAST_MODIFIED="1/10/2000"
+STRING="Gesloten"
+
+[NETWORK_IA_COOPERATIVE]
+COMMENT="IA Coopératives"
+LAST_MODIFIED="1/10/2000"
+STRING="Comp.spelers spannen samen"
+
+[NETWORK_LAUNCH]
+COMMENT="Launch game"
+LAST_MODIFIED="1/10/2000"
+STRING="Creëren"
+
+[NETWORK_PLAYER_NAME]
+COMMENT="Player name title"
+LAST_MODIFIED="1/10/2000"
+STRING="Spelersnaam"
+
+[NETWORK_PLAYER_TYPE]
+COMMENT="Player type title"
+LAST_MODIFIED="1/10/2000"
+STRING="Soort speler"
+
+[NETWORK_PLAYER_START_CASH]
+COMMENT="Player start cash title"
+LAST_MODIFIED="1/10/2000"
+STRING="Geld"
+
+[NETWORK_PLAYER_PING]
+COMMENT="Player ping title"
+LAST_MODIFIED="1/10/2000"
+STRING="Ping"
+
+[NETWORK_PRODUCT_TYPE]
+COMMENT="Product type title"
+LAST_MODIFIED="1/10/2000"
+STRING="Product"
+
+[NETWORK_PLAYER_LOGO]
+COMMENT="Player logo hint"
+LAST_MODIFIED="1/10/2000"
+STRING="Logo"
+
+
+; ----------------------
+; NETWORK ERROR MESSAGES
+
+[NETWORK_TCPIP_NOT_AVAILABLE]
+COMMENT="TCP/IP connexion is not available"
+LAST_MODIFIED="7/02/2001"
+STRING="TCP/IP-verbinding is niet beschikbaar"
+
+[NETWORK_CANNOT_CREATE_SERVER]
+COMMENT="Unable to launch server"
+LAST_MODIFIED="7/02/2001"
+STRING="Niet mogelijk server op te starten"
+
+[NETWORK_CANNOT_INITIALIZE_CONNECTION]
+COMMENT="Unable to initialize TCP/IP connexion"
+LAST_MODIFIED="7/02/2001"
+STRING="Niet mogelijk TCP/IP-verbinding te initialiseren"
+
+[NETWORK_CANNOT_JOIN_SERVER_SESSION]
+COMMENT="Unable to join server session"
+LAST_MODIFIED="7/02/2001"
+STRING="Niet mogelijk aan te sluiten bij serversessie"
+
+[NETWORK_SESSION_LOST]
+COMMENT="Session lost"
+LAST_MODIFIED="7/02/2001"
+STRING="Sessie afgebroken"
+
+[NETWORK_SERVER_DISCONNECTED]
+COMMENT="Server has disconnected"
+LAST_MODIFIED="7/02/2001"
+STRING="Server heeft verbinding verbroken"
+
+[NETWORK_HOST_DISCONNECTED]
+COMMENT="Host has disconnected"
+LAST_MODIFIED="15/03/2001"
+STRING="Host heeft verbinding verbroken"
+
+[NETWORK_REJECT_PLAYER]
+COMMENT="You were rejected from the game"
+LAST_MODIFIED="7/02/2001"
+STRING="De toegang tot het spel is geweigerd"
+
+[NETWORK_NO_SESSION_SELECTED]
+COMMENT="Select a session first"
+LAST_MODIFIED="7/02/2001"
+STRING="Selecteer een sessie"
+
+[NETWORK_NO_IP_ADDRESS]
+COMMENT       = "Enter a valid IP address x.x.x.x"
+LAST_MODIFIED = "24/04/2001"
+STRING        = "Toets geldig IP adres in x.x.x.x"
+
+[NETWORK_CONNECTION_LOST]
+COMMENT="Connection lost"
+LAST_MODIFIED="7/02/2001"
+STRING="Verbinding verbroken"
+
+[NETWORK_MEDIUM_BUSY]
+COMMENT="Network medium busy"
+LAST_MODIFIED="7/02/2001"
+STRING="Netwerk is redelijk bezet"
+
+[NETWORK_NOT_LOGGED_IN]
+COMMENT="Not logged in"
+LAST_MODIFIED="7/02/2001"
+STRING="Speler is niet ingelogd"
+
+[NETWORK_SEND_TOO_BIG]
+COMMENT="Send too big"
+LAST_MODIFIED="7/02/2001"
+STRING="Gegevensoverdracht is te groot"
+
+; ----------------------
+; NETWORK INFO MESSAGES
+
+[NETWORK_HOST_CREATION]
+COMMENT="Creating server, please wait..."
+LAST_MODIFIED="7/02/2001"
+STRING="Bezig met creëren server, een momentje alsjeblieft..."
+
+[NETWORK_TCPIP_JOIN]
+COMMENT="Attempting to join remote server, please wait..."
+LAST_MODIFIED="7/02/2001"
+STRING="Bezig met aansluiten bij andere server, een momentje alsjeblieft..."
+
+[NETWORK_LAN_JOIN]
+COMMENT="Attempting to join session, please wait..."
+LAST_MODIFIED="7/02/2001"
+STRING="Bezig met aansluiten bij sessie, een momentje alsjeblieft..."
+
+[NETWORK_SESSION_CREATED]
+COMMENT       = ": Sessie gecreërd"
+LAST_MODIFIED = "24/04/2001"
+STRING        = ": spel created"
+
+[NETWORK_SESSION_JOINED]
+COMMENT       = ": session joined"
+LAST_MODIFIED = "24/04/2001"
+STRING        = ": Bij spel aansluiten"
+
+[NETWORK_KICK_FROM_GAME]
+COMMENT="You were kicked from the game"
+LAST_MODIFIED="14/03/2001"
+STRING="Je bent uit het spel gezet"
+
+[NETWORK_PLAYER_LEFT_GAME]
+COMMENT="has left the game"
+LAST_MODIFIED="15/03/2001"
+STRING="heeft het spel verlaten "
+
+[NETWORK_PLAYER_JOIN_GAME]
+COMMENT="has joined the game"
+LAST_MODIFIED="15/03/2001"
+STRING="heeft zich aangesloten bij het spel"
+
+
+; *****************************************************************************
+;
+;	MENU PRINCIPAL - OPTIONS
+;
+; *****************************************************************************
+[OPTIONS_TITLE]
+COMMENT="Titre principal"
+LAST_MODIFIED="1/10/2000"
+STRING="OPTIES"
+
+[OPTIONS_SOUND_TITLE]
+COMMENT="Titre principal pour l'affichage D options sonores"
+LAST_MODIFIED="1/10/2000"
+STRING="Geluid"
+
+[OPTIONS_DISPLAY_TITLE]
+COMMENT="Titre principal pour l'affichage D options graphiques"
+LAST_MODIFIED="1/10/2000"
+STRING="Beeld"
+
+[OPTIONS_HIGH_RESOLUTION]
+COMMENT="Bouton déterminant si l'on doit utilisé la haute résolution ou non"
+LAST_MODIFIED="1/10/2000"
+STRING="Hoge resolutie"
+
+[OPTIONS_GAME_SHADOW]
+COMMENT="Bouton déterminant si les ombres doivent etre affichées"
+LAST_MODIFIED="1/10/2000"
+STRING="Sprite-schaduw"
+
+[OPTIONS_MOUSE_SHADOW]
+COMMENT="Bouton déterminant si la souris doit avoir 1 ombre ou pas"
+LAST_MODIFIED="1/10/2000"
+STRING="Muisschaduw"
+
+[OPTIONS_SOUND_CD]
+COMMENT="Volume des musiques"
+LAST_MODIFIED="1/10/2000"
+STRING="Volume muziek"
+
+[OPTIONS_SOUND_WAVE]
+COMMENT="Volume des sons"
+LAST_MODIFIED="1/10/2000"
+STRING="Volume geluidseffecten"
+
+[OPTIONS_SOUND_MASTER]
+COMMENT="Volume global"
+LAST_MODIFIED="1/10/2000"
+STRING="Algemeen volume"
+
+[OPTIONS_PLAYER_NAME]
+COMMENT="Nom du joueur"
+LAST_MODIFIED="1/10/2000"
+STRING="Spelersnaam"
+
+
+
+; *****************************************************************************
+;
+;	LOWER BAR
+;
+; *****************************************************************************
+[BUTTON_PERSO]
+COMMENT="Bouton sélectionnant l'onglet Personnage dans la barre inférieure"
+LAST_MODIFIED="1/10/2000"
+STRING="Personeel"
+
+[BUTTON_POSTE]
+COMMENT="Bouton sélectionnant l'onglet Poste De Travail dans la barre inférieure"
+LAST_MODIFIED="1/10/2000"
+STRING="Uitrusting"
+
+[BUTTON_ACTION]
+COMMENT="Bouton sélectionnant l'onglet Actions dans la barre inférieure"
+LAST_MODIFIED="1/10/2000"
+STRING="Acties"
+
+[BUTTON_TOGGLEIN]
+COMMENT="Bouton permettant d'aller dans la vue intérieure"
+LAST_MODIFIED="1/10/2000"
+STRING="Binnen"
+
+[BUTTON_TOGGLEOUT]
+COMMENT="Bouton permettant d'aller dans la vue extérieure"
+LAST_MODIFIED="1/10/2000"
+STRING="Buiten"
+
+
+; *****************************************************************************
+;
+;	LOWER BAR - CURVES
+;
+; *****************************************************************************
+[GRAPH_CURVES]
+COMMENT="Barre inférieure (gestion des courbes) : Courbes de jeu"
+LAST_MODIFIED="1/10/2000"
+STRING="Grafieken"
+
+
+; *****************************************************************************
+;
+;	LOWER BAR - PEOPLE
+;
+; *****************************************************************************
+
+[LB_PANNEL_PEOPLE_TEXT_CURRENT_SALARY]
+COMMENT="Barre inférieure (panneau employé) : Salaire courant de l'employé - TEXTE STATIQUE AFFICHE DANS L'INTERFACE"
+LAST_MODIFIED="1/10/2000"
+STRING="Salaris"
+
+[LB_PANNEL_PEOPLE_TEXT_MORAL]
+COMMENT="Barre inférieure (panneau employé) : Moral courant de l'employé - TEXTE STATIQUE AFFICHE DANS L'INTERFACE"
+LAST_MODIFIED="1/10/2000"
+STRING="Moreel"
+
+[LB_PANNEL_PEOPLE_TEXT_EFFICIENCY]
+COMMENT="Barre inférieure (panneau employé) : Efficacité courante de l'employé - TEXTE STATIQUE AFFICHE DANS L'INTERFACE"
+LAST_MODIFIED="1/10/2000"
+STRING="Efficiency"
+
+[LB_PANNEL_PEOPLE_TEXT_LEVEL]
+COMMENT="Barre inférieure (panneau employé) : Niveau de l'employé - TEXTE STATIQUE AFFICHE DANS L'INTERFACE"
+LAST_MODIFIED="1/10/2000"
+STRING="Niveau"
+
+[LB_PANNEL_PEOPLE_BUTTON_INCREASE_SALARY]
+COMMENT="Barre inférieure (panneau employé) : Augmenter le salaire de l'employé"
+LAST_MODIFIED="1/10/2000"
+STRING="Loonsverhoging"
+
+[LB_PANNEL_PEOPLE_BUTTON_DECREASE_SALARY]
+COMMENT="Barre inférieure (panneau employé) : Diminuer le salaire de l'employé"
+LAST_MODIFIED="1/10/2000"
+STRING="Loonsverlaging"
+
+[LB_PANNEL_PEOPLE_LISTBOX_DESC]
+COMMENT="Barre inférieure (panneau employé) : Donne la description de l'employé"
+LAST_MODIFIED="1/10/2000"
+STRING="Beschrijving"
+
+[LB_PANNEL_PEOPLE_GAUGE_MORAL]
+COMMENT="Barre inférieure (panneau employé) : Jauge indiquant le moral de l'employé"
+LAST_MODIFIED="1/10/2000"
+STRING="Moreel"
+
+[LB_PANNEL_PEOPLE_GAUGE_EFFICIENCY]
+COMMENT="Barre inférieure (panneau employé) : Jauge indiquant l'efficacité de l'employé"
+LAST_MODIFIED="1/10/2000"
+STRING="Efficiency"
+
+[LB_PANNEL_PEOPLE_GAUGE_LEVEL]
+COMMENT="Barre inférieure (panneau employé) : Jauge indiquand le niveau de l'employé"
+LAST_MODIFIED="1/10/2000"
+STRING="Niveau"
+
+[LB_PANNEL_PEOPLE_ENGAGE]
+COMMENT="Barre inférieure (panneau employé) : Engager la personne sélectionnée"
+LAST_MODIFIED="1/10/2000"
+STRING="Aannemen"
+
+[LB_PANNEL_PEOPLE_DISMISS]
+COMMENT="Barre inférieure (panneau employé) : Virer l'employé courant"
+LAST_MODIFIED="1/10/2000"
+STRING="Ontslaan"
+
+[LB_PANNEL_PEOPLE_FORMATION_MORAL]
+COMMENT="Barre inférieure (panneau employé) : Envoyer l'employé en formation pour augementer son moral"
+LAST_MODIFIED="1/10/2000"
+STRING="Motivatiecursus"
+
+[LB_PANNEL_PEOPLE_FORMATION_LEVEL]
+COMMENT="Barre inférieure (panneau employé) : Envoyer l'employé en formation pour augementer son niveau"
+LAST_MODIFIED="1/10/2000"
+STRING="Vaardigheidstraining"
+
+[LB_PANNEL_PEOPLE_FORMATION_EFFICIENCY]
+COMMENT="Barre inférieure (panneau employé) : Envoyer l'employé en formation pour augementer son efficacité"
+LAST_MODIFIED="1/10/2000"
+STRING="Efficiencytraining"
+
+
+
+; *****************************************************************************
+;
+;	LOWER BAR - WORKSTATION
+;
+; *****************************************************************************
+
+[LB_PANNEL_WORKSTATION_TEXT_CURRENT_COST]
+COMMENT="Barre inférieure (panneau poste de travail) : Coût du poste de travail - TEXTE STATIQUE AFFICHE DANS L'INTERFACE"
+LAST_MODIFIED="1/10/2000"
+STRING="Prijs"
+
+[LB_PANNEL_WORKSTATION_TEXT_INTEGRITY]
+COMMENT="Barre inférieure (panneau poste de travail) : Usure du poste de travail - (UNIQUEMENT MACHINE PROD & MACHINE CHIEF PROD)- TEXTE STATIQUE AFFICHE DANS L'INTERFACE"
+LAST_MODIFIED="1/10/2000"
+STRING="Slijtage"
+
+[LB_PANNEL_WORKSTATION_TEXT_EFFICIENCY]
+COMMENT="Barre inférieure (panneau poste de travail) : Efficacité du poste de travail - TEXTE STATIQUE AFFICHE DANS L'INTERFACE"
+LAST_MODIFIED="1/10/2000"
+STRING="Efficiency"
+
+[LB_PANNEL_WORKSTATION_TEXT_LEVEL]
+COMMENT="Barre inférieure (panneau poste de travail) : Niveau du poste de travail - TEXTE STATIQUE AFFICHE DANS L'INTERFACE"
+LAST_MODIFIED="1/10/2000"
+STRING="Niveau"
+
+[LB_PANNEL_WORKSTATION_LISTBOX_DESC]
+COMMENT="Barre inférieure (panneau poste de travail) : Donne la description du poste de travail"
+LAST_MODIFIED="1/10/2000"
+STRING="Beschrijving"
+
+[LB_PANNEL_WORKSTATION_GAUGE_INTEGRITY]
+COMMENT="Barre inférieure (panneau poste de travail) : Indique l'usure du poste de travail - (UNIQUEMENT MACHINE PROD & MACHINE CHIEF PROD)"
+LAST_MODIFIED="1/10/2000"
+STRING="Slijtage"
+
+[LB_PANNEL_WORKSTATION_GAUGE_EFFICIENCY]
+COMMENT="Barre inférieure (panneau poste de travail) : Indique le coût du poste de travail sélectionné"
+LAST_MODIFIED="1/10/2000"
+STRING="Efficiency"
+
+[LB_PANNEL_WORKSTATION_GAUGE_LEVEL]
+COMMENT="Barre inférieure (panneau poste de travail) : Indique le niveau du poste de travail sélectionné"
+LAST_MODIFIED="1/10/2000"
+STRING="Niveau"
+
+[LB_PANNEL_WORKSTATION_BUY]
+COMMENT="Barre inférieure (panneau poste de travail) : Achat d'un nouveau poste de travail"
+LAST_MODIFIED="1/10/2000"
+STRING="Kopen"
+
+
+
+; *****************************************************************************
+;
+;	LOWER BAR - ACTION
+;
+; *****************************************************************************
+
+[LB_PANNEL_ACTION_LISTBOX_DESC]
+COMMENT="Barre inférieure (panneau action) : [ACF] Text contenant une description"
+LAST_MODIFIED="1/10/2000"
+STRING="Beschrijving"
+
+[LB_PANNEL_ACTION_BUTTON_COMPONENT]
+COMMENT="Barre inférieure (panneau action) : Bouton indiquant le composant que l'on développe"
+LAST_MODIFIED="1/10/2000"
+STRING="Onderdeelcategorie"
+
+[LB_PANNEL_ACTION_BUTTON_REGULATING]
+COMMENT="Barre inférieure (panneau action) : Bouton permettant le réglage des actions continues & ponctuelles"
+LAST_MODIFIED="1/10/2000"
+STRING="Rooster"
+
+[LB_PANNEL_ACTION_BUTTON_VALIDATE]
+COMMENT="Barre inférieure (panneau action) : Bouton validant les choix dans l'arbre technologique"
+LAST_MODIFIED="1/10/2000"
+STRING="Onderzoek starten"
+
+; *****************************************************************************
+;
+;	LOWER BAR - ACTION PANEL (TECHNO TREE)
+;
+; *****************************************************************************
+[LB_ACTION_TECHNO_TREE_TEXT1]
+COMMENT="Barre inférieure (panneau action - Arbre techno) : Niveau de technicité"
+LAST_MODIFIED="1/10/2000"
+STRING="Technieken"
+
+[LB_ACTION_TECHNO_TREE_TEXT2]
+COMMENT="Barre inférieure (panneau action - Arbre techno) : Design"
+LAST_MODIFIED="1/10/2000"
+STRING="Ontwerp"
+
+; *****************************************************************************
+;
+;	LOWER BAR - ACTION PANEL
+;
+; *****************************************************************************
+[LB_ACTION_FINANCIER_TEXT1_HINT]
+COMMENT="Barre inférieure (panneau action) : Action continue du financier (infobulle)"
+LAST_MODIFIED="1/10/2000"
+STRING="Rekeningen opschonen om de fiscus te ontlopen"
+
+[LB_ACTION_FINANCIER_TEXT1]
+COMMENT="Barre inférieure (panneau action) : Action continue du financier"
+LAST_MODIFIED="1/10/2000"
+STRING="Opschonen"
+
+[LB_ACTION_FINANCIER_TEXT2_HINT]
+COMMENT="Barre inférieure (panneau action) : Action continue du financier (infobulle)"
+LAST_MODIFIED="1/10/2000"
+STRING="Nieuwe leningen voor meer financieringen"
+
+[LB_ACTION_FINANCIER_TEXT2]
+COMMENT="Barre inférieure (panneau action) : Action continue du financier"
+LAST_MODIFIED="1/10/2000"
+STRING="Financiën"
+
+
+[LB_ACTION_DRH_TEXT1_HINT]
+COMMENT="Barre inférieure (panneau action) : Action continue de la DRH (infobulle)"
+LAST_MODIFIED="1/10/2000"
+STRING="Op zoek gaan naar nieuwe kandidaten"
+
+[LB_ACTION_DRH_TEXT1]
+COMMENT="Barre inférieure (panneau action) : Action continue de la DRH"
+LAST_MODIFIED="1/10/2000"
+STRING="Rekruteren"
+
+[LB_ACTION_DRH_TEXT2_HINT]
+COMMENT="Barre inférieure (panneau action) : Action continue de la DRH (infobulle)"
+LAST_MODIFIED="1/10/2000"
+STRING="Werknemers van concurrent inpikken"
+
+[LB_ACTION_DRH_TEXT2]
+COMMENT="Barre inférieure (panneau action) : Action continue de la DRH"
+LAST_MODIFIED="1/10/2000"
+STRING="Inpikken"
+
+
+[LB_ACTION_PUB_TEXT1_HINT]
+COMMENT="Barre inférieure (panneau action) : Action continue du publicitaire (infobulle)"
+LAST_MODIFIED="1/10/2000"
+STRING="Budget optimaliseren voor reclame voor techniekfreaks"
+
+[LB_ACTION_PUB_TEXT1]
+COMMENT="Barre inférieure (panneau action) : Action continue du publicitaire"
+LAST_MODIFIED="1/10/2000"
+STRING="Vakpers"
+
+[LB_ACTION_PUB_TEXT2_HINT]
+COMMENT="Barre inférieure (panneau action) : Action continue du publicitaire (infobulle)"
+LAST_MODIFIED="1/10/2000"
+STRING="Budget optimaliseren voor reclame voor designfreaks"
+
+[LB_ACTION_PUB_TEXT2]
+COMMENT="Barre inférieure (panneau action) : Action continue du publicitaire"
+LAST_MODIFIED="1/10/2000"
+STRING="TV-reclame"
+
+
+[LB_ACTION_COM_TEXT1_HINT]
+COMMENT="Barre inférieure (panneau action) : Action continue du commercial (infobulle)"
+LAST_MODIFIED="1/10/2000"
+STRING="Met distributeur onderhandelen "
+
+[LB_ACTION_COM_TEXT1]
+COMMENT="Barre inférieure (panneau action) : Action continue du commercial"
+LAST_MODIFIED="1/10/2000"
+STRING="Onderhandelen"
+
+[LB_ACTION_COM_TEXT2_HINT]
+COMMENT="Barre inférieure (panneau action) : Action continue du commercial (infobulle)"
+LAST_MODIFIED="1/10/2000"
+STRING="Productpositionering voor een goed productimago"
+
+[LB_ACTION_COM_TEXT2]
+COMMENT="Barre inférieure (panneau action) : Action continue du commercial"
+LAST_MODIFIED="1/10/2000"
+STRING="Productpositie"
+
+
+
+[LB_ACTION_MANUT_CHIEF_TEXT1_HINT]
+COMMENT="Barre inférieure (panneau action) : Action continue du chef manut (infobulle)"
+LAST_MODIFIED="1/10/2000"
+STRING="Productie reguleren"
+
+[LB_ACTION_MANUT_CHIEF_TEXT1]
+COMMENT="Barre inférieure (panneau action) : Action continue du chef manut"
+LAST_MODIFIED="1/10/2000"
+STRING="Productie"
+
+[LB_ACTION_MANUT_CHIEF_TEXT2_HINT]
+COMMENT="Barre inférieure (panneau action) : Action continue du chef manut (infobulle)"
+LAST_MODIFIED="1/10/2000"
+STRING="Onderdelen assembleren"
+
+[LB_ACTION_MANUT_CHIEF_TEXT2]
+COMMENT="Barre inférieure (panneau action) : Action continue du chef manut"
+LAST_MODIFIED="1/10/2000"
+STRING="Assemblage"
+
+[LB_ACTION_MANUT_CHIEF_TEXT3_HINT]
+COMMENT="Barre inférieure (panneau action) : Action continue du chef manut (infobulle)"
+LAST_MODIFIED="1/10/2000"
+STRING="Assemblagemachine onderhouden"
+
+[LB_ACTION_MANUT_CHIEF_TEXT3]
+COMMENT="Barre inférieure (panneau action) : Action continue du chef manut"
+LAST_MODIFIED="1/10/2000"
+STRING="Onderhouden"
+
+
+[LB_ACTION_MANUT_TEXT1_HINT]
+COMMENT="Barre inférieure (panneau action) : Action continue du manut (infobulle)"
+LAST_MODIFIED="1/10/2000"
+STRING="Onderdelen produceren"
+
+[LB_ACTION_MANUT_TEXT1]
+COMMENT="Barre inférieure (panneau action) : Action continue du manut"
+LAST_MODIFIED="1/10/2000"
+STRING="Produceren"
+
+[LB_ACTION_MANUT_TEXT2_HINT]
+COMMENT="Barre inférieure (panneau action) : Action continue du manut (infobulle)"
+LAST_MODIFIED="1/10/2000"
+STRING="Onderdelenmachine onderhouden"
+
+[LB_ACTION_MANUT_TEXT2]
+COMMENT="Barre inférieure (panneau action) : Action continue du manut"
+LAST_MODIFIED="1/10/2000"
+STRING="Onderhouden"
+
+
+[LB_ACTION_GUARDIAN_TEXT1_HINT]
+COMMENT="Barre inférieure (panneau action) : Action continue du guardien (infobulle)"
+LAST_MODIFIED="1/10/2000"
+STRING="Administratie en marketing beschermen tegen spionnen"
+
+[LB_ACTION_GUARDIAN_TEXT1]
+COMMENT="Barre inférieure (panneau action) : Action continue du guardien"
+LAST_MODIFIED="1/10/2000"
+STRING="Adm. & marketing"
+
+[LB_ACTION_GUARDIAN_TEXT2_HINT]
+COMMENT="Barre inférieure (panneau action) : Action continue du guardien (infobulle)"
+LAST_MODIFIED="1/10/2000"
+STRING="Productie beschermen tegen spionnen"
+
+[LB_ACTION_GUARDIAN_TEXT2]
+COMMENT="Barre inférieure (panneau action) : Action continue du guardien"
+LAST_MODIFIED="1/10/2000"
+STRING="Productie"
+
+[LB_ACTION_GUARDIAN_TEXT3_HINT]
+COMMENT="Barre inférieure (panneau action) : Action continue du guardien (infobulle)"
+LAST_MODIFIED="1/10/2000"
+STRING="Lab beschermen tegen spionnen"
+
+[LB_ACTION_GUARDIAN_TEXT3]
+COMMENT="Barre inférieure (panneau action) : Action continue du guardien"
+LAST_MODIFIED="1/10/2000"
+STRING="Lab"
+
+
+
+; *****************************************************************************
+;
+;	UPPER BAR
+;
+; *****************************************************************************
+
+[BUTTON_MENU]
+COMMENT="Barre supérieure () : Affiche le menu pendant le jeu"
+LAST_MODIFIED="1/10/2000"
+STRING="Terug naar menu"
+
+[BUTTON_INDICATOR]
+COMMENT="Barre supérieure () : Permet de sélectionner l'onglet Indicateurs"
+LAST_MODIFIED="1/10/2000"
+STRING="Indicators"
+
+[BUTTON_CREDIT_DEBIT]
+COMMENT="Barre supérieure () : Permet de sélectionner l'onglet credits / debits"
+LAST_MODIFIED="1/10/2000"
+STRING="Rekeningenboek"
+
+[BUTTON_FINANCE]
+COMMENT="Barre supérieure () : Permet de sélectionner l'onglet financement"
+LAST_MODIFIED="1/10/2000"
+STRING="Financiën"
+
+[BUTTON_NEWS]
+COMMENT="Barre supérieure () : Permet de sélectionner l'onglet des news"
+LAST_MODIFIED="1/10/2000"
+STRING="Post"
+
+[UB_BALANCE]
+COMMENT="Barre supérieure () : Balance du joueur"
+LAST_MODIFIED="1/10/2000"
+STRING="Handelsbalans"
+
+[UB_CASH]
+COMMENT="Barre supérieure () : Argent disponible pour le joueur"
+LAST_MODIFIED="1/10/2000"
+STRING="Geldbalans"
+
+[UB_DATE]
+COMMENT="Barre supérieure () : Affiche la date courante pendant le jeu"
+LAST_MODIFIED="1/10/2000"
+STRING="Datum"
+
+[UB_EMPLOYEES]
+COMMENT="Barre supérieure () : Affiche le nombre d'employés  du joueur courant"
+LAST_MODIFIED="1/10/2000"
+STRING="Aantal werknemers"
+
+
+
+; *****************************************************************************
+;
+;	PANNELS - INDICATORS
+;
+; *****************************************************************************
+[PANNEL_INDICATORS]
+COMMENT="Onglet (Indicateurs) : Titre de l'onglet (EN MAJUSCULES)"
+LAST_MODIFIED="1/10/2000"
+STRING="INDICATORS"
+
+[PANNEL_INDICATORS_SOLDE]
+COMMENT       = "Onglet (Indicateurs) : Solde de tout compte"
+LAST_MODIFIED = "4/20/2000"
+STRING        = "Solde de tout compte"
+
+[PANNEL_INDICATORS_DEBTS]
+COMMENT="Onglet (Indicateurs) : Dettes"
+LAST_MODIFIED="1/10/2000"
+STRING="Schuld:"
+
+[PANNEL_INDICATORS_FALLING_DUE]
+COMMENT="Onglet (Indicateurs) : Echéances"
+LAST_MODIFIED="1/10/2000"
+STRING="Aflossingstermijn:"
+
+[PANNEL_INDICATORS_ACTION_PRICE]
+COMMENT="Onglet (Indicateurs) : Prix de l'action"
+LAST_MODIFIED="1/10/2000"
+STRING="Aandelenprijs:"
+
+[PANNEL_INDICATORS_PRODUCTION]
+COMMENT="Onglet (Indicateurs) : Production courante"
+LAST_MODIFIED="1/10/2000"
+STRING="Productie:"
+
+[PANNEL_INDICATORS_PRODUCTS_SOLD]
+COMMENT="Onglet (Indicateurs) : Nombre de produits vendus"
+LAST_MODIFIED="1/10/2000"
+STRING="Verkochte eenheden:"
+
+[PANNEL_INDICATORS_STOCKS]
+COMMENT="Onglet (Indicateurs) : Nombre de produits en stock"
+LAST_MODIFIED="1/10/2000"
+STRING="Voorraad:"
+
+[PANNEL_INDICATORS_PRIX_COMPOSANTS]
+COMMENT       = "Onglet (Indicateurs) : Prix des composants"
+LAST_MODIFIED = "4/20/2000"
+STRING        = "Prix des composants"
+
+[PANNEL_INDICATORS_MARGE_JOUEUR]
+COMMENT       = "Onglet (Indicateurs) : Marge du joueur"
+LAST_MODIFIED = "4/20/2000"
+STRING        = "Marge du joueur"
+
+[PANNEL_INDICATORS_MARGE_DISTRIBUTEUR]
+COMMENT       = "Onglet (Indicateurs) : Marge du distributeur"
+LAST_MODIFIED = "4/20/2000"
+STRING        = "Marge du distributeur"
+
+[PANNEL_INDICATORS_PRIX_VENTE]
+COMMENT       = "Onglet (Indicateurs) : Prix de vente"
+LAST_MODIFIED = "4/20/2000"
+STRING        = "Prix de vente"
+
+[PANNEL_INDICATORS_FISCAL_RISK]
+COMMENT="Onglet (Indicateurs) : Risque de contrôle fiscal"
+LAST_MODIFIED="1/10/2000"
+STRING="Fiscaal risico:"
+
+[PANNEL_INDICATORS_SECURITY_PRODUCTION]
+COMMENT="Onglet (Indicateurs) : Sécurité au sein de la production"
+LAST_MODIFIED="1/10/2000"
+STRING="Veiligheidsniveau productie:"
+
+[PANNEL_INDICATORS_SECURITY_LABORATORY]
+COMMENT="Onglet (Indicateurs) : Sécurité au sein du laboratoire"
+LAST_MODIFIED="1/10/2000"
+STRING="Veiligheidsniveau lab:"
+
+[PANNEL_INDICATORS_SECURITY_MARKETING]
+COMMENT="Onglet (Indicateurs) : Sécurité au sein du marketing"
+LAST_MODIFIED="1/10/2000"
+STRING="Veiligheidsniveau marketing:"
+
+[PANNEL_INDICATORS_SECURITY_ADMINISTRATION]
+COMMENT="Onglet (Indicateurs) : Sécurité au sein de l'administration"
+LAST_MODIFIED="1/10/2000"
+STRING="Veiligheidsniveau administratie:"
+
+[PANNEL_INDICATORS_PUBLIC_NOTORIETY]
+COMMENT="Onglet (Indicateurs) : Notoriété de la société"
+LAST_MODIFIED="1/10/2000"
+STRING="Reputatie:"
+
+[PANNEL_INDICATORS_PUB]
+COMMENT="Onglet (Indicateurs) : Budget publicitaire"
+LAST_MODIFIED="1/10/2000"
+STRING="Reclamebudget:"
+
+[PANNEL_INDICATORS_PRODUCT_IMAGE]
+COMMENT="Onglet (Indicateurs) : Image du produit"
+LAST_MODIFIED="1/10/2000"
+STRING="Productimago:"
+
+[PANNEL_INDICATORS_MARKET]
+COMMENT="Onglet (Indicateurs) : Parts du marché"
+LAST_MODIFIED="1/10/2000"
+STRING="MARKTAANDEEL:"
+ 
+[PANNEL_INDICATORS_PRODUCT_NOTE]
+COMMENT       = "Onglet (Indicateurs) : Note du produit"
+LAST_MODIFIED = "11/04/2001"
+STRING        = "Productwaardering"
+
+
+
+; *****************************************************************************
+;
+;	PANNELS - FINANCING
+;
+; *****************************************************************************
+[PANNEL_FINANCING]
+COMMENT="Onglet (Financement) : Titre de l'onglet (EN MAJUSCULES)"
+LAST_MODIFIED="1/10/2000"
+STRING="FINANCIËN"
+
+[PANNEL_FINANCING_LOAN]
+COMMENT="Onglet (Financement) : Emprunter de l'argent"
+LAST_MODIFIED="1/10/2000"
+STRING="Lenen"
+
+[PANNEL_FINANCING_SUGGEST_SUM]
+COMMENT="Onglet (Financement) : Proposer une somme"
+LAST_MODIFIED="1/10/2000"
+STRING="Gevraagde lening"
+
+[PANNEL_FINANCING_FINANCIAL]
+COMMENT="Onglet (Financement) : Financeur"
+LAST_MODIFIED="1/10/2000"
+STRING="Crediteur"
+
+[PANNEL_FINANCING_RATE]
+COMMENT="Onglet (Financement) : Taux d'emprunt"
+LAST_MODIFIED="1/10/2000"
+STRING="Rente"
+
+[PANNEL_FINANCING_DURATION]
+COMMENT="Onglet (Financement) : Durée du crédit"
+LAST_MODIFIED="1/10/2000"
+STRING="Aflossingstermijn:"
+
+
+; *****************************************************************************
+;
+;	PANNELS - CREDIT-DEBIT
+;
+; *****************************************************************************
+[PANNEL_CREDIT]
+COMMENT="Onglet (Crédits/Débits) : Titre de l'onglet (EN MAJUSCULES)"
+LAST_MODIFIED="1/10/2000"
+STRING="INKOMSTEN"
+
+[PANNEL_DEBIT]
+COMMENT="Onglet (Crédits/Débits) : Titre de l'onglet (EN MAJUSCULES)"
+LAST_MODIFIED="1/10/2000"
+STRING="UITGAVEN"
+
+[PANNEL_DEBIT_EMPLOYES]
+COMMENT="Onglet (Crédits/Débits) : Dépenses Employés"
+LAST_MODIFIED="1/10/2000"
+STRING="PERSONEEL"
+
+[PANNEL_DEBIT_SALARY]
+COMMENT="Onglet (Crédits/Débits) : Salaire"
+LAST_MODIFIED="1/10/2000"
+STRING="Salarissen"
+
+[PANNEL_DEBIT_INDEMNITIES]
+COMMENT="Onglet (Crédits/Débits) : Indemnités"
+LAST_MODIFIED="1/10/2000"
+STRING="Ontslagpremies"
+
+[PANNEL_DEBIT_ACTIONS]
+COMMENT="Onglet (Crédits/Débits) : Actions"
+LAST_MODIFIED="1/10/2000"
+STRING="Kosten van de handelingen"
+
+[PANNEL_DEBIT_ACHATS]
+COMMENT="Onglet (Crédits/Débits) : Achats"
+LAST_MODIFIED="1/10/2000"
+STRING="AANKOPEN"
+
+[PANNEL_DEBIT_WORKSTATION]
+COMMENT="Onglet (Crédits/Débits) : Postes de travail"
+LAST_MODIFIED="1/10/2000"
+STRING="Werkplekken"
+
+[PANNEL_DEBIT_EQUIP]
+COMMENT="Onglet (Crédits/Débits) : Equipements"
+LAST_MODIFIED="1/10/2000"
+STRING="Uitrusting"
+
+[PANNEL_DEBIT_COMPOSANTS]
+COMMENT="Onglet (Crédits/Débits) : Composants"
+LAST_MODIFIED="1/10/2000"
+STRING="Onderdelen"
+
+[PANNEL_DEBIT_PUB]
+COMMENT="Onglet (Crédits/Débits) : Budget pub"
+LAST_MODIFIED="1/10/2000"
+STRING="RECLAMEBUDGETTEN"
+
+[PANNEL_DEBIT_PUB_TV]
+COMMENT="Onglet (Crédits/Débits) : Pub TV"
+LAST_MODIFIED="1/10/2000"
+STRING="TV-reclame"
+
+[PANNEL_DEBIT_PRESSE]
+COMMENT="Onglet (Crédits/Débits) : Presse spécialisée"
+LAST_MODIFIED="1/10/2000"
+STRING="Vakpers"
+
+[PANNEL_DEBIT_DIVERS]
+COMMENT="Onglet (Crédits/Débits) : Divers"
+LAST_MODIFIED="1/10/2000"
+STRING="OVERIGE"
+
+[PANNEL_DEBIT_REMBOURSEMENT]
+COMMENT="Onglet (Crédits/Débits) : Remboursement prêts"
+LAST_MODIFIED="1/10/2000"
+STRING="Aflossingen leningen"
+
+[PANNEL_DEBIT_AMENDES]
+COMMENT="Onglet (Crédits/Débits) : Amendes"
+LAST_MODIFIED="1/10/2000"
+STRING="Boetes"
+
+[PANNEL_DEBIT_TOTAL]
+COMMENT="Onglet (Crédits/Débits) : Total"
+LAST_MODIFIED="1/10/2000"
+STRING="TOTAAL UITGAVEN"
+
+
+
+[PANNEL_CREDIT_VENTE]
+COMMENT="Onglet (Crédits/Débits) : Vente de produits"
+LAST_MODIFIED="1/10/2000"
+STRING="Productverkoop"
+
+[PANNEL_CREDIT_PROCES]
+COMMENT="Onglet (Crédits/Débits) : Procès gagnés"
+LAST_MODIFIED="1/10/2000"
+STRING="Gewonnen rechtszaken"
+
+[PANNEL_CREDIT_BREVETS]
+COMMENT="Onglet (Crédits/Débits) : Brevets & royalties"
+LAST_MODIFIED="1/10/2000"
+STRING="Patenten & royalty's"
+
+[PANNEL_CREDIT_PRET]
+COMMENT="Onglet (Crédits/Débits) : Pret"
+LAST_MODIFIED="1/10/2000"
+STRING="Leningen"
+
+[PANNEL_CREDIT_TOTAL]
+COMMENT="Onglet (Crédits/Débits) : Total"
+LAST_MODIFIED="1/10/2000"
+STRING="TOTAAL INKOMSTEN"
+
+
+
+
+
+; *****************************************************************************
+;
+;	PANNELS - NEWS
+;
+; *****************************************************************************
+[PANEL_NEWS]
+COMMENT="Onglet (News) : Titre de l'onglet (EN MAJUSCULES)"
+LAST_MODIFIED="1/10/2000"
+STRING="Post"
+
+[PANEL_NEWS_HOME]
+COMMENT="Onglet (News) : Afficher les news internes"
+LAST_MODIFIED="1/10/2000"
+STRING="Interne post"
+
+[PANEL_NEWS_LETTER]
+COMMENT="Onglet (News) : Afficher les news externes"
+LAST_MODIFIED="1/10/2000"
+STRING="Externe post"
+
+[PANEL_NEWS_RECENTER]
+COMMENT="Onglet (News) : Aller sur la zone concernée par la news"
+LAST_MODIFIED="1/10/2000"
+STRING="Afzender bekijken"
+
+[PANEL_NEWS_DUSTBIN]
+COMMENT="Onglet (News) : Supprimer une news de la liste"
+LAST_MODIFIED="1/10/2000"
+STRING="Verwijderen"
+
+[PANEL_NEWS_OK]
+COMMENT       = "Onglet (News) : OK"
+LAST_MODIFIED = "1/10/2000"
+STRING        = "Accepteren"
+
+[PANEL_NEWS_ANNULER]
+COMMENT       = "Onglet (News) : ANNULER"
+LAST_MODIFIED = "1/10/2000"
+STRING        = "Annuleren"
+
+
+[PANEL_NEWS_LISTBOX1]
+COMMENT="Onglet (News) : Liste de toutes les news"
+LAST_MODIFIED="1/10/2000"
+STRING="Bericht"
+
+[PANEL_NEWS_LISTBOX2]
+COMMENT="Onglet (News) : News sélectionnée"
+LAST_MODIFIED="1/10/2000"
+STRING="Geselecteerd bericht"
+
+
+; *****************************************************************************
+;
+;	ACTION PONCTUELLE
+;
+; *****************************************************************************
+
+[ACTION_PONCT_REPAIR]
+COMMENT="Action ponctuelle : réparer machine"
+LAST_MODIFIED="1/10/2000"
+STRING="Machine repareren"
+
+
+[ACTION_PONCT_KADO_AM]
+COMMENT="Action ponctuelle : cadeau market & admin"
+LAST_MODIFIED="1/10/2000"
+STRING="Administratie & marketing motiveren"
+
+[ACTION_PONCT_KADO_PROD]
+COMMENT="Action ponctuelle : cadeau prod"
+LAST_MODIFIED="1/10/2000"
+STRING="Productie motiveren"
+
+[ACTION_PONCT_KADO_LABO]
+COMMENT="Action ponctuelle : cadeau labo"
+LAST_MODIFIED="1/10/2000"
+STRING="Lab motiveren"
+
+[ACTION_PONCT_KADO_EXTERIOR]
+COMMENT="Action ponctuelle : cadeau exterieur"
+LAST_MODIFIED="1/10/2000"
+STRING="Buitenpersoneel motiveren"
+
+
+
+[ACTION_PONCT_BLACK_CASE]
+COMMENT="Action ponctuelle : caisse noire"
+LAST_MODIFIED="1/10/2000"
+STRING="Omkooppot creëren"
+
+[ACTION_PONCT_CAR]
+COMMENT="Action ponctuelle : établir contact avec mafia"
+LAST_MODIFIED="1/10/2000"
+STRING="Contact opnemen met maffia"
+
+
+[ACTION_PONCT_PROCES]
+COMMENT="Action ponctuelle : procès pour espionnage"
+LAST_MODIFIED="1/10/2000"
+STRING="Aanklacht indienen wegens spionage"
+
+[ACTION_PONCT_RUMOR]
+COMMENT="Action ponctuelle : rumeur"
+LAST_MODIFIED="1/10/2000"
+STRING="Gerucht verspreiden"
+
+[ACTION_PONCT_X_FILES]
+COMMENT="Action ponctuelle : contrôle fiscal"
+LAST_MODIFIED="1/10/2000"
+STRING="Belastingcontrole starten"
+
+
+[ACTION_PONCT_ZEPPELIN]
+COMMENT="Action ponctuelle : négocier la concession zeppelin"
+LAST_MODIFIED="1/10/2000"
+STRING="Over zeppelin onderhandelen"
+
+[ACTION_PONCT_LUNAR]
+COMMENT="Action ponctuelle : négocier la concession Pub lunaire"
+LAST_MODIFIED="1/10/2000"
+STRING="Over maanadvertentie onderhandelen "
+
+
+
+[ACTION_PONCT_SABOT]
+COMMENT="Action ponctuelle : saboter"
+LAST_MODIFIED="1/10/2000"
+STRING="Productie van concurrent saboteren"
+
+[ACTION_PONCT_STEAL]
+COMMENT="Action ponctuelle : voler"
+LAST_MODIFIED="1/10/2000"
+STRING="Patent van concurrent stelen"
+
+[ACTION_PONCT_SPY]
+COMMENT="Action ponctuelle : espionner"
+LAST_MODIFIED="1/10/2000"
+STRING="Administratie & marketing van concurrent bespioneren"
+
+
+
+[ACTION_PONCT_STOCK]
+COMMENT="Action ponctuelle : ecouler ancier stocks"
+LAST_MODIFIED="1/10/2000"
+STRING="Oude voorraad in de uitverkoop doen"
+
+[ACTION_PONCT_POT_DE_VIN]
+COMMENT="Action ponctuelle : Faire un pot de vin au distributeur"
+LAST_MODIFIED="1/10/2000"
+STRING="Distributeur omkopen"
+
+
+
+[ACTION_PONCT_MENACER_AM]
+COMMENT="Action ponctuelle : menacer qql'1 dans l'administration ou le market"
+LAST_MODIFIED="1/10/2000"
+STRING="Administratie & marketing van concurrent bedreigen"
+
+[ACTION_PONCT_MENACER_EXT]
+COMMENT="Action ponctuelle : menacer qql'1 en extérieur"
+LAST_MODIFIED="1/10/2000"
+STRING="Buitenpersoneel van concurrent bedreigen"
+
+[ACTION_PONCT_MENACER_LABO]
+COMMENT="Action ponctuelle : menacer qql'1 dans le labo"
+LAST_MODIFIED="1/10/2000"
+STRING="Labpersoneel van concurrent bedreigen"
+
+[ACTION_PONCT_MENACER_PROD]
+COMMENT="Action ponctuelle : menacer qql'1 dans la production"
+LAST_MODIFIED="1/10/2000"
+STRING="Productieafdeling van concurrent bedreigen"
+
+
+; *****************************************************************************
+;
+;	SIMULATION
+;
+; *****************************************************************************
+
+[JOB_TYPE_ACCOUNTANT]
+COMMENT="Financier"
+LAST_MODIFIED="7/03/2001"
+STRING="Accountant"
+
+[JOB_TYPE_FINANCIER]
+COMMENT="Juriste"
+LAST_MODIFIED="7/03/2001"
+STRING="Advocaat"
+
+[JOB_TYPE_MANAGER]
+COMMENT="DRH"
+LAST_MODIFIED="7/03/2001"
+STRING="P&O"
+
+[JOB_TYPE_SPY]
+COMMENT="Espion"
+LAST_MODIFIED="7/03/2001"
+STRING="Spion"
+
+[JOB_TYPE_PUB]
+COMMENT="Publicitaire"
+LAST_MODIFIED="7/03/2001"
+STRING="PR"
+
+[JOB_TYPE_COM]
+COMMENT="Commercial"
+LAST_MODIFIED="7/03/2001"
+STRING="Verkoop"
+
+[JOB_TYPE_MAFIOSI]
+COMMENT="Mafieu"
+LAST_MODIFIED="7/03/2001"
+STRING="Maffia"
+
+[JOB_TYPE_SEARCHER]
+COMMENT="Chercheur"
+LAST_MODIFIED="7/03/2001"
+STRING="Onderzoeker"
+
+[JOB_TYPE_DRIVER_CHIEF]
+COMMENT="Chef machiniste"
+LAST_MODIFIED="7/03/2001"
+STRING="Productiechef"
+
+[JOB_TYPE_DRIVER]
+COMMENT="Machiniste"
+LAST_MODIFIED="7/03/2001"
+STRING="Technicus"
+
+[JOB_TYPE_GUARDIAN]
+COMMENT="Gardien"
+LAST_MODIFIED="7/03/2001"
+STRING="Beveiliging"
+
+[SOCIETY_LOGO]
+COMMENT="Sigle francais pour les sociétés"
+LAST_MODIFIED="7/03/2001"
+STRING="NV"

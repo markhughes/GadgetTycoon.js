@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Gadget Tycoon</title>
+  <link rel="icon" href="data:,">
+  <style>
+    html, body { margin: 0; height: 100%; background: #000; overflow: hidden; }
+    body { display: flex; align-items: center; justify-content: center; }
+    #game { image-rendering: pixelated; cursor: none; max-width: 100vw; max-height: 100vh; aspect-ratio: 4 / 3; width: 100vw; height: auto; }
+    @media (min-aspect-ratio: 4/3) { #game { width: auto; height: 100vh; } }
+    #video { position: fixed; inset: 0; width: 100%; height: 100%; background: #000; display: none; object-fit: contain; }
+    #error { color: #f88; font: 14px/1.4 monospace; padding: 24px; white-space: pre-wrap; display: none; }
+  </style>
+</head>
+<body>
+  <canvas id="game" width="800" height="600"></canvas>
+  <video id="video" playsinline></video>
+  <div id="error"></div>
+  <script type="module" src="src/main.js"></script>
+</body>
+</html>

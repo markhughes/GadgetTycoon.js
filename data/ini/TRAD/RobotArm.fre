@@ -1,0 +1,71 @@
+[0]
+String="Barre"
+
+[1]
+String="Barre unilatérale"
+
+[2]
+String="Barre"
+
+[3]
+String="Barre bilatérale"
+
+[4]
+String="Barre"
+
+[5]
+String="Barre à 360° entourant le robot"
+
+[6]
+String="Pince"
+
+[7]
+String="Pince unique simple"
+
+[8]
+String="Pince"
+
+[9]
+String="Pince double simple"
+
+[10]
+String="Pince"
+
+[11]
+String="Paire de pinces simples sur poignets rotatifs"
+
+[12]
+String="Système de bras"
+
+[13]
+String="Paire de pinces rotatives avec coudes pliables"
+
+[14]
+String="Système de bras"
+
+[15]
+String="Bras avec coudes et épaules pliables"
+
+[16]
+String="Système de bras"
+
+[17]
+String="Bras rétractables - flexibilité maximum"
+
+[18]
+String="Mains artificielles"
+
+[19]
+String="Pouces opposés avec deux doigts"
+
+[20]
+String="Mains artificielles"
+
+[21]
+String="Mains opposées avec cinq doigts simples"
+
+[22]
+String="Mains artificielles"
+
+[23]
+String="Mains à allure humaine, grande dextérité"

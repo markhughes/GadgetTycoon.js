@@ -1,0 +1,71 @@
+[0]
+String="Tastsinn"
+
+[1]
+String="Eine Tastsonde"
+
+[2]
+String="Tastsinn"
+
+[3]
+String="3 Tastsonden"
+
+[4]
+String="Tastsinn"
+
+[5]
+String="Multidirektionale Tastsonden"
+
+[6]
+String="Radar"
+
+[7]
+String="Kurzstreckenradar mit geringer Präzisionsstufe"
+
+[8]
+String="Radar"
+
+[9]
+String="Mittelstreckenradar mit mittlerer Präzisionsstufe"
+
+[10]
+String="Radar"
+
+[11]
+String="Langstreckenradar mit hoher Präzisionsstufe"
+
+[12]
+String="Optische Wahrnehmung"
+
+[13]
+String="Zweidimensionales einfaches Auge"
+
+[14]
+String="Optische Wahrnehmung"
+
+[15]
+String="Zwei dreidimensionale Augen in Fernglasanordnung"
+
+[16]
+String="Optische Wahrnehmung"
+
+[17]
+String="360°-Blickfeld durch Insektenauge"
+
+[18]
+String="Infrarotsicht"
+
+[19]
+String="Kurzstrecken-Infrarotsensor"
+
+[20]
+String="Infrarotsicht"
+
+[21]
+String="Langstrecken-Infrarotsensor"
+
+[22]
+String="Infrarotsicht"
+
+[23]
+String="Infrarotsupersensor mit Satellitenanschluss"

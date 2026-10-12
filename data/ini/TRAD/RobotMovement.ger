@@ -1,0 +1,71 @@
+[0]
+String="Räder"
+
+[1]
+String="Polymerräder von schlechter Qualität"
+
+[2]
+String="Räder"
+
+[3]
+String="Verstärkte Polymerräder mit Profil"
+
+[4]
+String="Räder"
+
+[5]
+String="Verstärkte Räder mit Tragfedern"
+
+[6]
+String="Raupe"
+
+[7]
+String="Einfache, langsame Raupenfortbewegung"
+
+[8]
+String="Raupe"
+
+[9]
+String="Schnellere, langlebigere Raupenfortbewegung"
+
+[10]
+String="Raupe"
+
+[11]
+String="Flexibles Raupensystem für Unebenheiten"
+
+[12]
+String="Beine"
+
+[13]
+String="Einfache Roboterbeine"
+
+[14]
+String="Beine"
+
+[15]
+String="Flexible Beine für erhöhte Geschwindigkeit"
+
+[16]
+String="Beine"
+
+[17]
+String="Auf menschlichem Körperbau basierende Beine"
+
+[18]
+String="Luftkissen"
+
+[19]
+String="Einfaches, langsames Luftkissen"
+
+[20]
+String="Luftkissen"
+
+[21]
+String="Schnelleres, verbessertes Luftkissen"
+
+[22]
+String="Luftkissen"
+
+[23]
+String="Luftkissen mit variabler Höhe/Geschwindigkeit"

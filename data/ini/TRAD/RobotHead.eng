@@ -1,0 +1,71 @@
+[0]
+String="Tactile perception"
+
+[1]
+String="Single tactile probe"
+
+[2]
+String="Tactile perception"
+
+[3]
+String="3 tactile probes"
+
+[4]
+String="Tactile perception"
+
+[5]
+String="Surround sound receptors"
+
+[6]
+String="Radar perception"
+
+[7]
+String="Short-distance, low-precision radar"
+
+[8]
+String="Radar perception"
+
+[9]
+String="Medium distance, medium precision radar"
+
+[10]
+String="Radar perception"
+
+[11]
+String="Long-distance, high-precision radar"
+
+[12]
+String="Visual perception"
+
+[13]
+String="Basic single eye sees 2 dimensions"
+
+[14]
+String="Visual perception"
+
+[15]
+String="Binocular eyes perceive 3 dimensions"
+
+[16]
+String="Visual perception"
+
+[17]
+String="3D perception in 360° 'insect' eye"
+
+[18]
+String="Infra-red perception"
+
+[19]
+String="Short distance infra-red sensor"
+
+[20]
+String="Infra-red perception"
+
+[21]
+String="Long-distance infra-red perception"
+
+[22]
+String="Infra-red perception"
+
+[23]
+String="Infra-red super-sensor with satellite link"

@@ -1,0 +1,51 @@
+
+; *****************************************************************************
+;
+;	SCENARIO - TUTORIAL
+;
+; *****************************************************************************
+[TUT_WELCOME]
+COMMENT       = "Welcome"
+LAST_MODIFIED = "1/10/2000"
+STRING        = "Welcome to Start Up 2001 Demo"
+
+[TUT_COPYRIGHT]
+COMMENT       = "Copyrights"
+LAST_MODIFIED = "1/10/2000"
+STRING        = "(c) 2000 by Monte Cristo"
+
+[TUT_FACTORY]
+COMMENT       = ""
+LAST_MODIFIED = "1/10/2000"
+STRING        = "This is your factory"
+
+[TUT_PRODUCTION]
+COMMENT       = ""
+LAST_MODIFIED = "1/10/2000"
+STRING        = "Here you can see the production place"
+
+[TUT_LABORATORY]
+COMMENT       = ""
+LAST_MODIFIED = "1/10/2000"
+STRING        = "Here you can see the laboratory place"
+
+[TUT_ADMINISTRATION]
+COMMENT       = ""
+LAST_MODIFIED = "1/10/2000"
+STRING        = "Here you can see the administration place"
+
+[TUT_MARKETING]
+COMMENT       = ""
+LAST_MODIFIED = "1/10/2000"
+STRING        = "Here you can see the marketing place"
+
+[TUT_OUTSIDE]
+COMMENT       = ""
+LAST_MODIFIED = "1/10/2000"
+STRING        = "Here you can see the outside place"
+
+
+
+
+
+

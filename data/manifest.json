@@ -1,0 +1,5172 @@
+{
+ "ini": [
+  "INI/Device.ini",
+  "INI/GameCheck.ini",
+  "INI/Interface.ini",
+  "INI/News.ini",
+  "INI/Server.ini",
+  "INI/Setup.ini",
+  "INI/Sounds.ini",
+  "LEVEL/LEVEL01/Ia/ActionsCom.ini",
+  "LEVEL/LEVEL01/Ia/ActionsCompta.ini",
+  "LEVEL/LEVEL01/Ia/ActionsDRH.ini",
+  "LEVEL/LEVEL01/Ia/ActionsFinancier.ini",
+  "LEVEL/LEVEL01/Ia/ActionsGuardian.ini",
+  "LEVEL/LEVEL01/Ia/ActionsLawyer.ini",
+  "LEVEL/LEVEL01/Ia/ActionsMafiosi.ini",
+  "LEVEL/LEVEL01/Ia/ActionsPub.ini",
+  "LEVEL/LEVEL01/Ia/ActionsSpy.ini",
+  "LEVEL/LEVEL01/Ia/EfficiencyImprover.ini",
+  "LEVEL/LEVEL01/Ia/FireEmployees.ini",
+  "LEVEL/LEVEL01/Ia/IADef01.ini",
+  "LEVEL/LEVEL01/Ia/IADef02.ini",
+  "LEVEL/LEVEL01/Ia/IADef03.ini",
+  "LEVEL/LEVEL01/Ia/IADef04.ini",
+  "LEVEL/LEVEL01/Ia/IADef05.ini",
+  "LEVEL/LEVEL01/Ia/IADef06.ini",
+  "LEVEL/LEVEL01/Ia/IADef07.ini",
+  "LEVEL/LEVEL01/Ia/IADef08.ini",
+  "LEVEL/LEVEL01/Ia/IAManager.ini",
+  "LEVEL/LEVEL01/Ia/IANothing.ini",
+  "LEVEL/LEVEL01/Ia/IASetup.ini",
+  "LEVEL/LEVEL01/Ia/IA_SU2_01.ini",
+  "LEVEL/LEVEL01/Ia/IA_SU2_02.ini",
+  "LEVEL/LEVEL01/Ia/IA_SU2_03.ini",
+  "LEVEL/LEVEL01/Ia/IA_SU2_04.ini",
+  "LEVEL/LEVEL01/Ia/IA_SU2_05.ini",
+  "LEVEL/LEVEL01/Ia/IA_SU2_06.ini",
+  "LEVEL/LEVEL01/Ia/IA_SU2_07.ini",
+  "LEVEL/LEVEL01/Ia/IA_SU2_08.ini",
+  "LEVEL/LEVEL01/Ia/LoanManager.ini",
+  "LEVEL/LEVEL01/Ia/ManagerCrisis.ini",
+  "LEVEL/LEVEL01/Ia/ManagerEfficiency.ini",
+  "LEVEL/LEVEL01/Ia/ManagerImage.ini",
+  "LEVEL/LEVEL01/Ia/ManagerLoan.ini",
+  "LEVEL/LEVEL01/Ia/ManagerMultiplayer.ini",
+  "LEVEL/LEVEL01/Ia/ManagerNotoriety.ini",
+  "LEVEL/LEVEL01/Ia/ManagerProduct.ini",
+  "LEVEL/LEVEL01/Ia/ManagerProduction.ini",
+  "LEVEL/LEVEL01/Ia/ManagerResearch.ini",
+  "LEVEL/LEVEL01/Ia/ManagerSecurity.ini",
+  "LEVEL/LEVEL01/Ia/ProdReglage.ini",
+  "LEVEL/LEVEL01/Ia/SearchEvolution.ini",
+  "LEVEL/LEVEL01/Ia/SecuManager.ini",
+  "LEVEL/LEVEL01/Ia/SelectProduct.ini",
+  "LEVEL/LEVEL01/Ia/StartBuyer.ini",
+  "LEVEL/LEVEL01/Ia/StartCom.ini",
+  "LEVEL/LEVEL01/Ia/StartComptable.ini",
+  "LEVEL/LEVEL01/Ia/StartDRH.ini",
+  "LEVEL/LEVEL01/Ia/StartDriver.ini",
+  "LEVEL/LEVEL01/Ia/StartDriverChief.ini",
+  "LEVEL/LEVEL01/Ia/StartFinancier.ini",
+  "LEVEL/LEVEL01/Ia/StartGuardian.ini",
+  "LEVEL/LEVEL01/Ia/StartLabo1.ini",
+  "LEVEL/LEVEL01/Ia/StartLabo2.ini",
+  "LEVEL/LEVEL01/Ia/StartLabo3.ini",
+  "LEVEL/LEVEL01/Ia/StartLabo4.ini",
+  "LEVEL/LEVEL01/Ia/StartLawyer.ini",
+  "LEVEL/LEVEL01/Ia/StartMafiosi.ini",
+  "LEVEL/LEVEL01/Ia/StartPub.ini",
+  "LEVEL/LEVEL01/Ia/StartSpy.ini",
+  "LEVEL/LEVEL01/Ia/_ModuleEmpty.ini",
+  "LEVEL/LEVEL01/Simulation/ActionList.ini",
+  "LEVEL/LEVEL01/Simulation/ClientSim.ini",
+  "LEVEL/LEVEL01/Simulation/CreditorList.ini",
+  "LEVEL/LEVEL01/Simulation/DesktopList.ini",
+  "LEVEL/LEVEL01/Simulation/LevelNews.ini",
+  "LEVEL/LEVEL01/Simulation/Market.ini",
+  "LEVEL/LEVEL01/Simulation/ObjectList.ini",
+  "LEVEL/LEVEL01/Simulation/ProviderList.ini",
+  "LEVEL/LEVEL01/Simulation/SetupSim.ini",
+  "LEVEL/LEVEL01/Simulation/SimLevel.ini",
+  "LEVEL/LEVEL01/Simulation/Toilet.ini",
+  "LEVEL/LEVEL01/Simulation/ToiletExtras.ini",
+  "LEVEL/LEVEL01/Simulation/ToiletFlush.ini",
+  "LEVEL/LEVEL01/Simulation/ToiletMachines.ini",
+  "LEVEL/LEVEL01/Simulation/ToiletProvider.ini",
+  "LEVEL/LEVEL01/Simulation/ToiletSeat.ini",
+  "LEVEL/LEVEL01/Simulation/WorkerList.ini",
+  "LEVEL/LEVEL01/Simulation/WorkerSalary.ini",
+  "LEVEL/LEVEL01/Simulation/WorkstationList.ini",
+  "LEVEL/LEVEL02/Simulation/ActionList.ini",
+  "LEVEL/LEVEL02/Simulation/ClientSim.ini",
+  "LEVEL/LEVEL02/Simulation/CreditorList.ini",
+  "LEVEL/LEVEL02/Simulation/DesktopList.ini",
+  "LEVEL/LEVEL02/Simulation/LevelNews.ini",
+  "LEVEL/LEVEL02/Simulation/Market.ini",
+  "LEVEL/LEVEL02/Simulation/ObjectList.ini",
+  "LEVEL/LEVEL02/Simulation/ProviderList.ini",
+  "LEVEL/LEVEL02/Simulation/Roller.ini",
+  "LEVEL/LEVEL02/Simulation/RollerFoot.ini",
+  "LEVEL/LEVEL02/Simulation/RollerHelmet.ini",
+  "LEVEL/LEVEL02/Simulation/RollerMachines.ini",
+  "LEVEL/LEVEL02/Simulation/RollerMovement.ini",
+  "LEVEL/LEVEL02/Simulation/SetupSim.ini",
+  "LEVEL/LEVEL02/Simulation/SimLevel.ini",
+  "LEVEL/LEVEL02/Simulation/WorkerList.ini",
+  "LEVEL/LEVEL02/Simulation/WorkerSalary.ini",
+  "LEVEL/LEVEL02/Simulation/WorkstationList.ini",
+  "LEVEL/LEVEL03/Simulation/ActionList.ini",
+  "LEVEL/LEVEL03/Simulation/ClientSim.ini",
+  "LEVEL/LEVEL03/Simulation/CreditorList.ini",
+  "LEVEL/LEVEL03/Simulation/DesktopList.ini",
+  "LEVEL/LEVEL03/Simulation/LevelNews.ini",
+  "LEVEL/LEVEL03/Simulation/Market.ini",
+  "LEVEL/LEVEL03/Simulation/ObjectList.ini",
+  "LEVEL/LEVEL03/Simulation/ProviderList.ini",
+  "LEVEL/LEVEL03/Simulation/ProviderRobot.ini",
+  "LEVEL/LEVEL03/Simulation/Robot.ini",
+  "LEVEL/LEVEL03/Simulation/RobotArm.ini",
+  "LEVEL/LEVEL03/Simulation/RobotHead.ini",
+  "LEVEL/LEVEL03/Simulation/RobotIntelligence.ini",
+  "LEVEL/LEVEL03/Simulation/RobotMachines.ini",
+  "LEVEL/LEVEL03/Simulation/RobotMovement.ini",
+  "LEVEL/LEVEL03/Simulation/SetupSim.ini",
+  "LEVEL/LEVEL03/Simulation/SimLevel.ini",
+  "LEVEL/LEVEL03/Simulation/WorkerList.ini",
+  "LEVEL/LEVEL03/Simulation/WorkerSalary.ini",
+  "LEVEL/LEVEL03/Simulation/WorkstationList.ini",
+  "LEVEL/LEVEL04/Simulation/ActionList.ini",
+  "LEVEL/LEVEL04/Simulation/ClientSim.ini",
+  "LEVEL/LEVEL04/Simulation/CreditorList.ini",
+  "LEVEL/LEVEL04/Simulation/DesktopList.ini",
+  "LEVEL/LEVEL04/Simulation/LevelNews.ini",
+  "LEVEL/LEVEL04/Simulation/MakeSave.ini",
+  "LEVEL/LEVEL04/Simulation/MakeSaveSim0.ini",
+  "LEVEL/LEVEL04/Simulation/MakeSaveSim1.ini",
+  "LEVEL/LEVEL04/Simulation/MakeSaveSim2.ini",
+  "LEVEL/LEVEL04/Simulation/Market.ini",
+  "LEVEL/LEVEL04/Simulation/ObjectList.ini",
+  "LEVEL/LEVEL04/Simulation/ProviderList.ini",
+  "LEVEL/LEVEL04/Simulation/SetupSim.ini",
+  "LEVEL/LEVEL04/Simulation/SimLevel.ini",
+  "LEVEL/LEVEL04/Simulation/Toilet.ini",
+  "LEVEL/LEVEL04/Simulation/ToiletExtras.ini",
+  "LEVEL/LEVEL04/Simulation/ToiletFlush.ini",
+  "LEVEL/LEVEL04/Simulation/ToiletMachines.ini",
+  "LEVEL/LEVEL04/Simulation/ToiletProvider.ini",
+  "LEVEL/LEVEL04/Simulation/ToiletSeat.ini",
+  "LEVEL/LEVEL04/Simulation/WorkerList.ini",
+  "LEVEL/LEVEL04/Simulation/WorkerSalary.ini",
+  "LEVEL/LEVEL04/Simulation/WorkstationList.ini",
+  "LEVEL/LEVEL05/Simulation/ActionList.ini",
+  "LEVEL/LEVEL05/Simulation/ClientSim.ini",
+  "LEVEL/LEVEL05/Simulation/CreditorList.ini",
+  "LEVEL/LEVEL05/Simulation/DesktopList.ini",
+  "LEVEL/LEVEL05/Simulation/LevelNews.ini",
+  "LEVEL/LEVEL05/Simulation/MakeSave.ini",
+  "LEVEL/LEVEL05/Simulation/MakeSaveSim0.ini",
+  "LEVEL/LEVEL05/Simulation/MakeSaveSim1.ini",
+  "LEVEL/LEVEL05/Simulation/MakeSaveSim2.ini",
+  "LEVEL/LEVEL05/Simulation/MakeSaveSim3.ini",
+  "LEVEL/LEVEL05/Simulation/MakeSaveSim4.ini",
+  "LEVEL/LEVEL05/Simulation/MakeSaveSim5.ini",
+  "LEVEL/LEVEL05/Simulation/MakeSaveSim6.ini",
+  "LEVEL/LEVEL05/Simulation/Market.ini",
+  "LEVEL/LEVEL05/Simulation/ObjectList.ini",
+  "LEVEL/LEVEL05/Simulation/ProviderList.ini",
+  "LEVEL/LEVEL05/Simulation/SetupSim.ini",
+  "LEVEL/LEVEL05/Simulation/SimLevel.ini",
+  "LEVEL/LEVEL05/Simulation/Toilet.ini",
+  "LEVEL/LEVEL05/Simulation/ToiletExtras.ini",
+  "LEVEL/LEVEL05/Simulation/ToiletFlush.ini",
+  "LEVEL/LEVEL05/Simulation/ToiletMachines.ini",
+  "LEVEL/LEVEL05/Simulation/ToiletProvider.ini",
+  "LEVEL/LEVEL05/Simulation/ToiletSeat.ini",
+  "LEVEL/LEVEL05/Simulation/WorkerList.ini",
+  "LEVEL/LEVEL05/Simulation/WorkerSalary.ini",
+  "LEVEL/LEVEL05/Simulation/WorkstationList.ini",
+  "LEVEL/LEVEL06/Simulation/ActionList.ini",
+  "LEVEL/LEVEL06/Simulation/ClientSim.ini",
+  "LEVEL/LEVEL06/Simulation/CreditorList.ini",
+  "LEVEL/LEVEL06/Simulation/DesktopList.ini",
+  "LEVEL/LEVEL06/Simulation/LevelNews.ini",
+  "LEVEL/LEVEL06/Simulation/MakeSave.ini",
+  "LEVEL/LEVEL06/Simulation/MakeSaveSim0.ini",
+  "LEVEL/LEVEL06/Simulation/MakeSaveSim1.ini",
+  "LEVEL/LEVEL06/Simulation/Market.ini",
+  "LEVEL/LEVEL06/Simulation/ObjectList.ini",
+  "LEVEL/LEVEL06/Simulation/ProviderList.ini",
+  "LEVEL/LEVEL06/Simulation/Roller.ini",
+  "LEVEL/LEVEL06/Simulation/RollerFoot.ini",
+  "LEVEL/LEVEL06/Simulation/RollerHelmet.ini",
+  "LEVEL/LEVEL06/Simulation/RollerMachines.ini",
+  "LEVEL/LEVEL06/Simulation/RollerMovement.ini",
+  "LEVEL/LEVEL06/Simulation/SetupSim.ini",
+  "LEVEL/LEVEL06/Simulation/SimLevel.ini",
+  "LEVEL/LEVEL06/Simulation/Toilet.ini",
+  "LEVEL/LEVEL06/Simulation/ToiletExtras.ini",
+  "LEVEL/LEVEL06/Simulation/ToiletFlush.ini",
+  "LEVEL/LEVEL06/Simulation/ToiletMachines.ini",
+  "LEVEL/LEVEL06/Simulation/ToiletProvider.ini",
+  "LEVEL/LEVEL06/Simulation/ToiletSeat.ini",
+  "LEVEL/LEVEL06/Simulation/WorkerList.ini",
+  "LEVEL/LEVEL06/Simulation/WorkerSalary.ini",
+  "LEVEL/LEVEL06/Simulation/WorkstationList.ini",
+  "LEVEL/LEVEL07/Simulation/ActionList.ini",
+  "LEVEL/LEVEL07/Simulation/ClientSim.ini",
+  "LEVEL/LEVEL07/Simulation/CreditorList.ini",
+  "LEVEL/LEVEL07/Simulation/DesktopList.ini",
+  "LEVEL/LEVEL07/Simulation/LevelNews.ini",
+  "LEVEL/LEVEL07/Simulation/MakeSave.ini",
+  "LEVEL/LEVEL07/Simulation/MakeSaveSim0.ini",
+  "LEVEL/LEVEL07/Simulation/MakeSaveSim1.ini",
+  "LEVEL/LEVEL07/Simulation/MakeSaveSim2.ini",
+  "LEVEL/LEVEL07/Simulation/MakeSaveSim3.ini",
+  "LEVEL/LEVEL07/Simulation/MakeSaveSim4.ini",
+  "LEVEL/LEVEL07/Simulation/MakeSaveSim5.ini",
+  "LEVEL/LEVEL07/Simulation/Market.ini",
+  "LEVEL/LEVEL07/Simulation/ObjectList.ini",
+  "LEVEL/LEVEL07/Simulation/ProviderList.ini",
+  "LEVEL/LEVEL07/Simulation/Robot.ini",
+  "LEVEL/LEVEL07/Simulation/RobotArm.ini",
+  "LEVEL/LEVEL07/Simulation/RobotHead.ini",
+  "LEVEL/LEVEL07/Simulation/RobotIntelligence.ini",
+  "LEVEL/LEVEL07/Simulation/RobotMachines.ini",
+  "LEVEL/LEVEL07/Simulation/RobotMovement.ini",
+  "LEVEL/LEVEL07/Simulation/SetupSim.ini",
+  "LEVEL/LEVEL07/Simulation/SimLevel.ini",
+  "LEVEL/LEVEL07/Simulation/Toilet.ini",
+  "LEVEL/LEVEL07/Simulation/ToiletExtras.ini",
+  "LEVEL/LEVEL07/Simulation/ToiletFlush.ini",
+  "LEVEL/LEVEL07/Simulation/ToiletMachines.ini",
+  "LEVEL/LEVEL07/Simulation/ToiletProvider.ini",
+  "LEVEL/LEVEL07/Simulation/ToiletSeat.ini",
+  "LEVEL/LEVEL07/Simulation/WorkerList.ini",
+  "LEVEL/LEVEL07/Simulation/WorkerSalary.ini",
+  "LEVEL/LEVEL07/Simulation/WorkstationList.ini",
+  "LEVEL/LEVEL08/Simulation/ActionList.ini",
+  "LEVEL/LEVEL08/Simulation/ClientSim.ini",
+  "LEVEL/LEVEL08/Simulation/CreditorList.ini",
+  "LEVEL/LEVEL08/Simulation/DesktopList.ini",
+  "LEVEL/LEVEL08/Simulation/LevelNews.ini",
+  "LEVEL/LEVEL08/Simulation/MakeSave.ini",
+  "LEVEL/LEVEL08/Simulation/MakeSaveSim0.ini",
+  "LEVEL/LEVEL08/Simulation/MakeSaveSim1.ini",
+  "LEVEL/LEVEL08/Simulation/MakeSaveSim2.ini",
+  "LEVEL/LEVEL08/Simulation/MakeSaveSim3.ini",
+  "LEVEL/LEVEL08/Simulation/Market.ini",
+  "LEVEL/LEVEL08/Simulation/ObjectList.ini",
+  "LEVEL/LEVEL08/Simulation/ProviderList.ini",
+  "LEVEL/LEVEL08/Simulation/Roller.ini",
+  "LEVEL/LEVEL08/Simulation/RollerFoot.ini",
+  "LEVEL/LEVEL08/Simulation/RollerHelmet.ini",
+  "LEVEL/LEVEL08/Simulation/RollerMachines.ini",
+  "LEVEL/LEVEL08/Simulation/RollerMovement.ini",
+  "LEVEL/LEVEL08/Simulation/SetupSim.ini",
+  "LEVEL/LEVEL08/Simulation/SimLevel.ini",
+  "LEVEL/LEVEL08/Simulation/WorkerList.ini",
+  "LEVEL/LEVEL08/Simulation/WorkerSalary.ini",
+  "LEVEL/LEVEL08/Simulation/WorkstationList.ini",
+  "LEVEL/LEVEL09/Simulation/ActionList.ini",
+  "LEVEL/LEVEL09/Simulation/ClientSim.ini",
+  "LEVEL/LEVEL09/Simulation/CreditorList.ini",
+  "LEVEL/LEVEL09/Simulation/DesktopList.ini",
+  "LEVEL/LEVEL09/Simulation/LevelNews.ini",
+  "LEVEL/LEVEL09/Simulation/MakeSave.ini",
+  "LEVEL/LEVEL09/Simulation/MakeSaveSim0.ini",
+  "LEVEL/LEVEL09/Simulation/MakeSaveSim1.ini",
+  "LEVEL/LEVEL09/Simulation/MakeSaveSim2.ini",
+  "LEVEL/LEVEL09/Simulation/Market.ini",
+  "LEVEL/LEVEL09/Simulation/ObjectList.ini",
+  "LEVEL/LEVEL09/Simulation/ProviderList.ini",
+  "LEVEL/LEVEL09/Simulation/SetupSim.ini",
+  "LEVEL/LEVEL09/Simulation/SimLevel.ini",
+  "LEVEL/LEVEL09/Simulation/Toilet.ini",
+  "LEVEL/LEVEL09/Simulation/ToiletExtras.ini",
+  "LEVEL/LEVEL09/Simulation/ToiletFlush.ini",
+  "LEVEL/LEVEL09/Simulation/ToiletMachines.ini",
+  "LEVEL/LEVEL09/Simulation/ToiletProvider.ini",
+  "LEVEL/LEVEL09/Simulation/ToiletSeat.ini",
+  "LEVEL/LEVEL09/Simulation/WorkerList.ini",
+  "LEVEL/LEVEL09/Simulation/WorkerSalary.ini",
+  "LEVEL/LEVEL09/Simulation/WorkstationList.ini",
+  "LEVEL/LEVEL10/Simulation/ActionList.ini",
+  "LEVEL/LEVEL10/Simulation/ClientSim.ini",
+  "LEVEL/LEVEL10/Simulation/CreditorList.ini",
+  "LEVEL/LEVEL10/Simulation/DesktopList.ini",
+  "LEVEL/LEVEL10/Simulation/LevelNews.ini",
+  "LEVEL/LEVEL10/Simulation/MakeSave.ini",
+  "LEVEL/LEVEL10/Simulation/MakeSaveSim0.ini",
+  "LEVEL/LEVEL10/Simulation/MakeSaveSim1.ini",
+  "LEVEL/LEVEL10/Simulation/Market.ini",
+  "LEVEL/LEVEL10/Simulation/ObjectList.ini",
+  "LEVEL/LEVEL10/Simulation/ProviderList.ini",
+  "LEVEL/LEVEL10/Simulation/Roller.ini",
+  "LEVEL/LEVEL10/Simulation/RollerFoot.ini",
+  "LEVEL/LEVEL10/Simulation/RollerHelmet.ini",
+  "LEVEL/LEVEL10/Simulation/RollerMachines.ini",
+  "LEVEL/LEVEL10/Simulation/RollerMovement.ini",
+  "LEVEL/LEVEL10/Simulation/SetupSim.ini",
+  "LEVEL/LEVEL10/Simulation/SimLevel.ini",
+  "LEVEL/LEVEL10/Simulation/Toilet.ini",
+  "LEVEL/LEVEL10/Simulation/ToiletExtras.ini",
+  "LEVEL/LEVEL10/Simulation/ToiletFlush.ini",
+  "LEVEL/LEVEL10/Simulation/ToiletMachines.ini",
+  "LEVEL/LEVEL10/Simulation/ToiletProvider.ini",
+  "LEVEL/LEVEL10/Simulation/ToiletSeat.ini",
+  "LEVEL/LEVEL10/Simulation/WorkerList.ini",
+  "LEVEL/LEVEL10/Simulation/WorkerSalary.ini",
+  "LEVEL/LEVEL10/Simulation/WorkstationList.ini",
+  "LEVEL/LEVEL11/Simulation/ActionList.ini",
+  "LEVEL/LEVEL11/Simulation/ClientSim.ini",
+  "LEVEL/LEVEL11/Simulation/CreditorList.ini",
+  "LEVEL/LEVEL11/Simulation/DesktopList.ini",
+  "LEVEL/LEVEL11/Simulation/LevelNews.ini",
+  "LEVEL/LEVEL11/Simulation/MakeSave.ini",
+  "LEVEL/LEVEL11/Simulation/MakeSaveSim0.ini",
+  "LEVEL/LEVEL11/Simulation/MakeSaveSim1.ini",
+  "LEVEL/LEVEL11/Simulation/MakeSaveSim2.ini",
+  "LEVEL/LEVEL11/Simulation/MakeSaveSim3.ini",
+  "LEVEL/LEVEL11/Simulation/Market.ini",
+  "LEVEL/LEVEL11/Simulation/ObjectList.ini",
+  "LEVEL/LEVEL11/Simulation/ProviderList.ini",
+  "LEVEL/LEVEL11/Simulation/SetupSim.ini",
+  "LEVEL/LEVEL11/Simulation/SimLevel.ini",
+  "LEVEL/LEVEL11/Simulation/Toilet.ini",
+  "LEVEL/LEVEL11/Simulation/ToiletExtras.ini",
+  "LEVEL/LEVEL11/Simulation/ToiletFlush.ini",
+  "LEVEL/LEVEL11/Simulation/ToiletMachines.ini",
+  "LEVEL/LEVEL11/Simulation/ToiletProvider.ini",
+  "LEVEL/LEVEL11/Simulation/ToiletSeat.ini",
+  "LEVEL/LEVEL11/Simulation/WorkerList.ini",
+  "LEVEL/LEVEL11/Simulation/WorkerSalary.ini",
+  "LEVEL/LEVEL11/Simulation/WorkstationList.ini",
+  "LEVEL/LEVEL12/Simulation/ActionList.ini",
+  "LEVEL/LEVEL12/Simulation/ClientSim.ini",
+  "LEVEL/LEVEL12/Simulation/CreditorList.ini",
+  "LEVEL/LEVEL12/Simulation/DesktopList.ini",
+  "LEVEL/LEVEL12/Simulation/LevelNews.ini",
+  "LEVEL/LEVEL12/Simulation/MakeSave.ini",
+  "LEVEL/LEVEL12/Simulation/MakeSaveSim0.ini",
+  "LEVEL/LEVEL12/Simulation/MakeSaveSim1.ini",
+  "LEVEL/LEVEL12/Simulation/MakeSaveSim2.ini",
+  "LEVEL/LEVEL12/Simulation/MakeSaveSim3.ini",
+  "LEVEL/LEVEL12/Simulation/MakeSaveSim4.ini",
+  "LEVEL/LEVEL12/Simulation/Market.ini",
+  "LEVEL/LEVEL12/Simulation/ObjectList.ini",
+  "LEVEL/LEVEL12/Simulation/ProviderList.ini",
+  "LEVEL/LEVEL12/Simulation/Robot.ini",
+  "LEVEL/LEVEL12/Simulation/RobotArm.ini",
+  "LEVEL/LEVEL12/Simulation/RobotHead.ini",
+  "LEVEL/LEVEL12/Simulation/RobotIntelligence.ini",
+  "LEVEL/LEVEL12/Simulation/RobotMachines.ini",
+  "LEVEL/LEVEL12/Simulation/RobotMovement.ini",
+  "LEVEL/LEVEL12/Simulation/SetupSim.ini",
+  "LEVEL/LEVEL12/Simulation/SimLevel.ini",
+  "LEVEL/LEVEL12/Simulation/Toilet.ini",
+  "LEVEL/LEVEL12/Simulation/ToiletExtras.ini",
+  "LEVEL/LEVEL12/Simulation/ToiletFlush.ini",
+  "LEVEL/LEVEL12/Simulation/ToiletMachines.ini",
+  "LEVEL/LEVEL12/Simulation/ToiletProvider.ini",
+  "LEVEL/LEVEL12/Simulation/ToiletSeat.ini",
+  "LEVEL/LEVEL12/Simulation/WorkerList.ini",
+  "LEVEL/LEVEL12/Simulation/WorkerSalary.ini",
+  "LEVEL/LEVEL12/Simulation/WorkstationList.ini",
+  "LEVEL/LEVEL90/Simulation/ActionList.ini",
+  "LEVEL/LEVEL90/Simulation/ClientSim.ini",
+  "LEVEL/LEVEL90/Simulation/CreditorList.ini",
+  "LEVEL/LEVEL90/Simulation/DesktopList.ini",
+  "LEVEL/LEVEL90/Simulation/LevelNews.ini",
+  "LEVEL/LEVEL90/Simulation/MakeSave.ini",
+  "LEVEL/LEVEL90/Simulation/MakeSaveSim0.ini",
+  "LEVEL/LEVEL90/Simulation/MakeSaveSim1.ini",
+  "LEVEL/LEVEL90/Simulation/Market.ini",
+  "LEVEL/LEVEL90/Simulation/ObjectList.ini",
+  "LEVEL/LEVEL90/Simulation/ProviderList.ini",
+  "LEVEL/LEVEL90/Simulation/SetupSim.ini",
+  "LEVEL/LEVEL90/Simulation/SimLevel.ini",
+  "LEVEL/LEVEL90/Simulation/Toilet.ini",
+  "LEVEL/LEVEL90/Simulation/ToiletExtras.ini",
+  "LEVEL/LEVEL90/Simulation/ToiletFlush.ini",
+  "LEVEL/LEVEL90/Simulation/ToiletMachines.ini",
+  "LEVEL/LEVEL90/Simulation/ToiletProvider.ini",
+  "LEVEL/LEVEL90/Simulation/ToiletSeat.ini",
+  "LEVEL/LEVEL90/Simulation/WorkerList.ini",
+  "LEVEL/LEVEL90/Simulation/WorkerSalary.ini",
+  "LEVEL/LEVEL90/Simulation/WorkstationList.ini",
+  "LEVEL/LEVEL91/Simulation/ActionList.ini",
+  "LEVEL/LEVEL91/Simulation/ClientSim.ini",
+  "LEVEL/LEVEL91/Simulation/CreditorList.ini",
+  "LEVEL/LEVEL91/Simulation/DesktopList.ini",
+  "LEVEL/LEVEL91/Simulation/LevelNews.ini",
+  "LEVEL/LEVEL91/Simulation/MakeSave.ini",
+  "LEVEL/LEVEL91/Simulation/MakeSaveSim0.ini",
+  "LEVEL/LEVEL91/Simulation/MakeSaveSim1.ini",
+  "LEVEL/LEVEL91/Simulation/Market.ini",
+  "LEVEL/LEVEL91/Simulation/ObjectList.ini",
+  "LEVEL/LEVEL91/Simulation/ProviderList.ini",
+  "LEVEL/LEVEL91/Simulation/SetupSim.ini",
+  "LEVEL/LEVEL91/Simulation/SimLevel.ini",
+  "LEVEL/LEVEL91/Simulation/Toilet.ini",
+  "LEVEL/LEVEL91/Simulation/ToiletExtras.ini",
+  "LEVEL/LEVEL91/Simulation/ToiletFlush.ini",
+  "LEVEL/LEVEL91/Simulation/ToiletMachines.ini",
+  "LEVEL/LEVEL91/Simulation/ToiletProvider.ini",
+  "LEVEL/LEVEL91/Simulation/ToiletSeat.ini",
+  "LEVEL/LEVEL91/Simulation/WorkerList.ini",
+  "LEVEL/LEVEL91/Simulation/WorkerSalary.ini",
+  "LEVEL/LEVEL91/Simulation/WorkstationList.ini",
+  "LEVEL/LEVEL92/Simulation/ActionList.ini",
+  "LEVEL/LEVEL92/Simulation/ClientSim.ini",
+  "LEVEL/LEVEL92/Simulation/CreditorList.ini",
+  "LEVEL/LEVEL92/Simulation/DesktopList.ini",
+  "LEVEL/LEVEL92/Simulation/LevelNews.ini",
+  "LEVEL/LEVEL92/Simulation/MakeSave.ini",
+  "LEVEL/LEVEL92/Simulation/MakeSaveSim0.ini",
+  "LEVEL/LEVEL92/Simulation/MakeSaveSim1.ini",
+  "LEVEL/LEVEL92/Simulation/Market.ini",
+  "LEVEL/LEVEL92/Simulation/ObjectList.ini",
+  "LEVEL/LEVEL92/Simulation/ProviderList.ini",
+  "LEVEL/LEVEL92/Simulation/SetupSim.ini",
+  "LEVEL/LEVEL92/Simulation/SimLevel.ini",
+  "LEVEL/LEVEL92/Simulation/Toilet.ini",
+  "LEVEL/LEVEL92/Simulation/ToiletExtras.ini",
+  "LEVEL/LEVEL92/Simulation/ToiletFlush.ini",
+  "LEVEL/LEVEL92/Simulation/ToiletMachines.ini",
+  "LEVEL/LEVEL92/Simulation/ToiletProvider.ini",
+  "LEVEL/LEVEL92/Simulation/ToiletSeat.ini",
+  "LEVEL/LEVEL92/Simulation/WorkerList.ini",
+  "LEVEL/LEVEL92/Simulation/WorkerSalary.ini",
+  "LEVEL/LEVEL92/Simulation/WorkstationList.ini",
+  "LEVEL/LEVEL93/Simulation/ActionList.ini",
+  "LEVEL/LEVEL93/Simulation/ClientSim.ini",
+  "LEVEL/LEVEL93/Simulation/CreditorList.ini",
+  "LEVEL/LEVEL93/Simulation/DesktopList.ini",
+  "LEVEL/LEVEL93/Simulation/LevelNews.ini",
+  "LEVEL/LEVEL93/Simulation/MakeSave.ini",
+  "LEVEL/LEVEL93/Simulation/MakeSaveSim0.ini",
+  "LEVEL/LEVEL93/Simulation/MakeSaveSim1.ini",
+  "LEVEL/LEVEL93/Simulation/Market.ini",
+  "LEVEL/LEVEL93/Simulation/ObjectList.ini",
+  "LEVEL/LEVEL93/Simulation/ProviderList.ini",
+  "LEVEL/LEVEL93/Simulation/SetupSim.ini",
+  "LEVEL/LEVEL93/Simulation/SimLevel.ini",
+  "LEVEL/LEVEL93/Simulation/Toilet.ini",
+  "LEVEL/LEVEL93/Simulation/ToiletExtras.ini",
+  "LEVEL/LEVEL93/Simulation/ToiletFlush.ini",
+  "LEVEL/LEVEL93/Simulation/ToiletMachines.ini",
+  "LEVEL/LEVEL93/Simulation/ToiletProvider.ini",
+  "LEVEL/LEVEL93/Simulation/ToiletSeat.ini",
+  "LEVEL/LEVEL93/Simulation/WorkerList.ini",
+  "LEVEL/LEVEL93/Simulation/WorkerSalary.ini",
+  "LEVEL/LEVEL93/Simulation/WorkstationList.ini",
+  "LEVEL/SetupLevel.ini",
+  "TRAD/CreditorList.bra",
+  "TRAD/CreditorList.eng",
+  "TRAD/CreditorList.esp",
+  "TRAD/CreditorList.fre",
+  "TRAD/CreditorList.ger",
+  "TRAD/CreditorList.ita",
+  "TRAD/CreditorList.neh",
+  "TRAD/Credits__TRAD.bra",
+  "TRAD/Credits__TRAD.eng",
+  "TRAD/Credits__TRAD.esp",
+  "TRAD/Credits__TRAD.fre",
+  "TRAD/Credits__TRAD.ger",
+  "TRAD/Credits__TRAD.ita",
+  "TRAD/Credits__TRAD.neh",
+  "TRAD/DesktopList.bra",
+  "TRAD/DesktopList.eng",
+  "TRAD/DesktopList.esp",
+  "TRAD/DesktopList.fre",
+  "TRAD/DesktopList.ger",
+  "TRAD/DesktopList.ita",
+  "TRAD/DesktopList.neh",
+  "TRAD/NewsText.bra",
+  "TRAD/NewsText.eng",
+  "TRAD/NewsText.esp",
+  "TRAD/NewsText.fre",
+  "TRAD/NewsText.ger",
+  "TRAD/NewsText.ita",
+  "TRAD/NewsText.neh",
+  "TRAD/News__TRAD.bra",
+  "TRAD/News__TRAD.eng",
+  "TRAD/News__TRAD.esp",
+  "TRAD/News__TRAD.fre",
+  "TRAD/News__TRAD.ger",
+  "TRAD/News__TRAD.ita",
+  "TRAD/News__TRAD.neh",
+  "TRAD/ObjectList.bra",
+  "TRAD/ObjectList.eng",
+  "TRAD/ObjectList.esp",
+  "TRAD/ObjectList.fre",
+  "TRAD/ObjectList.ger",
+  "TRAD/ObjectList.ita",
+  "TRAD/ObjectList.neh",
+  "TRAD/ProviderList.bra",
+  "TRAD/ProviderList.eng",
+  "TRAD/ProviderList.esp",
+  "TRAD/ProviderList.fre",
+  "TRAD/ProviderList.ger",
+  "TRAD/ProviderList.ita",
+  "TRAD/ProviderList.neh",
+  "TRAD/RobotArm.bra",
+  "TRAD/RobotArm.eng",
+  "TRAD/RobotArm.esp",
+  "TRAD/RobotArm.fre",
+  "TRAD/RobotArm.ger",
+  "TRAD/RobotArm.ita",
+  "TRAD/RobotArm.neh",
+  "TRAD/RobotHead.bra",
+  "TRAD/RobotHead.eng",
+  "TRAD/RobotHead.esp",
+  "TRAD/RobotHead.fre",
+  "TRAD/RobotHead.ger",
+  "TRAD/RobotHead.ita",
+  "TRAD/RobotHead.neh",
+  "TRAD/RobotIntelligence.bra",
+  "TRAD/RobotIntelligence.eng",
+  "TRAD/RobotIntelligence.esp",
+  "TRAD/RobotIntelligence.fre",
+  "TRAD/RobotIntelligence.ger",
+  "TRAD/RobotIntelligence.ita",
+  "TRAD/RobotIntelligence.neh",
+  "TRAD/RobotMachines.bra",
+  "TRAD/RobotMachines.eng",
+  "TRAD/RobotMachines.esp",
+  "TRAD/RobotMachines.fre",
+  "TRAD/RobotMachines.ger",
+  "TRAD/RobotMachines.ita",
+  "TRAD/RobotMachines.neh",
+  "TRAD/RobotMovement.bra",
+  "TRAD/RobotMovement.eng",
+  "TRAD/RobotMovement.esp",
+  "TRAD/RobotMovement.fre",
+  "TRAD/RobotMovement.ger",
+  "TRAD/RobotMovement.ita",
+  "TRAD/RobotMovement.neh",
+  "TRAD/RollerFoot.bra",
+  "TRAD/RollerFoot.eng",
+  "TRAD/RollerFoot.esp",
+  "TRAD/RollerFoot.fre",
+  "TRAD/RollerFoot.ger",
+  "TRAD/RollerFoot.ita",
+  "TRAD/RollerFoot.neh",
+  "TRAD/RollerHelmet.bra",
+  "TRAD/RollerHelmet.eng",
+  "TRAD/RollerHelmet.esp",
+  "TRAD/RollerHelmet.fre",
+  "TRAD/RollerHelmet.ger",
+  "TRAD/RollerHelmet.ita",
+  "TRAD/RollerHelmet.neh",
+  "TRAD/RollerMachines.bra",
+  "TRAD/RollerMachines.eng",
+  "TRAD/RollerMachines.esp",
+  "TRAD/RollerMachines.fre",
+  "TRAD/RollerMachines.ger",
+  "TRAD/RollerMachines.ita",
+  "TRAD/RollerMachines.neh",
+  "TRAD/RollerMovement.bra",
+  "TRAD/RollerMovement.eng",
+  "TRAD/RollerMovement.esp",
+  "TRAD/RollerMovement.fre",
+  "TRAD/RollerMovement.ger",
+  "TRAD/RollerMovement.ita",
+  "TRAD/RollerMovement.neh",
+  "TRAD/Scenario__TRAD.eng",
+  "TRAD/Scenario__TRAD.fre",
+  "TRAD/Song2__TRAD.bra",
+  "TRAD/Song2__TRAD.eng",
+  "TRAD/Song2__TRAD.esp",
+  "TRAD/Song2__TRAD.fre",
+  "TRAD/Song2__TRAD.ger",
+  "TRAD/Song2__TRAD.ita",
+  "TRAD/Song2__TRAD.neh",
+  "TRAD/Song__TRAD.bra",
+  "TRAD/Song__TRAD.eng",
+  "TRAD/Song__TRAD.esp",
+  "TRAD/Song__TRAD.fre",
+  "TRAD/Song__TRAD.ger",
+  "TRAD/Song__TRAD.ita",
+  "TRAD/Song__TRAD.neh",
+  "TRAD/Strings__TRAD.bra",
+  "TRAD/Strings__TRAD.eng",
+  "TRAD/Strings__TRAD.esp",
+  "TRAD/Strings__TRAD.fre",
+  "TRAD/Strings__TRAD.ger",
+  "TRAD/Strings__TRAD.ita",
+  "TRAD/Strings__TRAD.neh",
+  "TRAD/ToiletExtras.bra",
+  "TRAD/ToiletExtras.eng",
+  "TRAD/ToiletExtras.esp",
+  "TRAD/ToiletExtras.fre",
+  "TRAD/ToiletExtras.ger",
+  "TRAD/ToiletExtras.ita",
+  "TRAD/ToiletExtras.neh",
+  "TRAD/ToiletFlush.bra",
+  "TRAD/ToiletFlush.eng",
+  "TRAD/ToiletFlush.esp",
+  "TRAD/ToiletFlush.fre",
+  "TRAD/ToiletFlush.ger",
+  "TRAD/ToiletFlush.ita",
+  "TRAD/ToiletFlush.neh",
+  "TRAD/ToiletMachines.bra",
+  "TRAD/ToiletMachines.eng",
+  "TRAD/ToiletMachines.esp",
+  "TRAD/ToiletMachines.fre",
+  "TRAD/ToiletMachines.ger",
+  "TRAD/ToiletMachines.ita",
+  "TRAD/ToiletMachines.neh",
+  "TRAD/ToiletProvider.bra",
+  "TRAD/ToiletProvider.eng",
+  "TRAD/ToiletProvider.esp",
+  "TRAD/ToiletProvider.fre",
+  "TRAD/ToiletProvider.ger",
+  "TRAD/ToiletProvider.ita",
+  "TRAD/ToiletProvider.neh",
+  "TRAD/ToiletSeat.bra",
+  "TRAD/ToiletSeat.eng",
+  "TRAD/ToiletSeat.esp",
+  "TRAD/ToiletSeat.fre",
+  "TRAD/ToiletSeat.ger",
+  "TRAD/ToiletSeat.ita",
+  "TRAD/ToiletSeat.neh",
+  "TRAD/WorkerList.bra",
+  "TRAD/WorkerList.eng",
+  "TRAD/WorkerList.esp",
+  "TRAD/WorkerList.fre",
+  "TRAD/WorkerList.ger",
+  "TRAD/WorkerList.ita",
+  "TRAD/WorkerList.neh",
+  "TRAD/WorkstationList.bra",
+  "TRAD/WorkstationList.eng",
+  "TRAD/WorkstationList.esp",
+  "TRAD/WorkstationList.fre",
+  "TRAD/WorkstationList.ger",
+  "TRAD/WorkstationList.ita",
+  "TRAD/WorkstationList.neh"
+ ],
+ "sounds": [
+  "Administration/Ambiances/Boucle_Administration.wav",
+  "Administration/Equipements/Cafetiere1.wav",
+  "Administration/Equipements/Coffre_Fort1.wav",
+  "Administration/Equipements/Coffre_Fort2.wav",
+  "Administration/Equipements/Coffre_Fort3.wav",
+  "Administration/Equipements/Distributeur_Boissons3.wav",
+  "Administration/Equipements/Fontaine1.wav",
+  "Administration/Equipements/Table_Reunion2.wav",
+  "Administration/ObjetsCliquables/Bureau.wav",
+  "Administration/ObjetsCliquables/RandomComptable/Calculette.wav",
+  "Administration/ObjetsCliquables/RandomComptable/Calendrier.wav",
+  "Administration/ObjetsCliquables/RandomDRH/OuvertureOrdinateur.wav",
+  "Administration/ObjetsCliquables/RandomDRH/Telephone.wav",
+  "Administration/ObjetsCliquables/RandomFinancier/Agenda.wav",
+  "Administration/ObjetsCliquables/RandomFinancier/CarnetFacturation.wav",
+  "Chat.wav",
+  "Duck00.wav",
+  "Duck01.wav",
+  "Duck02.wav",
+  "Exterieur/Ambiances/Boucle_Ville.wav",
+  "Exterieur/Ambiances/Boucle_ZI.wav",
+  "Exterieur/Ambiances/MarteauxPiqueur.wav",
+  "Exterieur/Equipements/Guerite1.wav",
+  "Exterieur/Equipements/Guerite2.wav",
+  "Exterieur/Equipements/Guerite3.wav",
+  "Exterieur/Equipements/Mafieux0.wav",
+  "Exterieur/Equipements/Mafieux1.wav",
+  "Exterieur/Equipements/Mafieux2.wav",
+  "Exterieur/Equipements/Mafieux3.wav",
+  "Exterieur/Equipements/Voiture1.wav",
+  "Exterieur/Equipements/Voiture2.wav",
+  "Exterieur/Equipements/Voiture3.wav",
+  "Exterieur/ObjetsCliquables/AppareilPhoto.wav",
+  "Exterieur/ObjetsCliquables/Bombe.wav",
+  "Exterieur/ObjetsCliquables/Chien.wav",
+  "Exterieur/ObjetsCliquables/Couteau.wav",
+  "Frog00.wav",
+  "Interface/RollOver/A#2.wav",
+  "Interface/RollOver/A#3.wav",
+  "Interface/RollOver/A#4.wav",
+  "Interface/RollOver/C2.wav",
+  "Interface/RollOver/C3.wav",
+  "Interface/RollOver/C4.wav",
+  "Interface/RollOver/C5.wav",
+  "Interface/RollOver/D2.wav",
+  "Interface/RollOver/D3.wav",
+  "Interface/RollOver/D4.wav",
+  "Interface/RollOver/E2.wav",
+  "Interface/RollOver/E3.wav",
+  "Interface/RollOver/E4.wav",
+  "Interface/RollOver/F#2.wav",
+  "Interface/RollOver/F#3.wav",
+  "Interface/RollOver/F#4.wav",
+  "Interface/RollOver/G#2.wav",
+  "Interface/RollOver/G#3.wav",
+  "Interface/RollOver/G#4.wav",
+  "Interface/Validate.wav",
+  "Interface/Validate2.wav",
+  "Laboratoire/Ambiances/Boucle_Laboratoire.wav",
+  "Laboratoire/Ambiances/Randoms/Random1.wav",
+  "Laboratoire/Ambiances/Randoms/Random2.wav",
+  "Laboratoire/Ambiances/Randoms/Random3.wav",
+  "Laboratoire/Ambiances/Randoms/Random4.wav",
+  "Laboratoire/Equipements/Aeration1.wav",
+  "Laboratoire/Equipements/Aeration2.wav",
+  "Laboratoire/Equipements/Aeration3.wav",
+  "Laboratoire/Equipements/Pharmacie1.wav",
+  "Laboratoire/Equipements/Pharmacie2.wav",
+  "Laboratoire/Equipements/Pharmacie3.wav",
+  "Laboratoire/Equipements/PorteBlindee3.wav",
+  "Laboratoire/Equipements/PorteBois1.wav",
+  "Laboratoire/Equipements/PorteMetal2.wav",
+  "Laboratoire/ObjetsCliquables/Machine_Chimie.wav",
+  "Laboratoire/ObjetsCliquables/Machine_Fibre.wav",
+  "Laboratoire/ObjetsCliquables/Machine_Puce.wav",
+  "Laboratoire/ObjetsCliquables/Machine_Turbine.wav",
+  "Laboratoire/ObjetsCliquables/Paillasse.wav",
+  "MCW/944.wav",
+  "MCW/_L00.wav",
+  "MCW/_L01.wav",
+  "MCW/_L02.wav",
+  "Marketing/Ambiances/Boucle_Marketing.wav",
+  "Marketing/Equipements/Camera1.wav",
+  "Marketing/Equipements/Camera2.wav",
+  "Marketing/Equipements/Camera3.wav",
+  "Marketing/Equipements/Plante_Verte1.wav",
+  "Marketing/Equipements/Plante_Verte2.wav",
+  "Marketing/Equipements/Plante_Verte2_Grosse.wav",
+  "Marketing/Equipements/Plante_Verte3_Aquarium.wav",
+  "Marketing/Equipements/Tele1.wav",
+  "Marketing/Equipements/Tele2.wav",
+  "Marketing/Equipements/Tele3_Plasma.wav",
+  "Marketing/ObjetsCliquables/Bureau.wav",
+  "Marketing/ObjetsCliquables/RandomCommercial/Caisse_Enregistreuse.wav",
+  "Marketing/ObjetsCliquables/RandomCommercial/Stock.wav",
+  "Marketing/ObjetsCliquables/RandomPublicitaire/Pile_Magazines.wav",
+  "Marketing/ObjetsCliquables/RandomPublicitaire/Pub.wav",
+  "Production/Ambiances/Boucle_Usine.wav",
+  "Production/Ambiances/Boucle_UsineStop.wav",
+  "Production/Ambiances/Randoms/Clac.wav",
+  "Production/Ambiances/Randoms/Engrenage.wav",
+  "Production/Ambiances/Randoms/Frein.wav",
+  "Production/Ambiances/Randoms/Outil1.wav",
+  "Production/Ambiances/Randoms/Outil2.wav",
+  "Production/Ambiances/Randoms/Roulement_Fer1.wav",
+  "Production/Ambiances/Randoms/Roulement_Fer2.wav",
+  "Production/Ambiances/Randoms/Sirene.wav",
+  "Production/Controles/Ecran_Controle1.wav",
+  "Production/Controles/Ecran_Controle2.wav",
+  "Production/Controles/Ecran_Controle3.wav",
+  "Production/Controles/Ecran_Controle4.wav",
+  "Production/Equipements/Aeration1.wav",
+  "Production/Equipements/Aeration2.wav",
+  "Production/Equipements/Armoire_Pharmacie.wav",
+  "Production/Equipements/Camera_Digicode.wav",
+  "Production/Equipements/Chaine_Securite1.wav",
+  "Production/Equipements/Ciseaux2.wav",
+  "Production/Equipements/Compteur1.wav",
+  "Production/Equipements/Compteur2.wav",
+  "Production/Equipements/Compteur3.wav",
+  "Production/Equipements/Digicode.wav",
+  "Production/Equipements/Gouttes_Eau2.wav",
+  "Production/Equipements/Ventilation3.wav",
+  "Production/Machines/Machine1.wav",
+  "Production/Machines/Machine2.wav",
+  "Production/Machines/Machine3.wav",
+  "Production/Machines/Machine4.wav",
+  "Production/Machines/Surchauffe.wav",
+  "Production/Manuts/Manut.wav",
+  "Production/ObjetsCliquables/Clef_Molette2.wav",
+  "Production/Rideaux/Rideau_Fermant.wav",
+  "Production/Rideaux/Rideau_Ouvrant.wav",
+  "Production/Stocks/Eboulement_Def.wav",
+  "Voices/Chercheuse.wav",
+  "Voices/Chercheuse2.wav",
+  "Voices/Commercial.wav",
+  "Voices/Commercial2.wav",
+  "Voices/Comptable.wav",
+  "Voices/Comptable2.wav",
+  "Voices/Contremaitre.wav",
+  "Voices/Contremaitre2.wav",
+  "Voices/Espion.wav",
+  "Voices/Espion2.wav",
+  "Voices/Gardien.wav",
+  "Voices/Gardien2.wav",
+  "Voices/Infirmiere.wav",
+  "Voices/Juriste.wav",
+  "Voices/Juriste2.wav",
+  "Voices/Mafieux.wav",
+  "Voices/Mafieux2.wav",
+  "Voices/Ouvrier.wav",
+  "Voices/Ouvrier2.wav",
+  "Voices/Publicitaire.wav",
+  "Voices/Publicitaire2.wav",
+  "Voices/RH.wav",
+  "Voices/RH2.wav",
+  "Warning.wav",
+  "Warning2.wav"
+ ],
+ "levels": [
+  "LEVEL04/Level04.SAV",
+  "LEVEL04/Level04.sa2",
+  "LEVEL05/Level05.SAV",
+  "LEVEL05/Level05.sa2",
+  "LEVEL06/Level06.SAV",
+  "LEVEL06/Level06.sa2",
+  "LEVEL07/Level07.SAV",
+  "LEVEL07/Level07.sa2",
+  "LEVEL08/Level08.SAV",
+  "LEVEL08/Level08.sa2",
+  "LEVEL09/Level09.SAV",
+  "LEVEL09/Level09.sa2",
+  "LEVEL10/Level10.SAV",
+  "LEVEL10/Level10.sa2",
+  "LEVEL11/Level11.SAV",
+  "LEVEL11/Level11.sa2",
+  "LEVEL12/Level12.SAV",
+  "LEVEL12/Level12.sa2",
+  "LEVEL90/Level90.SAV",
+  "LEVEL90/Level90.sa2",
+  "LEVEL91/Level91.SAV",
+  "LEVEL91/Level91.sa2",
+  "LEVEL92/Level92.SAV",
+  "LEVEL92/Level92.sa2",
+  "LEVEL93/Level93.SAV",
+  "LEVEL93/Level93.sa2"
+ ],
+ "sprites": {
+  "LOGOS": {
+   "type": "sprite",
+   "frames": 8,
+   "index": 0
+  },
+  "Action_States": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 1
+  },
+  "MOUSE_MAIN_SPRITES": {
+   "type": "sprite",
+   "frames": 30,
+   "index": 2
+  },
+  "FONT_TITLE": {
+   "type": "sprite",
+   "frames": 256,
+   "index": 3
+  },
+  "FONT_EXTERIOR_11x11": {
+   "type": "sprite",
+   "frames": 256,
+   "index": 4
+  },
+  "FONT_CHIFFRE_7x12": {
+   "type": "sprite",
+   "frames": 58,
+   "index": 5
+  },
+  "FONT_CHIFFRE_7x13_NOIR": {
+   "type": "sprite",
+   "frames": 58,
+   "index": 6
+  },
+  "FONT_CHIFFRE_7x13_ROUGE": {
+   "type": "sprite",
+   "frames": 58,
+   "index": 7
+  },
+  "Fonte_White_11x13VABBd": {
+   "type": "sprite",
+   "frames": 256,
+   "index": 8
+  },
+  "Fonte_Blue_11x13VABBd": {
+   "type": "sprite",
+   "frames": 256,
+   "index": 9
+  },
+  "Fonte_BlueGrey_11x13VABBd": {
+   "type": "sprite",
+   "frames": 256,
+   "index": 10
+  },
+  "Fonte_Cyan_11x13VABBd": {
+   "type": "sprite",
+   "frames": 256,
+   "index": 11
+  },
+  "Fonte_Yellow_11x13VABBd": {
+   "type": "sprite",
+   "frames": 256,
+   "index": 12
+  },
+  "Fonte_Magenta_11x13VABBd": {
+   "type": "sprite",
+   "frames": 256,
+   "index": 13
+  },
+  "Fonte_Orange_11x13VABBd": {
+   "type": "sprite",
+   "frames": 256,
+   "index": 14
+  },
+  "Fonte_Red_11x13VABBd": {
+   "type": "sprite",
+   "frames": 256,
+   "index": 15
+  },
+  "Fonte_Green_11x13VABBd": {
+   "type": "sprite",
+   "frames": 256,
+   "index": 16
+  },
+  "Fonte_Tahoma_violet_13x17_FAB": {
+   "type": "sprite",
+   "frames": 256,
+   "index": 17
+  },
+  "Fonte_Tahoma_violet_13x17_FAR": {
+   "type": "sprite",
+   "frames": 256,
+   "index": 18
+  },
+  "Fonte_Tahoma_violetfonce_13x17_FAB": {
+   "type": "sprite",
+   "frames": 256,
+   "index": 19
+  },
+  "Fonte_Tahoma_violetfonce_13x17_FAR": {
+   "type": "sprite",
+   "frames": 256,
+   "index": 20
+  },
+  "Fonte_GreenBlue_13x16VAAR": {
+   "type": "sprite",
+   "frames": 256,
+   "index": 21
+  },
+  "FONT_GreyGreen_13x13VAAB": {
+   "type": "sprite",
+   "frames": 256,
+   "index": 22
+  },
+  "Fonte_NovaBlackExpandedSSi_Gray_19x16xVAAR": {
+   "type": "sprite",
+   "frames": 256,
+   "index": 23
+  },
+  "FONT_MENU_NOVA14x23": {
+   "type": "sprite",
+   "frames": 256,
+   "index": 24
+  },
+  "FONT_MENU_NOVA14x23_MENU": {
+   "type": "sprite",
+   "frames": 256,
+   "index": 25
+  },
+  "FONT_MENU_NOVA19x30": {
+   "type": "sprite",
+   "frames": 256,
+   "index": 26
+  },
+  "FONT_MENU_NOVA19x30_HIGHLIGHT": {
+   "type": "sprite",
+   "frames": 256,
+   "index": 27
+  },
+  "CHAT_ICONES": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 28
+  },
+  "FORMATION": {
+   "type": "sprite",
+   "frames": 4,
+   "index": 29
+  },
+  "Button_Action": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 30
+  },
+  "Button_Equipement": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 31
+  },
+  "Button_Perso": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 32
+  },
+  "Button_Poste": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 33
+  },
+  "Button_Curve_Action": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 34
+  },
+  "Button_Curve_Balance": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 35
+  },
+  "Button_Curve_Cash": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 36
+  },
+  "Button_Curve_Sell": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 37
+  },
+  "Button_Finance": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 38
+  },
+  "Button_Indicator": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 39
+  },
+  "Button_News": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 40
+  },
+  "Button_CreditDebit": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 41
+  },
+  "Button_Menu": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 42
+  },
+  "Button_Chat0": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 43
+  },
+  "Button_Chat1": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 44
+  },
+  "Button_Chat2": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 45
+  },
+  "Button_Chat3": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 46
+  },
+  "Button_Chat4": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 47
+  },
+  "Button_Chat5": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 48
+  },
+  "Button_Chat6": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 49
+  },
+  "Button_Chat7": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 50
+  },
+  "Button_News_Dustbin": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 51
+  },
+  "Button_News_Home": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 52
+  },
+  "Button_News_Letter": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 53
+  },
+  "Button_News_Recenter": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 54
+  },
+  "Button_OK": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 55
+  },
+  "Button_NO": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 56
+  },
+  "Button_Loan": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 57
+  },
+  "Button_BuyPlan": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 58
+  },
+  "Button_Action_Slider": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 59
+  },
+  "Button_LB_Buy": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 60
+  },
+  "Button_LB_Dismiss": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 61
+  },
+  "Button_LB_Efficiency": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 62
+  },
+  "Button_LB_Engage": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 63
+  },
+  "Button_LB_Level": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 64
+  },
+  "Button_LB_Moral": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 65
+  },
+  "Button_LB_Increase": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 66
+  },
+  "Button_LB_Decrease": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 67
+  },
+  "Button_LB_ValidateCompo": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 68
+  },
+  "Button_Less_Light": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 69
+  },
+  "Button_Less_Dark": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 70
+  },
+  "Button_More_Light": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 71
+  },
+  "Button_More_Dark": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 72
+  },
+  "Pastille_couleur": {
+   "type": "sprite",
+   "frames": 10,
+   "index": 73
+  },
+  "Button_LB_Filter_Disabled": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 74
+  },
+  "Button_LB_Filter_Regulating": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 75
+  },
+  "Button_LB_Filter_WC_Access": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 76
+  },
+  "Button_LB_Filter_WC_Chain": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 77
+  },
+  "Button_LB_Filter_WC_Seat": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 78
+  },
+  "Button_LB_Filter_ROBOT_Arm": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 79
+  },
+  "Button_LB_Filter_ROBOT_Mind": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 80
+  },
+  "Button_LB_Filter_ROBOT_Move": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 81
+  },
+  "Button_LB_Filter_ROBOT_Head": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 82
+  },
+  "Button_LB_Filter_ROLLER_Helmet": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 83
+  },
+  "Button_LB_Filter_ROLLER_Move": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 84
+  },
+  "Button_LB_Filter_ROLLER_Foots": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 85
+  },
+  "Button_Logo1": {
+   "type": "sprite",
+   "frames": 8,
+   "index": 86
+  },
+  "Button_Logo2": {
+   "type": "sprite",
+   "frames": 8,
+   "index": 87
+  },
+  "Button_Logo3": {
+   "type": "sprite",
+   "frames": 8,
+   "index": 88
+  },
+  "Button_Logo4": {
+   "type": "sprite",
+   "frames": 8,
+   "index": 89
+  },
+  "Button_Logo5": {
+   "type": "sprite",
+   "frames": 8,
+   "index": 90
+  },
+  "Button_Logo6": {
+   "type": "sprite",
+   "frames": 8,
+   "index": 91
+  },
+  "Button_Logo7": {
+   "type": "sprite",
+   "frames": 8,
+   "index": 92
+  },
+  "Button_Logo8": {
+   "type": "sprite",
+   "frames": 8,
+   "index": 93
+  },
+  "Button_ToggleIn": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 94
+  },
+  "Button_ToggleOut": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 95
+  },
+  "BOUTON1_MENU_SAVE": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 96
+  },
+  "BOUTON2_MENU_SAVE": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 97
+  },
+  "BOUTON1_MENU_GAME": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 98
+  },
+  "BOUTON1_MENU_QUIT": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 99
+  },
+  "BOUTON2_MENU_GAME": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 100
+  },
+  "BOUTON2_MENU_QUIT": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 101
+  },
+  "BOUTON3_MENU_GAME": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 102
+  },
+  "BOUTON_CAMPAGNE_MENU_OFFLINE": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 103
+  },
+  "BOUTON_CHARGER_MENU_OFFLINE": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 104
+  },
+  "BOUTON_SOLO_MENU_OFFLINE": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 105
+  },
+  "BOUTON_TUTORIAL_MENU_OFFLINE": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 106
+  },
+  "BOUTON_1_MENU_MAIN": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 107
+  },
+  "BOUTON_2_MENU_MAIN": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 108
+  },
+  "BOUTON_3_MENU_MAIN": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 109
+  },
+  "BOUTON_4_MENU_MAIN": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 110
+  },
+  "BOUTON_5_MENU_MAIN": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 111
+  },
+  "ScrollBar_Button_Up": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 112
+  },
+  "ScrollBar_Button_Down": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 113
+  },
+  "ScrollBar_Button_ThumbTrack": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 114
+  },
+  "ScrollBar2_Button_Up": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 115
+  },
+  "ScrollBar2_Button_Down": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 116
+  },
+  "ScrollBar2_Button_ThumbTrack": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 117
+  },
+  "ScrollBar2_Back": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 118
+  },
+  "ListBox_News_Icons": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 119
+  },
+  "Gauge00": {
+   "type": "sprite",
+   "frames": 2,
+   "index": 120
+  },
+  "Gauge01": {
+   "type": "sprite",
+   "frames": 2,
+   "index": 121
+  },
+  "Gauge03": {
+   "type": "sprite",
+   "frames": 2,
+   "index": 122
+  },
+  "Gauge04_Back": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 123
+  },
+  "Gauge04_ButtonSlide": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 124
+  },
+  "ProgressBar0": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 125
+  },
+  "ProgressBar1": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 126
+  },
+  "GameMenu": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 135
+  },
+  "GameMenu_Save": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 136
+  },
+  "GameMenu_Quit": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 137
+  },
+  "Product_WC": {
+   "type": "anim",
+   "frames": 20,
+   "index": 138
+  },
+  "Product_Roller": {
+   "type": "anim",
+   "frames": 21,
+   "index": 139
+  },
+  "Product_Robot": {
+   "type": "anim",
+   "frames": 20,
+   "index": 140
+  },
+  "Chantier1": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 141
+  },
+  "Chantier2": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 142
+  },
+  "Chantier3": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 143
+  },
+  "Chantier4": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 144
+  },
+  "Machine_Burn": {
+   "type": "anim",
+   "frames": 10,
+   "index": 145
+  },
+  "Machine0_01": {
+   "type": "anim",
+   "frames": 1,
+   "index": 146
+  },
+  "Machine0_02": {
+   "type": "anim",
+   "frames": 1,
+   "index": 147
+  },
+  "Machine0_03": {
+   "type": "anim",
+   "frames": 1,
+   "index": 148
+  },
+  "Machine0_04": {
+   "type": "anim",
+   "frames": 1,
+   "index": 149
+  },
+  "Machine0": {
+   "type": "anim",
+   "frames": 10,
+   "index": 150
+  },
+  "Machine1": {
+   "type": "anim",
+   "frames": 10,
+   "index": 151
+  },
+  "Machine2": {
+   "type": "anim",
+   "frames": 10,
+   "index": 152
+  },
+  "Machine3": {
+   "type": "anim",
+   "frames": 10,
+   "index": 153
+  },
+  "Machine0_Out": {
+   "type": "anim",
+   "frames": 1,
+   "index": 154
+  },
+  "Machine1_Out": {
+   "type": "anim",
+   "frames": 1,
+   "index": 155
+  },
+  "Machine2_Out": {
+   "type": "anim",
+   "frames": 1,
+   "index": 156
+  },
+  "Machine3_Out": {
+   "type": "anim",
+   "frames": 1,
+   "index": 157
+  },
+  "FallingBox00": {
+   "type": "anim",
+   "frames": 10,
+   "index": 158
+  },
+  "BigMachineBack": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 159
+  },
+  "BigMachineEnter": {
+   "type": "anim",
+   "frames": 10,
+   "index": 160
+  },
+  "BigMachineExit": {
+   "type": "anim",
+   "frames": 10,
+   "index": 161
+  },
+  "BigMachineGear": {
+   "type": "anim",
+   "frames": 10,
+   "index": 162
+  },
+  "BigMachineSpeed": {
+   "type": "sprite",
+   "frames": 10,
+   "index": 163
+  },
+  "CurtainOpen": {
+   "type": "anim",
+   "frames": 10,
+   "index": 164
+  },
+  "CurtainClose": {
+   "type": "anim",
+   "frames": 10,
+   "index": 165
+  },
+  "BoxAnim": {
+   "type": "anim",
+   "frames": 10,
+   "index": 166
+  },
+  "ProductionStocks": {
+   "type": "sprite",
+   "frames": 7,
+   "index": 167
+  },
+  "ProductionStocksRollers": {
+   "type": "sprite",
+   "frames": 7,
+   "index": 168
+  },
+  "ProductionStocksRobot": {
+   "type": "sprite",
+   "frames": 7,
+   "index": 169
+  },
+  "Prod_ManutAction": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 170
+  },
+  "Prod_AirConditioning0": {
+   "type": "anim",
+   "frames": 10,
+   "index": 171
+  },
+  "Prod_AirConditioning1": {
+   "type": "anim",
+   "frames": 10,
+   "index": 172
+  },
+  "Prod_AirConditioning2": {
+   "type": "anim",
+   "frames": 10,
+   "index": 173
+  },
+  "Prod_AirConditioning3": {
+   "type": "anim",
+   "frames": 10,
+   "index": 174
+  },
+  "Prod_Pharmacy0": {
+   "type": "anim",
+   "frames": 10,
+   "index": 175
+  },
+  "Prod_Pharmacy1": {
+   "type": "anim",
+   "frames": 1,
+   "index": 176
+  },
+  "Prod_Pharmacy2": {
+   "type": "anim",
+   "frames": 10,
+   "index": 177
+  },
+  "Prod_Pharmacy3": {
+   "type": "anim",
+   "frames": 10,
+   "index": 178
+  },
+  "Prod_Security0": {
+   "type": "anim",
+   "frames": 10,
+   "index": 179
+  },
+  "Prod_Security1": {
+   "type": "anim",
+   "frames": 10,
+   "index": 180
+  },
+  "Prod_Security2": {
+   "type": "anim",
+   "frames": 10,
+   "index": 181
+  },
+  "Prod_Security3": {
+   "type": "anim",
+   "frames": 10,
+   "index": 182
+  },
+  "Prod_Security4": {
+   "type": "anim",
+   "frames": 10,
+   "index": 183
+  },
+  "Prod_MachineControl00": {
+   "type": "anim",
+   "frames": 1,
+   "index": 184
+  },
+  "Prod_MachineControl01": {
+   "type": "anim",
+   "frames": 1,
+   "index": 185
+  },
+  "Prod_MachineControl02": {
+   "type": "anim",
+   "frames": 1,
+   "index": 186
+  },
+  "Prod_MachineControl03": {
+   "type": "anim",
+   "frames": 1,
+   "index": 187
+  },
+  "Prod_MachineControl1": {
+   "type": "anim",
+   "frames": 1,
+   "index": 188
+  },
+  "Prod_MachineControl2": {
+   "type": "anim",
+   "frames": 1,
+   "index": 189
+  },
+  "Prod_MachineControl3": {
+   "type": "anim",
+   "frames": 1,
+   "index": 190
+  },
+  "Prod_MachineControl4": {
+   "type": "anim",
+   "frames": 1,
+   "index": 191
+  },
+  "Prod_Beam1": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 192
+  },
+  "Prod_Beam2": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 193
+  },
+  "Prod_Beam3": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 194
+  },
+  "Prod_Board": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 195
+  },
+  "Prod_Board_Rollers": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 196
+  },
+  "Prod_Board_Robot": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 197
+  },
+  "Prod_Bomb": {
+   "type": "anim",
+   "frames": 5,
+   "index": 198
+  },
+  "Action_Repair": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 199
+  },
+  "Action_CaisseNoire": {
+   "type": "sprite",
+   "frames": 8,
+   "index": 200
+  },
+  "Action_XFiles": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 201
+  },
+  "Action_KadoAM": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 202
+  },
+  "Action_KadoLabo": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 203
+  },
+  "Action_KadoProd": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 204
+  },
+  "Action_Voiture": {
+   "type": "sprite",
+   "frames": 8,
+   "index": 205
+  },
+  "Action_Voler": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 206
+  },
+  "Action_Saboter": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 207
+  },
+  "Action_Espionner": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 208
+  },
+  "Action_Menacer_AM": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 209
+  },
+  "Action_Menacer_Ext": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 210
+  },
+  "Action_Menacer_Labo": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 211
+  },
+  "Action_Menacer_Prod": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 212
+  },
+  "Action_AncienStock": {
+   "type": "sprite",
+   "frames": 8,
+   "index": 213
+  },
+  "Action_CodePenal": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 214
+  },
+  "Action_KadoExt": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 215
+  },
+  "Action_PotDeVin": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 216
+  },
+  "Action_Telephone": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 217
+  },
+  "Action_Telescope": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 218
+  },
+  "Action_Zeppelin": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 219
+  },
+  "Action_Lunar": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 220
+  },
+  "Production_SignWC_0": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 221
+  },
+  "Production_SignWC_1": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 222
+  },
+  "Production_SignWC_2": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 223
+  },
+  "Production_SignWC_4": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 224
+  },
+  "Production_SignRoller_0": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 225
+  },
+  "Production_SignRoller_1": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 226
+  },
+  "Production_SignRoller_2": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 227
+  },
+  "Production_SignRoller_4": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 228
+  },
+  "Production_SignRobot_0": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 229
+  },
+  "Production_SignRobot_1": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 230
+  },
+  "Production_SignRobot_2": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 231
+  },
+  "Production_SignRobot_4": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 232
+  },
+  "Administration_Chest0": {
+   "type": "anim",
+   "frames": 20,
+   "index": 233
+  },
+  "Administration_Chest1": {
+   "type": "anim",
+   "frames": 10,
+   "index": 234
+  },
+  "Administration_Chest2": {
+   "type": "anim",
+   "frames": 10,
+   "index": 235
+  },
+  "Administration_Chest3": {
+   "type": "anim",
+   "frames": 20,
+   "index": 236
+  },
+  "Administration_Table0": {
+   "type": "anim",
+   "frames": 20,
+   "index": 237
+  },
+  "Administration_Table1": {
+   "type": "anim",
+   "frames": 20,
+   "index": 238
+  },
+  "Administration_Table2": {
+   "type": "anim",
+   "frames": 20,
+   "index": 239
+  },
+  "Administration_Table3": {
+   "type": "anim",
+   "frames": 20,
+   "index": 240
+  },
+  "Administration_Distributeur0": {
+   "type": "anim",
+   "frames": 10,
+   "index": 241
+  },
+  "Administration_Distributeur1": {
+   "type": "anim",
+   "frames": 10,
+   "index": 242
+  },
+  "Administration_Distributeur2": {
+   "type": "anim",
+   "frames": 10,
+   "index": 243
+  },
+  "Administration_Distributeur3": {
+   "type": "anim",
+   "frames": 10,
+   "index": 244
+  },
+  "Administration_BureauDRH0": {
+   "type": "anim",
+   "frames": 1,
+   "index": 245
+  },
+  "Administration_BureauDRH1": {
+   "type": "anim",
+   "frames": 1,
+   "index": 246
+  },
+  "Administration_BureauDRH2": {
+   "type": "anim",
+   "frames": 1,
+   "index": 247
+  },
+  "Administration_BureauDRH3": {
+   "type": "anim",
+   "frames": 1,
+   "index": 248
+  },
+  "Administration_BureauFinancier0": {
+   "type": "anim",
+   "frames": 1,
+   "index": 249
+  },
+  "Administration_BureauFinancier1": {
+   "type": "anim",
+   "frames": 1,
+   "index": 250
+  },
+  "Administration_BureauFinancier2": {
+   "type": "anim",
+   "frames": 1,
+   "index": 251
+  },
+  "Administration_BureauFinancier3": {
+   "type": "anim",
+   "frames": 1,
+   "index": 252
+  },
+  "Administration_BureauComptable0": {
+   "type": "anim",
+   "frames": 1,
+   "index": 253
+  },
+  "Administration_BureauComptable1": {
+   "type": "anim",
+   "frames": 1,
+   "index": 254
+  },
+  "Administration_BureauComptable2": {
+   "type": "anim",
+   "frames": 1,
+   "index": 255
+  },
+  "Administration_BureauComptable3": {
+   "type": "anim",
+   "frames": 1,
+   "index": 256
+  },
+  "Administration_BureauComptableClick": {
+   "type": "anim",
+   "frames": 1,
+   "index": 257
+  },
+  "Administration_BureauDRHClick": {
+   "type": "anim",
+   "frames": 1,
+   "index": 258
+  },
+  "Administration_BureauFinancierClick": {
+   "type": "anim",
+   "frames": 1,
+   "index": 259
+  },
+  "Labo_Machine0_0": {
+   "type": "anim",
+   "frames": 1,
+   "index": 260
+  },
+  "Labo_Machine1_0": {
+   "type": "anim",
+   "frames": 1,
+   "index": 261
+  },
+  "Labo_Machine2_0": {
+   "type": "anim",
+   "frames": 1,
+   "index": 262
+  },
+  "Labo_Machine3_0": {
+   "type": "anim",
+   "frames": 1,
+   "index": 263
+  },
+  "Labo_Machine0_1": {
+   "type": "anim",
+   "frames": 20,
+   "index": 264
+  },
+  "Labo_Machine1_1": {
+   "type": "anim",
+   "frames": 20,
+   "index": 265
+  },
+  "Labo_Machine2_1": {
+   "type": "anim",
+   "frames": 20,
+   "index": 266
+  },
+  "Labo_Machine3_1": {
+   "type": "anim",
+   "frames": 20,
+   "index": 267
+  },
+  "Labo_Paillasse0": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 268
+  },
+  "Labo_Paillasse1": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 269
+  },
+  "Labo_Paillasse2": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 270
+  },
+  "Labo_Paillasse3": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 271
+  },
+  "Labo_Paillasse4": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 272
+  },
+  "Labo_Paillasse0Light": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 273
+  },
+  "Labo_Paillasse1Light": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 274
+  },
+  "Labo_Paillasse2Light": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 275
+  },
+  "Labo_Paillasse3Light": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 276
+  },
+  "Labo_Paillasse4Light": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 277
+  },
+  "Labo_Paillasse0Click": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 278
+  },
+  "Labo_Paillasse1Click": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 279
+  },
+  "Labo_Paillasse2Click": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 280
+  },
+  "Labo_Paillasse3Click": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 281
+  },
+  "Labo_Paillasse4Click": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 282
+  },
+  "Labo_Paillasse0LightClick": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 283
+  },
+  "Labo_Paillasse1LightClick": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 284
+  },
+  "Labo_Paillasse2LightClick": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 285
+  },
+  "Labo_Paillasse3LightClick": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 286
+  },
+  "Labo_Paillasse4LightClick": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 287
+  },
+  "Labo_Door0Click": {
+   "type": "anim",
+   "frames": 20,
+   "index": 288
+  },
+  "Labo_Door1Click": {
+   "type": "anim",
+   "frames": 21,
+   "index": 289
+  },
+  "Labo_Door2Click": {
+   "type": "anim",
+   "frames": 21,
+   "index": 290
+  },
+  "Labo_Door3Click": {
+   "type": "anim",
+   "frames": 21,
+   "index": 291
+  },
+  "Labo_Soins0Click": {
+   "type": "anim",
+   "frames": 20,
+   "index": 292
+  },
+  "Labo_Soins1Click": {
+   "type": "anim",
+   "frames": 21,
+   "index": 293
+  },
+  "Labo_Soins2Click": {
+   "type": "anim",
+   "frames": 21,
+   "index": 294
+  },
+  "Labo_Soins3Click": {
+   "type": "anim",
+   "frames": 21,
+   "index": 295
+  },
+  "Labo_Ventil0Click": {
+   "type": "anim",
+   "frames": 10,
+   "index": 296
+  },
+  "Labo_Ventil1Click": {
+   "type": "anim",
+   "frames": 11,
+   "index": 297
+  },
+  "Labo_Ventil2Click": {
+   "type": "anim",
+   "frames": 10,
+   "index": 298
+  },
+  "Labo_Ventil3Click": {
+   "type": "anim",
+   "frames": 10,
+   "index": 299
+  },
+  "Market_Add1": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 300
+  },
+  "Market_Add2": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 301
+  },
+  "Market_Add3": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 302
+  },
+  "Market_Publicitaire0": {
+   "type": "anim",
+   "frames": 1,
+   "index": 303
+  },
+  "Market_Publicitaire1": {
+   "type": "anim",
+   "frames": 1,
+   "index": 304
+  },
+  "Market_Publicitaire2": {
+   "type": "anim",
+   "frames": 1,
+   "index": 305
+  },
+  "Market_Publicitaire3": {
+   "type": "anim",
+   "frames": 1,
+   "index": 306
+  },
+  "Market_Commercial0": {
+   "type": "anim",
+   "frames": 1,
+   "index": 307
+  },
+  "Market_Commercial1": {
+   "type": "anim",
+   "frames": 1,
+   "index": 308
+  },
+  "Market_Commercial2": {
+   "type": "anim",
+   "frames": 1,
+   "index": 309
+  },
+  "Market_Commercial3": {
+   "type": "anim",
+   "frames": 1,
+   "index": 310
+  },
+  "Market_TV0": {
+   "type": "anim",
+   "frames": 10,
+   "index": 311
+  },
+  "Market_TV1": {
+   "type": "anim",
+   "frames": 10,
+   "index": 312
+  },
+  "Market_TV2": {
+   "type": "anim",
+   "frames": 10,
+   "index": 313
+  },
+  "Market_TV3": {
+   "type": "anim",
+   "frames": 10,
+   "index": 314
+  },
+  "Market_Camera0": {
+   "type": "anim",
+   "frames": 20,
+   "index": 315
+  },
+  "Market_Camera1": {
+   "type": "anim",
+   "frames": 20,
+   "index": 316
+  },
+  "Market_Camera2": {
+   "type": "anim",
+   "frames": 20,
+   "index": 317
+  },
+  "Market_Camera3": {
+   "type": "anim",
+   "frames": 20,
+   "index": 318
+  },
+  "Market_Plante0": {
+   "type": "anim",
+   "frames": 20,
+   "index": 319
+  },
+  "Market_Plante1": {
+   "type": "anim",
+   "frames": 20,
+   "index": 320
+  },
+  "Market_Plante2": {
+   "type": "anim",
+   "frames": 20,
+   "index": 321
+  },
+  "Market_Plante3": {
+   "type": "anim",
+   "frames": 20,
+   "index": 322
+  },
+  "Market_Dollars": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 323
+  },
+  "Market_Magazines": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 324
+  },
+  "Market_MiniTV": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 325
+  },
+  "Market_CartonsWC": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 326
+  },
+  "Market_CartonsRoller": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 327
+  },
+  "Market_CartonsRobot": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 328
+  },
+  "Market_PLV_WC": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 329
+  },
+  "Market_PLV_Roller": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 330
+  },
+  "Market_PLV_Robot": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 331
+  },
+  "Market_Telescope": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 332
+  },
+  "Market_Zeppelin": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 333
+  },
+  "Outside_Guerite0": {
+   "type": "anim",
+   "frames": 1,
+   "index": 334
+  },
+  "Outside_Guerite1": {
+   "type": "anim",
+   "frames": 1,
+   "index": 335
+  },
+  "Outside_Guerite2": {
+   "type": "anim",
+   "frames": 1,
+   "index": 336
+  },
+  "Outside_Guerite3": {
+   "type": "anim",
+   "frames": 1,
+   "index": 337
+  },
+  "Outside_GrillageFond1": {
+   "type": "anim",
+   "frames": 1,
+   "index": 338
+  },
+  "Outside_GrillageFond2": {
+   "type": "anim",
+   "frames": 1,
+   "index": 339
+  },
+  "Outside_GrillageFond3": {
+   "type": "anim",
+   "frames": 1,
+   "index": 340
+  },
+  "Outside_SpyCar0": {
+   "type": "anim",
+   "frames": 1,
+   "index": 341
+  },
+  "Outside_SpyCar1": {
+   "type": "anim",
+   "frames": 1,
+   "index": 342
+  },
+  "Outside_SpyCar2": {
+   "type": "anim",
+   "frames": 1,
+   "index": 343
+  },
+  "Outside_SpyCar3": {
+   "type": "anim",
+   "frames": 1,
+   "index": 344
+  },
+  "Outside_Dog": {
+   "type": "anim",
+   "frames": 10,
+   "index": 345
+  },
+  "Outside_Bomb": {
+   "type": "anim",
+   "frames": 1,
+   "index": 346
+  },
+  "Outside_Click": {
+   "type": "anim",
+   "frames": 1,
+   "index": 347
+  },
+  "Outside_Workstation0": {
+   "type": "anim",
+   "frames": 1,
+   "index": 348
+  },
+  "Outside_Workstation1": {
+   "type": "anim",
+   "frames": 1,
+   "index": 349
+  },
+  "Outside_Workstation2": {
+   "type": "anim",
+   "frames": 1,
+   "index": 350
+  },
+  "Outside_Workstation3": {
+   "type": "anim",
+   "frames": 1,
+   "index": 351
+  },
+  "Duck": {
+   "type": "anim",
+   "frames": 23,
+   "index": 352
+  },
+  "TrafficLights": {
+   "type": "anim",
+   "frames": 3,
+   "index": 353
+  },
+  "Lemming": {
+   "type": "anim",
+   "frames": 8,
+   "index": 354
+  },
+  "My944": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 355
+  },
+  "Number": {
+   "type": "sprite",
+   "frames": 10,
+   "index": 356
+  },
+  "Ext_LunarPlace": {
+   "type": "anim",
+   "frames": 20,
+   "index": 357
+  },
+  "Ext_Zeppelin0": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 358
+  },
+  "Ext_Zeppelin1": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 359
+  },
+  "Ext_Zeppelin2": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 360
+  },
+  "Ext_Zeppelin3": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 361
+  },
+  "Ext_Zeppelin4": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 362
+  },
+  "Ext_Zeppelin5": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 363
+  },
+  "Ext_Zeppelin6": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 364
+  },
+  "Ext_Zeppelin7": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 365
+  },
+  "Ext_NoPlayer": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 366
+  },
+  "Ext_NoPlayer2": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 367
+  },
+  "Ext_NoPlayer3": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 368
+  },
+  "Ext_House": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 369
+  },
+  "Ext_Building": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 370
+  },
+  "Ext_Pub": {
+   "type": "sprite",
+   "frames": 8,
+   "index": 371
+  },
+  "Ext_Player_Admin": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 372
+  },
+  "Ext_Player_Flag1": {
+   "type": "anim",
+   "frames": 20,
+   "index": 373
+  },
+  "Ext_Player_Flag2": {
+   "type": "anim",
+   "frames": 20,
+   "index": 374
+  },
+  "Ext_Player_Flag3": {
+   "type": "anim",
+   "frames": 20,
+   "index": 375
+  },
+  "Ext_Player_Flag4": {
+   "type": "anim",
+   "frames": 20,
+   "index": 376
+  },
+  "Ext_Player_Flag5": {
+   "type": "anim",
+   "frames": 20,
+   "index": 377
+  },
+  "Ext_Player_Flag6": {
+   "type": "anim",
+   "frames": 20,
+   "index": 378
+  },
+  "Ext_Player_Flag7": {
+   "type": "anim",
+   "frames": 20,
+   "index": 379
+  },
+  "Ext_Player_Flag8": {
+   "type": "anim",
+   "frames": 20,
+   "index": 380
+  },
+  "Ext_Player_Guardian": {
+   "type": "sprite",
+   "frames": 4,
+   "index": 381
+  },
+  "Ext_Player_Labo": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 382
+  },
+  "Ext_Player_Labo_Smoke1": {
+   "type": "anim",
+   "frames": 10,
+   "index": 383
+  },
+  "Ext_Player_Labo_Smoke2": {
+   "type": "anim",
+   "frames": 10,
+   "index": 384
+  },
+  "Ext_Player_Labo_Smoke3": {
+   "type": "anim",
+   "frames": 10,
+   "index": 385
+  },
+  "Ext_Player_Labo_Smoke4": {
+   "type": "anim",
+   "frames": 10,
+   "index": 386
+  },
+  "Ext_Player_Market": {
+   "type": "anim",
+   "frames": 3,
+   "index": 387
+  },
+  "Ext_Player_Prod": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 388
+  },
+  "Ext_Player_Prod_Smoke1": {
+   "type": "anim",
+   "frames": 20,
+   "index": 389
+  },
+  "Ext_Player_Prod_Smoke2": {
+   "type": "anim",
+   "frames": 20,
+   "index": 390
+  },
+  "Ext_Player_Prod_Smoke3": {
+   "type": "anim",
+   "frames": 20,
+   "index": 391
+  },
+  "Ext_Player_Prod_Smoke4": {
+   "type": "anim",
+   "frames": 20,
+   "index": 392
+  },
+  "Ext_Player_Prod_Smoke5": {
+   "type": "anim",
+   "frames": 20,
+   "index": 393
+  },
+  "Ext_Player_Prod_Smoke6": {
+   "type": "anim",
+   "frames": 20,
+   "index": 394
+  },
+  "Ext_Player_TruckTechno": {
+   "type": "sprite",
+   "frames": 4,
+   "index": 395
+  },
+  "Ext_Player_TruckEmotiv": {
+   "type": "sprite",
+   "frames": 4,
+   "index": 396
+  },
+  "Upgrade_Administration1": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 397
+  },
+  "Upgrade_Administration2": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 398
+  },
+  "Upgrade_Production1": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 399
+  },
+  "Upgrade_Production2": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 400
+  },
+  "Upgrade_Laboratory1": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 401
+  },
+  "Upgrade_Laboratory2": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 402
+  },
+  "Upgrade_Marketing1": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 403
+  },
+  "Upgrade_Marketing2": {
+   "type": "sprite",
+   "frames": 1,
+   "index": 404
+  },
+  "PROD_AIR_CONDITIONING64x64": {
+   "type": "sprite",
+   "frames": 4,
+   "index": 409
+  },
+  "PROD_MACHINE64x64": {
+   "type": "sprite",
+   "frames": 5,
+   "index": 410
+  },
+  "PROD_MACHINE_CHIEF64x64": {
+   "type": "sprite",
+   "frames": 5,
+   "index": 411
+  },
+  "PROD_PHARMACY64x64": {
+   "type": "sprite",
+   "frames": 4,
+   "index": 412
+  },
+  "PROD_SECURITY64x64": {
+   "type": "sprite",
+   "frames": 4,
+   "index": 413
+  },
+  "OUTSIDE_GUERITE64x64": {
+   "type": "sprite",
+   "frames": 4,
+   "index": 414
+  },
+  "OUTSIDE_SPY64x64": {
+   "type": "sprite",
+   "frames": 4,
+   "index": 415
+  },
+  "OUTSIDE_MAFIEU64x64": {
+   "type": "sprite",
+   "frames": 4,
+   "index": 416
+  },
+  "ADMIN_CHEST64x64": {
+   "type": "sprite",
+   "frames": 4,
+   "index": 417
+  },
+  "ADMIN_COMPTABLE64x64": {
+   "type": "sprite",
+   "frames": 4,
+   "index": 418
+  },
+  "ADMIN_DRH64x64": {
+   "type": "sprite",
+   "frames": 4,
+   "index": 419
+  },
+  "ADMIN_FINANCIER64x64": {
+   "type": "sprite",
+   "frames": 4,
+   "index": 420
+  },
+  "ADMIN_PLAK64x64": {
+   "type": "sprite",
+   "frames": 4,
+   "index": 421
+  },
+  "ADMIN_REUNION64x64": {
+   "type": "sprite",
+   "frames": 4,
+   "index": 422
+  },
+  "LABO_PAILLASSE64x64": {
+   "type": "sprite",
+   "frames": 5,
+   "index": 423
+  },
+  "LABO_SECURITY64x64": {
+   "type": "sprite",
+   "frames": 4,
+   "index": 424
+  },
+  "LABO_PHARMACY64x64": {
+   "type": "sprite",
+   "frames": 4,
+   "index": 425
+  },
+  "LABO_AIR_CONDITIONING64x64": {
+   "type": "sprite",
+   "frames": 4,
+   "index": 426
+  },
+  "LABO_MACHINE1_64x64": {
+   "type": "sprite",
+   "frames": 2,
+   "index": 427
+  },
+  "LABO_MACHINE2_64x64": {
+   "type": "sprite",
+   "frames": 2,
+   "index": 428
+  },
+  "LABO_MACHINE3_64x64": {
+   "type": "sprite",
+   "frames": 2,
+   "index": 429
+  },
+  "LABO_MACHINE4_64x64": {
+   "type": "sprite",
+   "frames": 2,
+   "index": 430
+  },
+  "MARKET_CAMERA64x64": {
+   "type": "sprite",
+   "frames": 4,
+   "index": 431
+  },
+  "MARKET_TV64x64": {
+   "type": "sprite",
+   "frames": 4,
+   "index": 432
+  },
+  "MARKET_FLOWER64x64": {
+   "type": "sprite",
+   "frames": 4,
+   "index": 433
+  },
+  "LABO_UPGRADE64x64": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 434
+  },
+  "MARKET_UPGRADE64x64": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 435
+  },
+  "ADMIN_UPGRADE64x64": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 436
+  },
+  "PROD_UPGRADE64x64": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 437
+  },
+  "ICONE_ACTION_MANUT_CHIEF": {
+   "type": "sprite",
+   "frames": 4,
+   "index": 438
+  },
+  "ICONE_ACTION_MANUT": {
+   "type": "sprite",
+   "frames": 4,
+   "index": 439
+  },
+  "ICONE_ACTION_SEEKER": {
+   "type": "sprite",
+   "frames": 4,
+   "index": 440
+  },
+  "ICONE_ACTION_COM": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 441
+  },
+  "ICONE_ACTION_PUB": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 442
+  },
+  "ICONE_ACTION_COMPTABLE": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 443
+  },
+  "ICONE_ACTION_DRH": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 444
+  },
+  "ICONE_ACTION_FINANCIER": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 445
+  },
+  "ICONE_ACTION_GARDIAN": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 446
+  },
+  "ICONE_ACTION_MAFIEU": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 447
+  },
+  "ICONE_ACTION_SPY": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 448
+  },
+  "LABO_UPGRADE_1": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 449
+  },
+  "LABO_UPGRADE_2": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 450
+  },
+  "MARKET_UPGRADE_1": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 451
+  },
+  "MARKET_UPGRADE_2": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 452
+  },
+  "ADMIN_UPGRADE_1": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 453
+  },
+  "ADMIN_UPGRADE_2": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 454
+  },
+  "PROD_UPGRADE_1": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 455
+  },
+  "PROD_UPGRADE_2": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 456
+  },
+  "PROD_AIR_CONDITIONING_1": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 457
+  },
+  "PROD_AIR_CONDITIONING_2": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 458
+  },
+  "PROD_AIR_CONDITIONING_3": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 459
+  },
+  "PROD_MACHINE_1": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 460
+  },
+  "PROD_MACHINE_2": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 461
+  },
+  "PROD_MACHINE_3": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 462
+  },
+  "PROD_MACHINE_4": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 463
+  },
+  "PROD_PHARMACY_1": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 464
+  },
+  "PROD_PHARMACY_2": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 465
+  },
+  "PROD_PHARMACY_3": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 466
+  },
+  "PROD_SECURITY_1": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 467
+  },
+  "PROD_SECURITY_2": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 468
+  },
+  "PROD_SECURITY_3": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 469
+  },
+  "PROD_CONTROL_1": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 470
+  },
+  "PROD_CONTROL_2": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 471
+  },
+  "PROD_CONTROL_3": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 472
+  },
+  "PROD_CONTROL_4": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 473
+  },
+  "OUTSIDE_GUERITE_1": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 474
+  },
+  "OUTSIDE_GUERITE_2": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 475
+  },
+  "OUTSIDE_GUERITE_3": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 476
+  },
+  "OUTSIDE_SPY_1": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 477
+  },
+  "OUTSIDE_SPY_2": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 478
+  },
+  "OUTSIDE_SPY_3": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 479
+  },
+  "OUTSIDE_MAFIEU_1": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 480
+  },
+  "OUTSIDE_MAFIEU_2": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 481
+  },
+  "OUTSIDE_MAFIEU_3": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 482
+  },
+  "OUTSIDE_MAFIEU_4": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 483
+  },
+  "ADMIN_CHEST_1": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 484
+  },
+  "ADMIN_CHEST_2": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 485
+  },
+  "ADMIN_CHEST_3": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 486
+  },
+  "ADMIN_COMPTABLE_1": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 487
+  },
+  "ADMIN_COMPTABLE_2": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 488
+  },
+  "ADMIN_COMPTABLE_3": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 489
+  },
+  "ADMIN_DRH_1": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 490
+  },
+  "ADMIN_DRH_2": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 491
+  },
+  "ADMIN_DRH_3": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 492
+  },
+  "ADMIN_FINANCIER_1": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 493
+  },
+  "ADMIN_FINANCIER_2": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 494
+  },
+  "ADMIN_FINANCIER_3": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 495
+  },
+  "ADMIN_PLAQUE_ELECTRIC_1": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 496
+  },
+  "ADMIN_PLAQUE_ELECTRIC_2": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 497
+  },
+  "ADMIN_PLAQUE_ELECTRIC_3": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 498
+  },
+  "ADMIN_REUNION_1": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 499
+  },
+  "ADMIN_REUNION_2": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 500
+  },
+  "ADMIN_REUNION_3": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 501
+  },
+  "LABO_PAILLASSE_1": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 502
+  },
+  "LABO_PAILLASSE_2": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 503
+  },
+  "LABO_PAILLASSE_3": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 504
+  },
+  "LABO_PAILLASSE_4": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 505
+  },
+  "LABO_SECURITY_1": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 506
+  },
+  "LABO_SECURITY_2": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 507
+  },
+  "LABO_SECURITY_3": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 508
+  },
+  "LABO_AIR_CONDITIONING_1": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 509
+  },
+  "LABO_AIR_CONDITIONING_2": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 510
+  },
+  "LABO_AIR_CONDITIONING_3": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 511
+  },
+  "LABO_PHARMACY_1": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 512
+  },
+  "LABO_PHARMACY_2": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 513
+  },
+  "LABO_PHARMACY_3": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 514
+  },
+  "LABO_MACHINE_1": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 515
+  },
+  "LABO_MACHINE_2": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 516
+  },
+  "LABO_MACHINE_3": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 517
+  },
+  "LABO_MACHINE_4": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 518
+  },
+  "MARKET_CAMERA_1": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 519
+  },
+  "MARKET_CAMERA_2": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 520
+  },
+  "MARKET_CAMERA_3": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 521
+  },
+  "MARKET_TV_1": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 522
+  },
+  "MARKET_TV_2": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 523
+  },
+  "MARKET_TV_3": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 524
+  },
+  "MARKET_FLOWER_1": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 525
+  },
+  "MARKET_FLOWER_2": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 526
+  },
+  "MARKET_FLOWER_3": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 527
+  },
+  "Big_Face_Prod_Manut": {
+   "type": "sprite",
+   "frames": 40,
+   "index": 528
+  },
+  "Big_Face_Prod_Manut_Chief": {
+   "type": "sprite",
+   "frames": 10,
+   "index": 529
+  },
+  "Big_Face_Labo_Seeker": {
+   "type": "sprite",
+   "frames": 40,
+   "index": 530
+  },
+  "Big_Face_Admin_DRH": {
+   "type": "sprite",
+   "frames": 10,
+   "index": 531
+  },
+  "Big_Face_Admin_FIN": {
+   "type": "sprite",
+   "frames": 10,
+   "index": 532
+  },
+  "Big_Face_Admin_COMPTABLE": {
+   "type": "sprite",
+   "frames": 10,
+   "index": 533
+  },
+  "Big_Face_Market_Commercial": {
+   "type": "sprite",
+   "frames": 10,
+   "index": 534
+  },
+  "Big_Face_Market_Publicitaire": {
+   "type": "sprite",
+   "frames": 10,
+   "index": 535
+  },
+  "Big_Face_Outside_Spy": {
+   "type": "sprite",
+   "frames": 10,
+   "index": 536
+  },
+  "Big_Face_Outside_Mafieu": {
+   "type": "sprite",
+   "frames": 10,
+   "index": 537
+  },
+  "Big_Face_Outside_Guardian": {
+   "type": "sprite",
+   "frames": 10,
+   "index": 538
+  },
+  "Face0": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 539
+  },
+  "Face1": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 540
+  },
+  "Face2": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 541
+  },
+  "Face3": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 542
+  },
+  "Face4": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 543
+  },
+  "Face5": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 544
+  },
+  "Face6": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 545
+  },
+  "Face7": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 546
+  },
+  "Face8": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 547
+  },
+  "Face9": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 548
+  },
+  "Face10": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 549
+  },
+  "Face11": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 550
+  },
+  "Face12": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 551
+  },
+  "Face13": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 552
+  },
+  "Face14": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 553
+  },
+  "Face15": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 554
+  },
+  "Face16": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 555
+  },
+  "Face17": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 556
+  },
+  "Face18": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 557
+  },
+  "Face19": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 558
+  },
+  "Face20": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 559
+  },
+  "Face21": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 560
+  },
+  "Face22": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 561
+  },
+  "Face23": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 562
+  },
+  "Face24": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 563
+  },
+  "Face25": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 564
+  },
+  "Face26": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 565
+  },
+  "Face27": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 566
+  },
+  "Face28": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 567
+  },
+  "Face29": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 568
+  },
+  "Face30": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 569
+  },
+  "Face31": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 570
+  },
+  "Face32": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 571
+  },
+  "Face33": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 572
+  },
+  "Face34": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 573
+  },
+  "Face35": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 574
+  },
+  "Face36": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 575
+  },
+  "Face37": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 576
+  },
+  "Face38": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 577
+  },
+  "Face39": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 578
+  },
+  "FaceChief0": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 579
+  },
+  "FaceChief1": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 580
+  },
+  "FaceChief2": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 581
+  },
+  "FaceChief3": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 582
+  },
+  "FaceChief4": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 583
+  },
+  "FaceChief5": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 584
+  },
+  "FaceChief6": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 585
+  },
+  "FaceChief7": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 586
+  },
+  "FaceChief8": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 587
+  },
+  "FaceChief9": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 588
+  },
+  "Admin_DRH_Face0": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 589
+  },
+  "Admin_DRH_Face1": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 590
+  },
+  "Admin_DRH_Face2": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 591
+  },
+  "Admin_DRH_Face3": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 592
+  },
+  "Admin_DRH_Face4": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 593
+  },
+  "Admin_DRH_Face5": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 594
+  },
+  "Admin_DRH_Face6": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 595
+  },
+  "Admin_DRH_Face7": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 596
+  },
+  "Admin_DRH_Face8": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 597
+  },
+  "Admin_DRH_Face9": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 598
+  },
+  "Admin_FIN_Face1": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 599
+  },
+  "Admin_FIN_Face2": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 600
+  },
+  "Admin_FIN_Face3": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 601
+  },
+  "Admin_FIN_Face4": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 602
+  },
+  "Admin_FIN_Face5": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 603
+  },
+  "Admin_FIN_Face6": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 604
+  },
+  "Admin_FIN_Face7": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 605
+  },
+  "Admin_FIN_Face8": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 606
+  },
+  "Admin_FIN_Face9": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 607
+  },
+  "Admin_FIN_Face10": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 608
+  },
+  "Admin_COM_Face1": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 609
+  },
+  "Admin_COM_Face2": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 610
+  },
+  "Admin_COM_Face3": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 611
+  },
+  "Admin_COM_Face4": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 612
+  },
+  "Admin_COM_Face5": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 613
+  },
+  "Admin_COM_Face6": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 614
+  },
+  "Admin_COM_Face7": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 615
+  },
+  "Admin_COM_Face8": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 616
+  },
+  "Admin_COM_Face9": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 617
+  },
+  "Admin_COM_Face10": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 618
+  },
+  "Market_COM_Face1": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 619
+  },
+  "Market_COM_Face2": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 620
+  },
+  "Market_COM_Face3": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 621
+  },
+  "Market_COM_Face4": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 622
+  },
+  "Market_COM_Face5": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 623
+  },
+  "Market_COM_Face6": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 624
+  },
+  "Market_COM_Face7": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 625
+  },
+  "Market_COM_Face8": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 626
+  },
+  "Market_COM_Face9": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 627
+  },
+  "Market_COM_Face10": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 628
+  },
+  "Market_PUB_Face1": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 629
+  },
+  "Market_PUB_Face2": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 630
+  },
+  "Market_PUB_Face3": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 631
+  },
+  "Market_PUB_Face4": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 632
+  },
+  "Market_PUB_Face5": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 633
+  },
+  "Market_PUB_Face6": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 634
+  },
+  "Market_PUB_Face7": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 635
+  },
+  "Market_PUB_Face8": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 636
+  },
+  "Market_PUB_Face9": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 637
+  },
+  "Market_PUB_Face10": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 638
+  },
+  "Outside_Spy_Face1": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 639
+  },
+  "Outside_Spy_Face2": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 640
+  },
+  "Outside_Spy_Face3": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 641
+  },
+  "Outside_Spy_Face4": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 642
+  },
+  "Outside_Spy_Face5": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 643
+  },
+  "Outside_Spy_Face6": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 644
+  },
+  "Outside_Spy_Face7": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 645
+  },
+  "Outside_Spy_Face8": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 646
+  },
+  "Outside_Spy_Face9": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 647
+  },
+  "Outside_Spy_Face10": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 648
+  },
+  "Outside_Mafieu_Face1": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 649
+  },
+  "Outside_Mafieu_Face2": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 650
+  },
+  "Outside_Mafieu_Face3": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 651
+  },
+  "Outside_Mafieu_Face4": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 652
+  },
+  "Outside_Mafieu_Face5": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 653
+  },
+  "Outside_Mafieu_Face6": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 654
+  },
+  "Outside_Mafieu_Face7": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 655
+  },
+  "Outside_Mafieu_Face8": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 656
+  },
+  "Outside_Mafieu_Face9": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 657
+  },
+  "Outside_Mafieu_Face10": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 658
+  },
+  "Outside_Guardien_Face1": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 659
+  },
+  "Outside_Guardien_Face2": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 660
+  },
+  "Outside_Guardien_Face3": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 661
+  },
+  "Outside_Guardien_Face4": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 662
+  },
+  "Outside_Guardien_Face5": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 663
+  },
+  "Outside_Guardien_Face6": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 664
+  },
+  "Outside_Guardien_Face7": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 665
+  },
+  "Outside_Guardien_Face8": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 666
+  },
+  "Outside_Guardien_Face9": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 667
+  },
+  "Outside_Guardien_Face10": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 668
+  },
+  "Labo_Seeker_Face0": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 669
+  },
+  "Labo_Seeker_Face1": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 670
+  },
+  "Labo_Seeker_Face2": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 671
+  },
+  "Labo_Seeker_Face3": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 672
+  },
+  "Labo_Seeker_Face4": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 673
+  },
+  "Labo_Seeker_Face5": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 674
+  },
+  "Labo_Seeker_Face6": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 675
+  },
+  "Labo_Seeker_Face7": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 676
+  },
+  "Labo_Seeker_Face8": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 677
+  },
+  "Labo_Seeker_Face9": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 678
+  },
+  "Labo_Seeker_Face10": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 679
+  },
+  "Labo_Seeker_Face11": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 680
+  },
+  "Labo_Seeker_Face12": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 681
+  },
+  "Labo_Seeker_Face13": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 682
+  },
+  "Labo_Seeker_Face14": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 683
+  },
+  "Labo_Seeker_Face15": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 684
+  },
+  "Labo_Seeker_Face16": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 685
+  },
+  "Labo_Seeker_Face17": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 686
+  },
+  "Labo_Seeker_Face18": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 687
+  },
+  "Labo_Seeker_Face19": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 688
+  },
+  "Labo_Seeker_Face20": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 689
+  },
+  "Labo_Seeker_Face21": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 690
+  },
+  "Labo_Seeker_Face22": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 691
+  },
+  "Labo_Seeker_Face23": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 692
+  },
+  "Labo_Seeker_Face24": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 693
+  },
+  "Labo_Seeker_Face25": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 694
+  },
+  "Labo_Seeker_Face26": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 695
+  },
+  "Labo_Seeker_Face27": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 696
+  },
+  "Labo_Seeker_Face28": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 697
+  },
+  "Labo_Seeker_Face29": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 698
+  },
+  "Labo_Seeker_Face30": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 699
+  },
+  "Labo_Seeker_Face31": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 700
+  },
+  "Labo_Seeker_Face32": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 701
+  },
+  "Labo_Seeker_Face33": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 702
+  },
+  "Labo_Seeker_Face34": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 703
+  },
+  "Labo_Seeker_Face35": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 704
+  },
+  "Labo_Seeker_Face36": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 705
+  },
+  "Labo_Seeker_Face37": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 706
+  },
+  "Labo_Seeker_Face38": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 707
+  },
+  "Labo_Seeker_Face39": {
+   "type": "sprite",
+   "frames": 3,
+   "index": 708
+  },
+  "Menu_Bouton_Create": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 726
+  },
+  "Menu_Bouton_Down_Arrow_ListBox": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 727
+  },
+  "Menu_Bouton_Down_Arrow": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 728
+  },
+  "Menu_Bouton_Up_Arrow": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 729
+  },
+  "Menu_Bouton_Principal": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 730
+  },
+  "Menu_Bouton_Join_Network": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 731
+  },
+  "Menu_Bouton_Thumbtrack": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 732
+  },
+  "Menu_Bouton_Validate": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 733
+  },
+  "Menu_Bouton_Chiotte": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 734
+  },
+  "Menu_Bouton_Roller": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 735
+  },
+  "Menu_Bouton_Robot": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 736
+  },
+  "Menu_CheckBox": {
+   "type": "sprite",
+   "frames": 8,
+   "index": 737
+  },
+  "Menu_Slider": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 738
+  },
+  "Menu_CreditAnim": {
+   "type": "sprite",
+   "frames": 9,
+   "index": 739
+  },
+  "Menu_BoutonVideo1": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 740
+  },
+  "Menu_BoutonVideo2": {
+   "type": "sprite",
+   "frames": 6,
+   "index": 741
+  },
+  "ProductionManutBlanc1Mooch": {
+   "type": "anim",
+   "frames": 20,
+   "index": 742
+  },
+  "ProductionManutBlanc2Mooch": {
+   "type": "anim",
+   "frames": 20,
+   "index": 743
+  },
+  "ProductionManutBlanc3Mooch": {
+   "type": "anim",
+   "frames": 20,
+   "index": 744
+  },
+  "ProductionManutBlanc4Mooch": {
+   "type": "anim",
+   "frames": 20,
+   "index": 745
+  },
+  "ProductionManutBlanc1Work": {
+   "type": "anim",
+   "frames": 10,
+   "index": 746
+  },
+  "ProductionManutBlanc2Work": {
+   "type": "anim",
+   "frames": 10,
+   "index": 747
+  },
+  "ProductionManutBlanc3Work": {
+   "type": "anim",
+   "frames": 10,
+   "index": 748
+  },
+  "ProductionManutBlanc4Work": {
+   "type": "anim",
+   "frames": 10,
+   "index": 749
+  },
+  "ProductionManutBlanc1Repair": {
+   "type": "anim",
+   "frames": 10,
+   "index": 750
+  },
+  "ProductionManutBlanc2Repair": {
+   "type": "anim",
+   "frames": 10,
+   "index": 751
+  },
+  "ProductionManutBlanc3Repair": {
+   "type": "anim",
+   "frames": 10,
+   "index": 752
+  },
+  "ProductionManutBlanc4Repair": {
+   "type": "anim",
+   "frames": 10,
+   "index": 753
+  },
+  "ProductionManutChiefBlack1Mooch": {
+   "type": "anim",
+   "frames": 10,
+   "index": 754
+  },
+  "ProductionManutChiefBlack2Mooch": {
+   "type": "anim",
+   "frames": 10,
+   "index": 755
+  },
+  "ProductionManutChiefBlack3Mooch": {
+   "type": "anim",
+   "frames": 10,
+   "index": 756
+  },
+  "ProductionManutChiefBlack4Mooch": {
+   "type": "anim",
+   "frames": 10,
+   "index": 757
+  },
+  "ProductionManutChiefBlack1Work": {
+   "type": "anim",
+   "frames": 10,
+   "index": 758
+  },
+  "ProductionManutChiefBlack2Work": {
+   "type": "anim",
+   "frames": 10,
+   "index": 759
+  },
+  "ProductionManutChiefBlack3Work": {
+   "type": "anim",
+   "frames": 10,
+   "index": 760
+  },
+  "ProductionManutChiefBlack4Work": {
+   "type": "anim",
+   "frames": 10,
+   "index": 761
+  },
+  "ProductionManutChiefBlack1Repair": {
+   "type": "anim",
+   "frames": 10,
+   "index": 762
+  },
+  "ProductionManutChiefBlack2Repair": {
+   "type": "anim",
+   "frames": 10,
+   "index": 763
+  },
+  "ProductionManutChiefBlack3Repair": {
+   "type": "anim",
+   "frames": 10,
+   "index": 764
+  },
+  "ProductionManutChiefBlack4Repair": {
+   "type": "anim",
+   "frames": 10,
+   "index": 765
+  },
+  "AdminDRH1Mooch": {
+   "type": "anim",
+   "frames": 20,
+   "index": 766
+  },
+  "AdminDRH2Mooch": {
+   "type": "anim",
+   "frames": 20,
+   "index": 767
+  },
+  "AdminDRH3Mooch": {
+   "type": "anim",
+   "frames": 20,
+   "index": 768
+  },
+  "AdminDRH1Work": {
+   "type": "anim",
+   "frames": 20,
+   "index": 769
+  },
+  "AdminDRH2Work": {
+   "type": "anim",
+   "frames": 20,
+   "index": 770
+  },
+  "AdminDRH3Work": {
+   "type": "anim",
+   "frames": 20,
+   "index": 771
+  },
+  "AdminDRH1Ponctuelle": {
+   "type": "anim",
+   "frames": 20,
+   "index": 772
+  },
+  "AdminDRH2Ponctuelle": {
+   "type": "anim",
+   "frames": 20,
+   "index": 773
+  },
+  "AdminDRH3Ponctuelle": {
+   "type": "anim",
+   "frames": 20,
+   "index": 774
+  },
+  "AdminComptable1Mooch": {
+   "type": "anim",
+   "frames": 20,
+   "index": 775
+  },
+  "AdminComptable2Mooch": {
+   "type": "anim",
+   "frames": 20,
+   "index": 776
+  },
+  "AdminComptable3Mooch": {
+   "type": "anim",
+   "frames": 20,
+   "index": 777
+  },
+  "AdminComptable1Work": {
+   "type": "anim",
+   "frames": 20,
+   "index": 778
+  },
+  "AdminComptable2Work": {
+   "type": "anim",
+   "frames": 20,
+   "index": 779
+  },
+  "AdminComptable3Work": {
+   "type": "anim",
+   "frames": 20,
+   "index": 780
+  },
+  "AdminComptable1Ponctuelle": {
+   "type": "anim",
+   "frames": 20,
+   "index": 781
+  },
+  "AdminComptable2Ponctuelle": {
+   "type": "anim",
+   "frames": 20,
+   "index": 782
+  },
+  "AdminComptable3Ponctuelle": {
+   "type": "anim",
+   "frames": 20,
+   "index": 783
+  },
+  "AdminFinancier1Mooch": {
+   "type": "anim",
+   "frames": 20,
+   "index": 784
+  },
+  "AdminFinancier2Mooch": {
+   "type": "anim",
+   "frames": 20,
+   "index": 785
+  },
+  "AdminFinancier3Mooch": {
+   "type": "anim",
+   "frames": 20,
+   "index": 786
+  },
+  "AdminFinancier1Work": {
+   "type": "anim",
+   "frames": 20,
+   "index": 787
+  },
+  "AdminFinancier2Work": {
+   "type": "anim",
+   "frames": 20,
+   "index": 788
+  },
+  "AdminFinancier3Work": {
+   "type": "anim",
+   "frames": 20,
+   "index": 789
+  },
+  "AdminFinancier1Ponctuelle": {
+   "type": "anim",
+   "frames": 20,
+   "index": 790
+  },
+  "AdminFinancier2Ponctuelle": {
+   "type": "anim",
+   "frames": 20,
+   "index": 791
+  },
+  "AdminFinancier3Ponctuelle": {
+   "type": "anim",
+   "frames": 20,
+   "index": 792
+  },
+  "LaboSeeker1Mooch": {
+   "type": "anim",
+   "frames": 10,
+   "index": 793
+  },
+  "LaboSeeker2Mooch": {
+   "type": "anim",
+   "frames": 10,
+   "index": 794
+  },
+  "LaboSeeker3Mooch": {
+   "type": "anim",
+   "frames": 10,
+   "index": 795
+  },
+  "LaboSeeker4Mooch": {
+   "type": "anim",
+   "frames": 10,
+   "index": 796
+  },
+  "LaboSeeker1Work": {
+   "type": "anim",
+   "frames": 20,
+   "index": 797
+  },
+  "LaboSeeker2Work": {
+   "type": "anim",
+   "frames": 20,
+   "index": 798
+  },
+  "LaboSeeker3Work": {
+   "type": "anim",
+   "frames": 20,
+   "index": 799
+  },
+  "LaboSeeker4Work": {
+   "type": "anim",
+   "frames": 20,
+   "index": 800
+  },
+  "OutsideSpy1Mooch": {
+   "type": "anim",
+   "frames": 10,
+   "index": 801
+  },
+  "OutsideSpy2Mooch": {
+   "type": "anim",
+   "frames": 10,
+   "index": 802
+  },
+  "OutsideSpy3Mooch": {
+   "type": "anim",
+   "frames": 10,
+   "index": 803
+  },
+  "OutsideSpy1Work": {
+   "type": "anim",
+   "frames": 20,
+   "index": 804
+  },
+  "OutsideSpy2Work": {
+   "type": "anim",
+   "frames": 20,
+   "index": 805
+  },
+  "OutsideSpy3Work": {
+   "type": "anim",
+   "frames": 20,
+   "index": 806
+  },
+  "OutsideGuardian1Mooch": {
+   "type": "anim",
+   "frames": 20,
+   "index": 807
+  },
+  "OutsideGuardian2Mooch": {
+   "type": "anim",
+   "frames": 20,
+   "index": 808
+  },
+  "OutsideGuardian3Mooch": {
+   "type": "anim",
+   "frames": 20,
+   "index": 809
+  },
+  "OutsideGuardian1Work": {
+   "type": "anim",
+   "frames": 20,
+   "index": 810
+  },
+  "OutsideGuardian2Work": {
+   "type": "anim",
+   "frames": 20,
+   "index": 811
+  },
+  "OutsideGuardian3Work": {
+   "type": "anim",
+   "frames": 20,
+   "index": 812
+  },
+  "OutsideMafieu1Mooch": {
+   "type": "anim",
+   "frames": 20,
+   "index": 813
+  },
+  "OutsideMafieu2Mooch": {
+   "type": "anim",
+   "frames": 20,
+   "index": 814
+  },
+  "OutsideMafieu3Mooch": {
+   "type": "anim",
+   "frames": 20,
+   "index": 815
+  },
+  "OutsideMafieu1Work": {
+   "type": "anim",
+   "frames": 20,
+   "index": 816
+  },
+  "OutsideMafieu2Work": {
+   "type": "anim",
+   "frames": 20,
+   "index": 817
+  },
+  "OutsideMafieu3Work": {
+   "type": "anim",
+   "frames": 20,
+   "index": 818
+  },
+  "MarketCom1Mooch": {
+   "type": "anim",
+   "frames": 20,
+   "index": 819
+  },
+  "MarketCom2Mooch": {
+   "type": "anim",
+   "frames": 20,
+   "index": 820
+  },
+  "MarketCom3Mooch": {
+   "type": "anim",
+   "frames": 20,
+   "index": 821
+  },
+  "MarketCom1Work": {
+   "type": "anim",
+   "frames": 20,
+   "index": 822
+  },
+  "MarketCom2Work": {
+   "type": "anim",
+   "frames": 20,
+   "index": 823
+  },
+  "MarketCom3Work": {
+   "type": "anim",
+   "frames": 20,
+   "index": 824
+  },
+  "MarketCom1Ponctuelle": {
+   "type": "anim",
+   "frames": 20,
+   "index": 825
+  },
+  "MarketCom2Ponctuelle": {
+   "type": "anim",
+   "frames": 20,
+   "index": 826
+  },
+  "MarketCom3Ponctuelle": {
+   "type": "anim",
+   "frames": 20,
+   "index": 827
+  },
+  "MarketPub1Mooch": {
+   "type": "anim",
+   "frames": 20,
+   "index": 828
+  },
+  "MarketPub2Mooch": {
+   "type": "anim",
+   "frames": 20,
+   "index": 829
+  },
+  "MarketPub3Mooch": {
+   "type": "anim",
+   "frames": 20,
+   "index": 830
+  },
+  "MarketPub1Work": {
+   "type": "anim",
+   "frames": 20,
+   "index": 831
+  },
+  "MarketPub2Work": {
+   "type": "anim",
+   "frames": 20,
+   "index": 832
+  },
+  "MarketPub3Work": {
+   "type": "anim",
+   "frames": 20,
+   "index": 833
+  },
+  "MarketPub1Ponctuelle": {
+   "type": "anim",
+   "frames": 20,
+   "index": 834
+  },
+  "MarketPub2Ponctuelle": {
+   "type": "anim",
+   "frames": 20,
+   "index": 835
+  },
+  "MarketPub3Ponctuelle": {
+   "type": "anim",
+   "frames": 20,
+   "index": 836
+  },
+  "WC_Bowl1": {
+   "type": "sprite",
+   "frames": 12,
+   "index": 837
+  },
+  "WC_Flush1": {
+   "type": "sprite",
+   "frames": 11,
+   "index": 838
+  },
+  "WC_Brush1": {
+   "type": "sprite",
+   "frames": 11,
+   "index": 839
+  },
+  "WC_Bowl_Activated": {
+   "type": "sprite",
+   "frames": 12,
+   "index": 840
+  },
+  "WC_Flush_Activated": {
+   "type": "sprite",
+   "frames": 12,
+   "index": 841
+  },
+  "WC_Brush_Activated": {
+   "type": "sprite",
+   "frames": 12,
+   "index": 842
+  },
+  "WC_Big_Bowl": {
+   "type": "sprite",
+   "frames": 12,
+   "index": 843
+  },
+  "WC_Big_Flush": {
+   "type": "sprite",
+   "frames": 11,
+   "index": 844
+  },
+  "WC_Big_Brush": {
+   "type": "sprite",
+   "frames": 11,
+   "index": 845
+  },
+  "ROBOT_Arm1": {
+   "type": "sprite",
+   "frames": 16,
+   "index": 846
+  },
+  "ROBOT_Brain1": {
+   "type": "sprite",
+   "frames": 16,
+   "index": 847
+  },
+  "ROBOT_Radar1": {
+   "type": "sprite",
+   "frames": 16,
+   "index": 848
+  },
+  "ROBOT_Leg1": {
+   "type": "sprite",
+   "frames": 16,
+   "index": 849
+  },
+  "ROBOT_Arm_Activated": {
+   "type": "sprite",
+   "frames": 16,
+   "index": 850
+  },
+  "ROBOT_Brain_Activated": {
+   "type": "sprite",
+   "frames": 16,
+   "index": 851
+  },
+  "ROBOT_Radar_Activated": {
+   "type": "sprite",
+   "frames": 16,
+   "index": 852
+  },
+  "ROBOT_Leg_Activated": {
+   "type": "sprite",
+   "frames": 16,
+   "index": 853
+  },
+  "ROBOT_Big_Arm": {
+   "type": "sprite",
+   "frames": 16,
+   "index": 854
+  },
+  "ROBOT_Big_Brain": {
+   "type": "sprite",
+   "frames": 16,
+   "index": 855
+  },
+  "ROBOT_Big_Radar": {
+   "type": "sprite",
+   "frames": 16,
+   "index": 856
+  },
+  "ROBOT_Big_Leg": {
+   "type": "sprite",
+   "frames": 16,
+   "index": 857
+  },
+  "ROLLERS_Helmet1": {
+   "type": "sprite",
+   "frames": 16,
+   "index": 858
+  },
+  "ROLLERS_Shoes1": {
+   "type": "sprite",
+   "frames": 16,
+   "index": 859
+  },
+  "ROLLERS_Wheels1": {
+   "type": "sprite",
+   "frames": 16,
+   "index": 860
+  },
+  "ROLLERS_Helmet_Activated": {
+   "type": "sprite",
+   "frames": 16,
+   "index": 861
+  },
+  "ROLLERS_Shoes_Activated": {
+   "type": "sprite",
+   "frames": 16,
+   "index": 862
+  },
+  "ROLLERS_Wheels_Activated": {
+   "type": "sprite",
+   "frames": 16,
+   "index": 863
+  },
+  "ROLLERS_Helmet": {
+   "type": "sprite",
+   "frames": 16,
+   "index": 864
+  },
+  "ROLLERS_Shoes": {
+   "type": "sprite",
+   "frames": 16,
+   "index": 865
+  },
+  "ROLLERS_Wheels": {
+   "type": "sprite",
+   "frames": 16,
+   "index": 866
+  }
+ },
+ "images": {
+  "Panel_News": {
+   "width": 250,
+   "height": 422,
+   "delay": 60000
+  },
+  "Panel_CreditDebit": {
+   "width": 250,
+   "height": 422,
+   "delay": 60000
+  },
+  "Panel_Financing": {
+   "width": 250,
+   "height": 422,
+   "delay": 60000
+  },
+  "Panel_Indicator": {
+   "width": 250,
+   "height": 422,
+   "delay": 60000
+  },
+  "UpperBar800x600": {
+   "width": 800,
+   "height": 31,
+   "delay": 60000
+  },
+  "UpperBar1024x768": {
+   "width": 1024,
+   "height": 30,
+   "delay": 60000
+  },
+  "LowerBar800x600": {
+   "width": 800,
+   "height": 148,
+   "delay": 60000
+  },
+  "LowerBar1024x768": {
+   "width": 1024,
+   "height": 148,
+   "delay": 60000
+  },
+  "Back01": {
+   "width": 2500,
+   "height": 1325,
+   "delay": -1
+  },
+  "Back02": {
+   "width": 1600,
+   "height": 900,
+   "delay": -1
+  },
+  "Game_Success0": {
+   "width": 800,
+   "height": 600,
+   "delay": -1
+  },
+  "Game_Failed0": {
+   "width": 800,
+   "height": 600,
+   "delay": -1
+  },
+  "MainMenu_Loading": {
+   "width": 640,
+   "height": 480,
+   "delay": 5000
+  },
+  "Splash1": {
+   "width": 640,
+   "height": 480,
+   "delay": 5000
+  },
+  "Splash2": {
+   "width": 640,
+   "height": 480,
+   "delay": 5000
+  },
+  "Game_Loading": {
+   "width": 800,
+   "height": 600,
+   "delay": 5000
+  },
+  "MainMenu": {
+   "width": 640,
+   "height": 480,
+   "delay": 5000
+  },
+  "MainMenu_Offline": {
+   "width": 640,
+   "height": 480,
+   "delay": 5000
+  },
+  "MainMenu_Online": {
+   "width": 640,
+   "height": 480,
+   "delay": 5000
+  },
+  "MainMenu_Options": {
+   "width": 640,
+   "height": 480,
+   "delay": 5000
+  },
+  "MainMenu_Credits": {
+   "width": 640,
+   "height": 480,
+   "delay": 5000
+  },
+  "MainMenu_Campaign": {
+   "width": 640,
+   "height": 480,
+   "delay": 5000
+  },
+  "MainMenu_LAN": {
+   "width": 640,
+   "height": 480,
+   "delay": 5000
+  },
+  "MainMenu_TcpIP": {
+   "width": 640,
+   "height": 480,
+   "delay": 5000
+  },
+  "MainMenu_Internet": {
+   "width": 640,
+   "height": 480,
+   "delay": 5000
+  },
+  "MainMenu_Custom": {
+   "width": 640,
+   "height": 480,
+   "delay": 5000
+  },
+  "MainMenu_Load": {
+   "width": 640,
+   "height": 480,
+   "delay": 5000
+  },
+  "MainMenu_Tutorial": {
+   "width": 640,
+   "height": 480,
+   "delay": 5000
+  },
+  "MainMenu_Briefing": {
+   "width": 640,
+   "height": 480,
+   "delay": 5000
+  }
+ },
+ "video": [
+  "Extro",
+  "Intro",
+  "MC"
+ ]
+}

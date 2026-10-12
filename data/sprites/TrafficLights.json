@@ -1,0 +1,1 @@
+{"name":"TrafficLights","type":"anim","fps":1,"startFrame":0,"frameCount":-1,"reverse":false,"loop":true,"frames":[{"x":0,"y":0,"w":5,"h":16,"hotX":0,"hotY":0,"firstRow":2,"lastRow":15,"flags":0},{"x":6,"y":0,"w":5,"h":16,"hotX":0,"hotY":0,"firstRow":1,"lastRow":14,"flags":0},{"x":12,"y":0,"w":5,"h":16,"hotX":0,"hotY":0,"firstRow":0,"lastRow":14,"flags":0}]}

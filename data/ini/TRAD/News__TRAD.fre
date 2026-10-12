@@ -1,0 +1,692 @@
+
+; *****************************************************************************
+;
+;	NEWS
+;
+; *****************************************************************************
+[NEWS_TITLE0]
+COMMENT       = "News title comment"
+LAST_MODIFIED = "1/10/2000"
+STRING        = "TitleToDraw"
+
+; ********************************************************
+;
+; NEWS TITLES
+;
+; ********************************************************
+
+
+;/////////////////////////////////////////////////////////////
+;// GENERIC NEWS
+;//
+
+
+//Dynamique
+;
+[0]
+Title 		= "Contremaître: La chaîne de production est incomplète"
+;
+[1]
+Title 		= "Contremaître: Une machine est en panne, il faut la réparer"
+;
+[2]
+Title 		= "Contremaître: J'ai fini de réparer ma machine d'assemblage"
+;
+[3]
+Title 		= "Ouvrier: J'ai fini de réparer ma machine à composant"
+;
+[4]
+Title 		= "Contremaître: La production est repartie"
+;
+[5]
+Title 		= "Chercheuse: On a déposé un nouveau brevet"
+;
+[6]
+Title 		= "Nouveau brevet déposé"
+;
+[7]
+Title 		= "Chercheuse: Un brevet est dans le domaine publique grâce à nous"
+;
+[8]
+Title 		= "Brevet dans le domaine publique"
+;
+[9]
+Title 		= "Chercheuse: On n'a pas le niveau suffisant pour lancer cette recherche"
+;
+[10]
+Title 		= "Chercheuse: Achat d'une machine de tests chimiques avancés nécessaire"
+;
+[11]
+Title 		= "Chercheuse: Achat d'un générateur de noeuds nécessaire"
+;
+[12]
+Title 		= "Chercheuse: Achat d'un ordinateur médical nécessaire"
+;
+[13]
+Title 		= "Chercheuse: Achat d'un générateur de propulsion nécessaire"
+;
+[14]
+Title 		= "Chercheuse: Achat d'une unité fibres nécessaire"
+;
+[15]
+Title 		= "Chercheuse: Achat d'une turbine de vol nécessaire"
+;
+[16]
+Title 		= "Chercheuse: Achat d'une unité technologie de vol nécessaire"
+;
+[17]
+Title 		= "Chercheuse: Achat d'une cuve d'humeur aqueuse nécessaire"
+;
+[18]
+Title 		= "Chercheuse: Achat d'une machine à puce nécessaire"
+;
+[19]
+Title 		= "Chercheuse: Achat d'une unité de résistance nécessaire"
+;
+[20]
+Title 		= "DRH: J'ai un nouveau candidat!"
+;
+[21]
+Title 		= "DRH: Le moral est remonté à la production"
+
+;
+[22]
+Title 		= "DRH: Le moral est remonté à l'extérieur"
+;
+[23]
+Title 		= "DRH: Le moral est remonté au laboratoire"
+;
+[24]
+Title 		= "DRH: Le moral est remonté au marketing et à l'administration"
+
+;
+[25]
+Title 		= "Financier: J'ai établi le contact avec la mafia"
+;
+[26]
+Title 		= "Financier: J'ai créé la caisse noire"
+;
+[27]
+Title 		= "DRH : Retour de formation de niveau"
+;
+[28]
+Title 		= "DRH : Retour de séminaire de motivation"
+;
+[29]
+Title 		= "DRH : Retour de formation d'efficacité"
+;
+[30]
+Title 		= "Publicitaire: Nous avons la Pub Lunaire"
+;
+[31]
+Title 		= "Publicitaire: Nous avons un Zeppelin"
+;
+[32]
+Title 		= "La Pub Lunaire est pour..."
+;
+[33]
+Title 		= "Fin de la Pub Lunaire dans 10 jours"
+;
+[34]
+Title 		= "Publicitaire : Fin du Zeppelin dans 10 jours."
+;
+[35]
+Title 		= "Commercial: Le distributeur a accepté mon pot de vin"
+;
+[36]
+Title 		= "Commercial: J'ai un réseau pour écouler le stock"
+;
+[37]
+Title 		= "Commercial: Stock écoulé"
+;
+[38]
+Title 		= "Il faut d'abord créer une caisse noire"
+
+;
+[39]
+Title 		= "Il faut d'abord créer une caisse noire puis contacter la mafia"
+
+;
+[40]
+Title 		= "Juriste: Patron, la procédure de jugement est lancée"
+;
+[41]
+Title 		= "Jugé innocent..."
+;
+[42]
+Title 		= "Jugé coupable..."
+;
+[43]
+Title 		= "Juriste: J'ai contacté le fisc, le contrôle devrait tomber d'ici peu"
+;
+[44]
+Title 		= "Avis du FISC"
+;
+[45]
+Title 		= "Compte-rendu du FISC..."
+;
+[46]
+Title 		= "Compte-rendu du FISC..."
+;
+[47]
+Title 		= "Juriste: La rumeur est lancée! Laissons la courir"
+;
+[48]
+Title 		= "Flash Info..."
+;
+[49]
+Title 		= "Espion : Je n'ai rien pu voler" 
+;
+[50]
+Title 		= "Espion: J'ai volé les plans de recherche d'un composant"
+;
+[51]
+Title 		= "Flash : Vol industriel..."
+;
+[52]
+Title 		= "Chercheuse: On nous a volé les plans de recherche d'un composant"
+;
+[53]
+Title 		= "Espion:Mission accomplie, j'ai mis leur production à sac"
+;
+[54]
+Title 		= "Flash : Espionnage industriel..."
+;
+[55]
+Title 		= "Contremaître: On m'a saboté ma machine"
+;
+[56]
+Title 		= "Espion : Mon rapport..."
+;
+[57]
+Title 		= "Flash : Espionnage industriel..."
+;
+[58]
+Title 		= "Administration et marketing: On nous a cambriolé"
+;
+[59]
+Title 		= "Espion: Je refuse d'aller là-bas. C'est trop bien protégé" 
+;
+[60]
+Title 		= "Espion capturé"
+;
+[61]
+Title 		= "Espion: Merci boss, d'avoir payé ma caution je vous revaudrai ça"
+;
+[62]
+Title 		= "Mafieux: Les employés de la production sont terrorisés"
+
+;
+[63]
+Title 		= "Mafieux: Les chercheuses sont mortes de peur"
+;
+[64]
+Title 		= "Mafieux: Le personel extérieur a peur de son ombre"
+;
+[65]
+Title 		= "Mafieux: Les employés du marketing et de l'administration sont terrorisées"
+;
+[66]
+Title 		= "Gardien: J'ai fait détaler un espion comme un lièvre"
+;
+[67]
+Title 		= "Commande de recherche livrée"
+;
+[68]
+Title 		= "Commande de production livrée"
+
+;
+[69]
+Title 		= "Chercheuse: Recherche d'un filtre d'urine/selles prioritaire"
+;
+[70]
+Title 		= "Chercheuse: Recherche d'une sonde pour analyse médicale totale prioritaire"
+;
+[71]
+Title 		= "Chercheuse: Recherche du casque de base avec lanières et protection du menton prioritaire"
+;
+[72]
+Title 		= "Chercheuse: Recherche des bottes en cuir, souples et de qualité  prioritaire"
+;
+[73]
+Title 		= "Chercheuse: Recherche des chaussures en plastique avec chevilles articulées  prioritaire"
+;
+[74]
+Title 		= "Chercheuse: Recherche du casque aéroglissant avec suppression des frottements prioritaire"
+;
+[75]
+Title 		= "Chercheuse: Recherche du casque avec visière mode prioritaire"
+;
+[76]
+Title 		= "Chercheuse: Recherche de la commande portable multidirectionnelle  prioritaire"
+;
+[77]
+Title 		= "Chercheuse: Recherche de la couronne de sondes multidirectionnelle prioritaire"
+;
+[78]
+Title 		= "Chercheuse: Recherche du radar longue portée, haute précision prioritaire"
+;
+[79]
+Title 		= "Chercheuse: Recherche du cyclope vue 2D prioritaire"
+;
+[80]
+Title 		= "Chercheuse: Recherche du binoculaire vue 3D prioritaire"
+;
+[81]
+Title 		= "Chercheuse: Recherche du circuit électrique de mémorisation d'une longue liste de mouvements prioritaire"
+;
+[82]
+Title 		= "Chercheuse: Recherche du générateur de tâches à activation vocale avancé prioritaire"
+;
+[83]
+Title 		= "Chercheuse: Recherche d'un micro-processeur à apprentissage indépendant prioritaire"
+;
+[84]
+Title 		= "Chercheuse: Recherche des jambes de robot de base prioritaire"
+;
+[85]
+Title 		= "Chercheuse: Recherche des jambes flexibles - plus rapides et plus souples prioritaire"
+;
+[86]
+Title 		= "Chercheuse: Recherche des jambes imitant l'anatomie humaine prioritaire"
+;
+[87]
+Title       = "Nous n'avons pas le niveau suffisant pour produire"
+;
+[88]
+Title       = "Suite au changement de produit, nous avons jeté le stock"
+
+[89]
+Title       = "Le poste du contremaître n'est pas au point"
+
+
+//Alétaoire
+;
+[90]
+Title 		= "Eco-flash: Ventes en baisse"
+;
+[91]
+Title 		= "Eco-flash: Ventes en hausse"
+;
+[92]
+Title 		= "Eco-flash: Ventes en baisse"
+;
+[93]
+Title 		= "Eco-flash: Ventes en hausse"
+;
+[94]
+Title 		= "Banques: Hausse des taux d'intérêt"
+;
+[95]
+Title 		= "Banques: Baisse des taux d'intérêt"
+;
+[96]
+Title 		= "ANPE: Pénurie sur le marché du travail"
+;
+[97]
+Title 		= "ANPE: C'est le moment d'embaucher"
+;
+[98]
+Title 		= "Hausse des prix du fournisseur"
+;
+[99]
+Title 		= "Baisse des prix du fournisseur"
+;
+[100]
+Title 		= "Commande de recherche"	
+;
+[101]
+Title 		= "Boite écologique..."
+;
+[102]
+Title 		= "Réponse boite écologique..."
+;
+[103]
+Title 		= "Réponse boite écologique..."
+;
+[104]
+Title 		= "C'est bientôt Noël..."
+;
+[105]
+Title 		= "Contrôle fiscal "
+
+;
+[106]
+Title 		= "Contrôle fiscal surprise: sanction..."
+;
+[107]
+Title 		= "Contrôle fiscal surprise: pas de suites..." 
+
+;
+[108]
+Title 		= "Ouvrier: Il me faudrait des vacances"
+;
+[109]
+Title 		= "Contremaître: J'en ai raz la casquette"
+;
+[110]
+Title 		= "Espion: Je ne suis pas en très grande forme"
+;
+[111]
+Title 		= "Mafieux: Je me sens déprimé"
+;
+[112]
+Title 		= "Chercheuse: Je suis fatiguée"
+;
+[113]
+Title 		= "DRH: J'ai les batteries à plât"
+;
+[114]
+Title 		= "Juriste: J'ai plus de peps"
+;
+[115]
+Title 		= "Comptable: Plus rien ne me réussi"
+;
+[116]
+Title 		= "Publicitaire: Tout m'énerve en ce moment"
+;
+[117]
+Title 		= "Commercial: Vivement le week-end"
+;
+[118]
+Title 		= "Gardien: Déprimante, cette ZI"
+;
+[119]
+Title 		= "Lettre de démission"
+
+;
+[120]
+Title 		= "Comptable: Nous sommes au bord de la faillite"
+;
+[121]
+Title 		= "Faillite"
+
+;
+[122]
+Title 		= "Acceptation commande de recherche"
+;
+[123]
+Title 		= "Acceptation commande de production"
+;
+[124]
+Title 		= "Acceptation commande de production"
+;
+[125]
+Title 		= "Acceptation commande de production"
+;
+[126]
+Title 		= "La commande de production a échoué..."
+
+;	E_VICTORY_CONDITION_SEARCH_ALL_TECHNO_TREE
+[127]
+Title 		= "Condition de victoire..."
+;	E_VICTORY_CONDITION_REACH_CASH
+[128]
+Title 		= "Condition de victoire..."
+;	E_VICTORY_CONDITION_REACH_ACTION_PRICE
+[129]
+Title 		= "Condition de victoire..."
+;	E_VICTORY_CONDITION_SELL_TO_TECHNOIDS
+[130]
+Title 		= "Condition de victoire..."
+;	E_VICTORY_CONDITION_SELL_TO_EMOTIVES
+[131]
+Title 		= "Condition de victoire..."
+;	E_VICTORY_CONDITION_TIME_LIMITED_SEARCH_ALL_TECHNO_TREE
+[132]
+Title 		= "Condition de victoire..."
+;	E_VICTORY_CONDITION_TIME_LIMITED_REACH_CASH
+[133]
+Title 		= "Condition de victoire..."
+;	E_VICTORY_CONDITION_TIME_LIMITED_REACH_ACTION_PRICE
+[134]
+Title 		= "Condition de victoire..."
+;	E_VICTORY_CONDITION_TIME_LIMITED_SELL_TO_TECHNOIDS
+[135]
+Title 		= "Condition de victoire..."
+;	E_VICTORY_CONDITION_TIME_LIMITED_SELL_TO_EMOTIVES
+[136]
+Title 		= "Condition de victoire..."
+;	E_VICTORY_CONDITION_DEMO
+[137]
+Title 		= "Condition de victoire..."
+;	E_VICTORY_CONDITION_LEVEL04
+[138]
+Title 		= "Objectif de mission..."
+;	E_VICTORY_CONDITION_LEVEL05
+[139]
+Title 		= "Objectif de mission..."
+;	E_VICTORY_CONDITION_LEVEL06
+[140]
+Title 		= "Objectif de mission..."
+;	E_VICTORY_CONDITION_LEVEL07
+[141]
+Title 		= "Objectif de mission..."
+;	E_VICTORY_CONDITION_LEVEL08
+[142]
+Title 		= "Objectif de mission..."
+;	E_VICTORY_CONDITION_LEVEL09
+[143]
+Title 		= "Objectif de mission..."
+;	E_VICTORY_CONDITION_LEVEL10
+[144]
+Title 		= "Objectif de mission..."
+;	E_VICTORY_CONDITION_LEVEL11
+[145]
+Title 		= "Objectif de mission..."
+;	E_VICTORY_CONDITION_LEVEL12
+[146]
+Title 		= "Objectif de mission..."
+;
+[147]
+Title 		= "Objectif de mission..."
+;
+[148]
+Title 		= ""
+;
+[149]
+Title 		= "Débauchage..."
+
+;/////////////////////////////////////////////////////////////
+;// PRODUCTS NEWS
+;//
+
+;// TOILET
+
+[300]		
+Title 		= "Commande de production"	      
+					
+;// ROLLERBLADE
+
+[400]
+Title 		= "Commande de production"	
+
+;// ROBOT
+					
+[500];
+Title 		= "Commande de production"	
+				
+;/////////////////////////////////////////////////////////////
+;// MISSIONS
+;//
+
+;// TUTORIAL
+
+    ;// TUTORIAL1
+[600];
+Title		= "Ouvrez le panneau de news, dernier bouton de la barre du haut, pour lire le tutorial" 
+
+[601];
+Title		= "Tutorial : Faire de la recherche..."
+
+[602];
+Title		= "Tutorial : Les composants..."
+
+[603];
+Title		= "Tutorial : Arbre technologique..."
+
+[604];
+Title		= "Fin tutorial 1..."
+
+    ;// TUTORIAL2
+[625];
+Title		= "Ouvrez le panneau de news, pour lire le tutorial"
+
+[626];
+Title		= "Tutorial : Fabriquer des produits..."
+
+[627];
+Title		= "Fin tutorial 2..."
+
+    ;// TUTORIAL3
+[650];
+Title		= "Ouvrez le panneau de news, pour lire le tutorial"
+
+[651];
+Title		= "Tutorial : Faire des ventes..."
+
+[652];
+Title		= "Tutorial : Technoïdes et émotifs..."
+
+[653];
+Title		= "Fin tutorial 3..."
+
+    ;// TUTORIAL4
+[675];
+Title		= "Ouvrez le panneau de news, pour lire le tutorial"
+
+[676];
+Title		= "Tutorial : Le moral..."
+
+[677];
+Title		= "Tutorial : Le débauchage..."
+
+[678];
+Title		= "Tutorial : Espionnage et ripostes..."
+
+[679];
+Title		= "Tutorial : Le gardien et la sécurité..."
+
+[680];
+Title		= "Fin tutorial 4..."
+
+
+;// MISSION1
+
+;[700];
+;Title		= "Objectif de mission..." 
+
+;// MISSION2
+
+;[800];
+;Title		= "Objectif de mission..." 
+
+;// MISSION3
+
+;[900];
+;Title		= "Objectif de mission..." 
+
+[900]
+Title		= "" 
+
+;// MISSION4
+
+;[1000];
+;Title		= "Objectif de mission..." 
+
+[1000];
+Title		= "" 
+
+;// MISSION5
+
+;[1100];
+;Title		= "Objectif de mission..." 
+
+[1100];
+Title		= "KRACH-BOURSIER !!"
+
+[1101];
+Title		= "J+90 Résultats encourageants..."
+
+[1102];
+Title		= "J+90 Marchés à la hausse..."
+
+[1103];
+Title		= "J-90 Faillite retentissante..."
+
+[1104];
+Title		= "J-90 Vague de licenciements"
+
+[1105];
+Title		= "J+30 Amélioration des résultats"
+
+[1106];
+Title		= "J+30 Profits des télécoms "
+
+[1107];
+Title		= "J-30 Démission"
+
+[1108];
+Title		= "J-30 Hausse des taux d'intérêt"
+
+[1109];
+Title		= "J+10 Perspectives encourageantes..."
+
+[1110];
+Title		= "J+10 Taux d'intérêt en baisse"
+
+[1111];
+Title		= "J-10 Résultats alarmants"
+
+[1112];
+Title		= "J-10 Taux d'intérêt en hausse"
+
+
+;// MISSION6
+
+;[1200];
+;Title		= "Objectif mission6..." 
+
+;// MISSION7
+
+;[1300];
+;Title		= "Objectif mission7..." 
+[1300];		E_NEWS_COMMANDE_MISSION_1
+Title		= "Commande de production"
+
+[1301];		E_NEWS_COMMANDE_MISSION_2
+Title		= "Commande de production"
+
+[1302];		E_NEWS_COMMANDE_MISSION_3
+Title		= "Commande de production"
+
+[1303];		E_NEWS_COMMANDE_MISSION_4
+Title		= "Commande de production"
+
+[1304];		E_NEWS_COMMANDE_MISSION_5
+Title		= "Commande de production"
+
+[1305];		E_NEWS_COMMANDE_MISSION_6
+Title		= "Commande de production"
+
+[1306];		E_NEWS_COMMANDE_MISSION_7
+Title		= "Commande de production"
+
+[1307];		E_NEWS_COMMANDE_MISSION_8
+Title		= "Commande de production"
+
+[1308];		E_NEWS_COMMANDE_MISSION_9
+Title		= "Commande de production"
+
+[1309];		E_NEWS_COMMANDE_MISSION_10
+Title		= "Commande de production"
+
+;// MISSION8
+
+;[1400];
+;Title		= "Objectif mission8..." 
+
+;// MISSION9
+
+;[1500];
+;Title		= "Objectif mission9..." 

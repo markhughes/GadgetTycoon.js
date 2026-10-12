@@ -1,0 +1,693 @@
+
+; *****************************************************************************
+;
+;	NEWS
+;
+; *****************************************************************************
+[NEWS_TITLE0]
+COMMENT="News title comment"
+LAST_MODIFIED="1/10/2000"
+STRING="TitleToDraw"
+
+; ********************************************************
+;
+; NEWS TITLES
+;
+; ********************************************************
+
+
+;/////////////////////////////////////////////////////////////
+;// GENERIC NEWS
+;//
+
+
+//Dynamique
+;
+[0]
+Title="Aufseher: Die Produktionskette ist noch nicht vollständig."
+;
+[1]
+Title="Aufseher: Eine der Maschinen funktioniert nicht mehr."
+;
+[2]
+Title="Aufseher: Ich habe die Montagemaschine jetzt repariert."
+;
+[3]
+Title="Techniker: Ich habe die Komponentenmaschine jetzt repariert."
+;
+[4]
+Title="Aufseher: Die Produktion geht weiter."
+;
+[5]
+Title="Forscherin: Wir haben ein Patent eingereicht."
+;
+[6]
+Title="Patent gewährt ..."
+;
+[7]
+Title="Forscherin: Unser Patent ist jetzt öffentlich zugänglich."
+;
+[8]
+Title="Patent öffentlich ..."
+;
+[9]
+Title="Forscherin: Wir sind noch nicht weit genug fortgeschritten, um dieses Forschungsprojekt zu starten."
+;
+[10]
+Title="Forscherin: Wir benötigen eine chemische Testausrüstung."
+;
+[11]
+Title="Forscherin: Wir benötigen einen Fasenknotengenerator."
+;
+[12]
+Title="Forscherin: Wir benötigen einen Gesundheitscomputer."
+;
+[13]
+Title="Forscherin: Wir benötigen einen Jetgenerator."
+;
+[14]
+Title="Forscherin: Wir benötigen eine Fasereinheit."
+;
+[15]
+Title="Forscherin: Wir benötigen eine Flugturbine."
+;
+[16]
+Title="Forscherin: Wir benötigen eine Luftkisseneinheit."
+;
+[17]
+Title="Forscherin: Wir benötigen einen Kammerwasser-Behälter."
+;
+[18]
+Title="Forscherin: Wir benötigen eine Mikrochip-Maschine"
+;
+[19]
+Title="Forscherin: Wir benötigen eine mechanische Ausdauereinheit"
+;
+[20]
+Title="Personalchefin: Ich habe einen neuen Bewerber!"
+;
+[21]
+Title="Personalchefin: Die Mitarbeiter der Produktion sind endlich wieder motiviert."
+
+;
+[22]
+Title="Personalchefin: Die externen Mitarbeiter sind endlich wieder motiviert."
+;
+[23]
+Title="Personalchefin: Die Mitarbeiter im Labor sind endlich wieder motiviert."
+;
+[24]
+Title="Personalchefin: Die Mitarbeiter im Marketing und in der Verwaltung sind endlich wieder motiviert."
+
+;
+[25]
+Title="Buchhalterin: Ich habe die Mafia kontaktiert."
+;
+[26]
+Title="Buchhalterin: Ich habe den Schmiergeldfonds angelegt."
+;
+[27]
+Title="Rückkehr vom Aufstiegstraining ..."
+;
+[28]
+Title="Rückkehr vom Motivationsseminar ..."
+;
+[29]
+Title="Rückkehr vom Effizienztraining ..."
+;
+[30]
+Title="Werbeleiterin: Wir haben die Mondwerbung!"
+;
+[31]
+Title="Werbeleiterin: Wir haben die Zeppelinwerbung!"
+;
+[32]
+Title="Mondwerbung ..."
+;
+[33]
+Title="Ende der Mondwerbung in 10 Tagen ..."
+;
+[34]
+Title="Werbeleiterin: Ende der Zeppelinwerbung in 10 Tagen."
+;
+[35]
+Title="Verkäufer: Der Vertrieb ist auf die Bestechung eingegangen."
+;
+[36]
+Title="Verkäufer: Ich kann den Lagerbestand abverkaufen."
+;
+[37]
+Title="Verkäufer: Ich habe den Großteil des Lagerbestands verkauft."
+;
+[38]
+Title="Sie müssen erst einen Schmiergeldfonds anlegen."
+
+;
+[39]
+Title="Sie müssen erst einen Schmiergeldfonds anlegen und dann die Mafia kontaktieren."
+
+;
+[40]
+Title="Anwalt: Ich habe einen Prozess erwirkt."
+;
+[41]
+Title="Nicht schuldig ..."
+;
+[42]
+Title="Schuldig ..."
+;
+[43]
+Title="Anwalt: Ich habe mich mit dem Finanzamt in Verbindung gesetzt, sie führen bald eine Steuerprüfung durch."
+;
+[44]
+Title="Steuerprüfung steht bevor ..."
+;
+[45]
+Title="Bericht des Steuerprüfers ..."
+;
+[46]
+Title="Bericht des Steuerprüfers ..."
+;
+[47]
+Title="Anwalt: Ich habe ein Gerücht verbreitet!"
+;
+[48]
+Title="Newsflash ..."
+;
+[49]
+Title="Spion: Es ist mir nicht gelungen, etwas zu stehlen."
+;
+[50]
+Title="Spion: Ich habe die Pläne für eine Komponente entwendet."
+;
+[51]
+Title="Newsflash: Industriespionage ..."
+;
+[52]
+Title="Forscherin: Jemand hat die Pläne für eine unserer Komponenten gestohlen."
+;
+[53]
+Title="Spion: Auftrag ausgeführt - ich habe ihre Produktion sabotiert."
+;
+[54]
+Title="Newsflash: Industriespionage ..."
+;
+[55]
+Title="Aufseher: Meine Maschine wurde sabotiert."
+;
+[56]
+Title="Spion: Mein Bericht ..."
+;
+[57]
+Title="Newsflash: Industriespionage ..."
+;
+[58]
+Title="Verwaltung & Marketing: Bei uns wurde eingebrochen!"
+;
+[59]
+Title="Spion: Da gehe ich nicht hin, das ist zu gut bewacht."
+;
+[60]
+Title="Spion gefasst ..."
+;
+[61]
+Title="Spion: Danke, dass Sie mich freigekauft haben, Boss. Ich schulde Ihnen was."
+;
+[62]
+Title="Mafioso: Das Produktionspersonal ist verängstigt."
+
+;
+[63]
+Title="Mafioso: Die Forscherinnen sind verängstigt."
+;
+[64]
+Title="Mafioso: Die externen Mitarbeiter sind verängstigt."
+;
+[65]
+Title="Mafioso: Das Marketing und die Verwaltung sind verängstigt."
+;
+[66]
+Title="Wachmann: Ein Spion weniger."
+;
+[67]
+Title="Forschungsauftrag beendet ..."
+;
+[68]
+Title="Produktionsauftrag beendet ..."
+
+;
+[69]
+Title="Forscherin: Wir müssen dringend den Urin- und Kotfilter erforschen."
+;
+[70]
+Title="Forscherin: Wir müssen dringend den Spezialfilter zur vollständigen Gesundheitsanalyse erforschen."
+;
+[71]
+Title="Forscherin: Wir müssen dringend den einfachen Sturzhelm mit Kinnschutz erforschen."
+;
+[72]
+Title="Forscherin: Wir müssen dringend die geschmeidigen, hochwertigen Lederstiefel erforschen."
+;
+[73]
+Title="Forscherin: Wir müssen dringend den Kunststoffstiefel mit Knöchelgelenk erforschen."
+;
+[74]
+Title="Forscherin: Wir müssen dringend den aerodynamischen, reibungslosen Sturzhelm erforschen."
+;
+[75]
+Title="Forscherin: Wir müssen dringend den Sturzhelm mit stilvollem Visier erforschen."
+;
+[76]
+Title="Forscherin: Wir müssen dringend den tragbaren Controller mit mehreren Achsen erforschen."
+;
+[77]
+Title="Forscherin: Wir müssen dringend die multidirektionalen Tastsonden erforschen."
+;
+[78]
+Title="Forscherin: Wir müssen dringend das Langstreckenradar mit hoher Präzisionsstufe erforschen."
+;
+[79]
+Title="Forscherin: Wir müssen dringend das zweidimensionale einfache Auge erforschen."
+;
+[80]
+Title="Forscherin: Wir müssen dringend die dreidimensionalen Augen in Fernglasanordnung erforschen."
+;
+[81]
+Title="Forscherin: Wir müssen dringend den Speicher für eine lange Liste von Bewegungen erforschen."
+;
+[82]
+Title="Forscherin: Wir müssen dringend den verbesserten, stimmaktivierten Aufgabengenerator erforschen."
+;
+[83]
+Title="Forscherin: Wir müssen dringend den unabhängig lernenden Mikroprozessor erforschen."
+;
+[84]
+Title="Forscherin: Wir müssen dringend die einfachen Roboterbeine erforschen."
+;
+[85]
+Title="Forscherin: Wir müssen dringend die flexiblen Beine erforschen."
+;
+[86]
+Title="Forscherin: Wir müssen dringend die auf menschlichem Körperbau basierenden Beine erforschen."
+
+;
+[87]
+Title       = "Wir benötigen eine höhere Stufe, um diese Komponente zu fertigen."
+;
+[88]
+Title       = "Die Komponente wurde geändert und der alte Lagerbestand wurde weggeworfen."
+
+[89]
+Title       = "Wir benötigen einen Aufseher samt Arbeitsplatz einer höheren Stufe."
+
+//Alétaoire
+;
+[90]
+Title="Info: Verkäufe sinken ..."
+;
+[91]
+Title="Info: Verkäufe steigen ..."
+;
+[92]
+Title="Info: Verkäufe sinken ..."
+;
+[93]
+Title="Info: Verkäufe sinken ..."
+;
+[94]
+Title="Banken: Zinssätze steigen ..."
+;
+[95]
+Title="Banken: Zinssätze sinken ..."
+;
+[96]
+Title="Jobs: Personalmangel ..."
+;
+[97]
+Title="Jobs: Personalüberschuss ..."
+;
+[98]
+Title="Zulieferer hebt Preise an ..."
+;
+[99]
+Title="Zulieferer senkt Preise ..."
+;
+[100]
+Title="Forschungsauftrag ..."
+;
+[101]
+Title="Aufruf - Umweltschutz ..."
+;
+[102]
+Title="Ergebnis - Umweltschutz ..."
+;
+[103]
+Title="Ergebnis - Umweltschutz ..."
+;
+[104]
+Title="Bald ist Weihnachten ..."
+;
+[105]
+Title="Steuerprüfung"
+
+;
+[106]
+Title="Steuerprüfung: Geldstrafe ..."
+;
+[107]
+Title="Steuerprüfung: In Ordnung ..."
+
+;
+[108]
+Title="Techniker: Ich brauche eine Pause."
+;
+[109]
+Title="Aufseher: Ich habe genug."
+;
+[110]
+Title="Spion: Ich fühle mich nicht gut."
+;
+[111]
+Title="Mafioso: Ich bin deprimiert."
+;
+[112]
+Title="Forscherin: Ich bin müde."
+;
+[113]
+Title="Personalchefin: Ich bin total geschafft."
+;
+[114]
+Title="Anwalt: Ich bin erschöpft."
+;
+[115]
+Title="Buchhalterin: Mir reicht es."
+;
+[116]
+Title="Werbeleiterin: Irgendwie geht mir gerade alles auf die Nerven."
+;
+[117]
+Title="Verkäufer: Wenn es doch nur schon Wochenende wäre!"
+;
+[118]
+Title="Wachmann: Dieses Gelände ist irgendwie bedrückend."
+;
+[119]
+Title="Kündigung ..."
+
+;
+[120]
+Title="Buchhalterin: Wir werden bald Pleite machen."
+;
+[121]
+Title="Bankrott ..."
+
+;
+[122]
+Title="Forschungsauftrag angenommen ..."
+;
+[123]
+Title="Produktionsauftrag angenommen ..."
+;
+[124]
+Title="Produktionsauftrag angenommen ..."
+;
+[125]
+Title="Produktionsauftrag angenommen ..."
+;
+[126]
+Title="Produktionsauftrag abgelehnt ..."
+
+;
+[127]
+Title="Zielsetzung ..."
+;
+[128]
+Title="Zielsetzung ..."
+;
+[129]
+Title="Zielsetzung ..."
+;
+[130]
+Title="Zielsetzung ..."
+;
+[131]
+Title="Zielsetzung ..."
+;
+[132]
+Title="Zielsetzung ..."
+;
+[133]
+Title="Zielsetzung ..."
+;
+[134]
+Title="Zielsetzung ..."
+;
+[135]
+Title="Zielsetzung ..."
+;
+[136]
+Title="Zielsetzung ..."
+
+;	E_VICTORY_CONDITION_DEMO
+[137]
+Title 		= "Zielsetzung ..."
+;	E_VICTORY_CONDITION_LEVEL04
+[138]
+Title 		= "Einweisung ..."
+;	E_VICTORY_CONDITION_LEVEL05
+[139]
+Title 		= "Einweisung ..."
+;	E_VICTORY_CONDITION_LEVEL06
+[140]
+Title 		= "Einweisung ..."
+;	E_VICTORY_CONDITION_LEVEL07
+[141]
+Title 		= "Einweisung ..."
+;	E_VICTORY_CONDITION_LEVEL08
+[142]
+Title 		= "Einweisung ..."
+;
+[143]
+Title 		= "Einweisung ..."
+;
+[144]
+Title 		= "Einweisung ..."
+;
+[145]
+Title 		= "Einweisung ..."
+;
+[146]
+Title 		= "Einweisung ..."
+;
+[147]
+Title 		= "Einweisung ..."
+;
+[148]
+Title 		= ""
+;
+[149]
+Title 		= "Ich höre auf..."
+
+;/////////////////////////////////////////////////////////////
+;// PRODUCTS NEWS
+;//
+
+;// TOILET
+
+[300]		
+Title="Produktionsauftrag ..."
+
+;// ROLLERBLADE
+
+[400]
+Title="Produktionsauftrag ..."
+
+;// ROBOT
+
+[500];
+Title="Produktionsauftrag ..."
+
+;/////////////////////////////////////////////////////////////
+;// MISSIONS
+;//
+
+;// TUTORIAL
+
+;// TUTORIAL1
+[600];
+Title="Öffnen Sie das Mail-Fenster und folgen Sie den Anweisungen des Einführungsspiels" 
+
+[601];
+Title="Einführung: Forschung"
+
+[602];
+Title="Einführung: Komponenten"
+
+[603];
+Title="Einführung: Technologiebaum"
+
+[604];
+Title="Ende - Teil 1"
+
+;// TUTORIAL2
+[625];
+Title="Öffnen Sie das Mail-Fenster und folgen Sie den Anweisungen des Einführungsspiels"
+
+[626];
+Title="Einführung: Herstellung"
+
+[627];
+Title="Ende - Teil 2"
+
+;// TUTORIAL3
+[650];
+Title="Öffnen Sie das Mail-Fenster und folgen Sie den Anweisungen des Einführungsspiels"
+
+[651];
+Title="Einführung: Verkauf"
+
+[652];
+Title="Einführung: Technik- und Design-Fans"
+
+[653];
+Title="Ende - Teil 3"
+
+;// TUTORIAL4
+[675];
+Title="Öffnen Sie das Mail-Fenster und folgen Sie den Anweisungen des Einführungsspiels."
+
+[676];
+Title="Einführung: Motivation"
+
+[677];
+Title="Einführung: Abwerben"
+
+[678];
+Title="Einführung: Schmutzige Geschäfte"
+
+[679];
+Title="Einführung - Wachdienst"
+
+[680];
+Title="Ende - Teil 4"
+
+
+;// MISSION1
+
+[700];
+Title="Einweisung ..."
+
+;// MISSION2
+
+[800];
+Title="Einweisung ..."
+
+;// MISSION3
+
+[900];
+Title="Einweisung ..."
+
+[901]
+Title		= "" 
+
+;// MISSION4
+
+[1000];
+Title="Einweisung ..."
+
+[1001]
+Title		= "" 
+
+;// MISSION5
+
+[1100];
+Title="Einweisung ..."
+
+[1101];
+Title		= "Die Aktienkurse brechen ein!"
+
+[1102];
+Title		= "T+90: Es geht bergauf..."
+
+[1103];
+Title		= "T+90: Positives Reformprogramm"
+
+[1104];
+Title		= "T-90: Großunternehmen bankrott"
+
+[1105];
+Title		= "T-90: Großflächiger Stellenabbau "
+
+[1106];
+Title		= "T+30: Erwartungen übertroffen"
+
+[1107];
+Title		= "T+30: Marktlage stabilisiert"
+
+[1108];
+Title		= "T-30: Krise im Finanzsektor?"
+
+[1109];
+Title		= "T-30: Erhöhung der Leitzinsen befürchtet"
+
+[1110];
+Title		= "T+10: Ermutigende Zeichen"
+
+[1111];
+Title		= "T+10: Leitzinsen werden gesenkt"
+
+[1112];
+Title		= "T-10: Gewinnwarnung"
+
+[1113];
+Title		= "T-10: Leitzinsen werden erhöht"
+
+
+;// MISSION6
+
+;[1200];
+;Title="Einweisung ..."
+
+;// MISSION7
+
+;[1300];
+;Title="Einweisung ..."
+[1300];		E_NEWS_COMMANDE_MISSION_1
+Title		= "Produktionsauftrag ..."
+
+[1301];		E_NEWS_COMMANDE_MISSION_2
+Title		= "Produktionsauftrag ..."
+
+[1302];		E_NEWS_COMMANDE_MISSION_3
+Title		= "Produktionsauftrag ..."
+
+[1303];		E_NEWS_COMMANDE_MISSION_4
+Title		= "Produktionsauftrag ..."
+
+[1304];		E_NEWS_COMMANDE_MISSION_5
+Title		= "Produktionsauftrag ..."
+
+[1305];		E_NEWS_COMMANDE_MISSION_6
+Title		= "Produktionsauftrag ..."
+
+[1306];		E_NEWS_COMMANDE_MISSION_7
+Title		= "Produktionsauftrag ..."
+
+[1307];		E_NEWS_COMMANDE_MISSION_8
+Title		= "Produktionsauftrag ..."
+
+[1308];		E_NEWS_COMMANDE_MISSION_9
+Title		= "Produktionsauftrag ..."
+
+[1309];		E_NEWS_COMMANDE_MISSION_10
+Title		= "Produktionsauftrag ..."
+
+;// MISSION8
+
+;[1400];
+;Title="Einweisung ..."
+
+;// MISSION9
+
+;[1500];
+;Title="Einweisung ..."

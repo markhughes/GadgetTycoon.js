@@ -1,0 +1,71 @@
+[0]
+String="Percezione tattile"
+
+[1]
+String="Sonda tattile singola"
+
+[2]
+String="Percezione tattile"
+
+[3]
+String="3 sonde tattili"
+
+[4]
+String="Percezione tattile"
+
+[5]
+String="Sonda tattile multidirezionale"
+
+[6]
+String="Percezione radar"
+
+[7]
+String="Radar a corto raggio, bassa precisione"
+
+[8]
+String="Percezione radar"
+
+[9]
+String="Radar a medio raggio, media precisione"
+
+[10]
+String="Percezione radar"
+
+[11]
+String="Radar a lungo raggio, alta precisione"
+
+[12]
+String="Percezione visiva"
+
+[13]
+String="Visione base bidimensionale con un occhio solo"
+
+[14]
+String="Percezione visiva"
+
+[15]
+String="Visione binoculare tridimensionale"
+
+[16]
+String="Percezione visiva"
+
+[17]
+String="Visione tridimensionale a 360° a occhio d'insetto"
+
+[18]
+String="Percezione a infrarossi"
+
+[19]
+String="Sensore a infrarossi a corto raggio"
+
+[20]
+String="Percezione a infrarossi"
+
+[21]
+String="Sensore a infrarossi a lungo raggio"
+
+[22]
+String="Percezione a infrarossi"
+
+[23]
+String="Super sensore a infrarossi satellitare"

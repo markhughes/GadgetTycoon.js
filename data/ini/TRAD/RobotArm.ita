@@ -1,0 +1,71 @@
+[0]
+String="Barra"
+
+[1]
+String="Barra singola"
+
+[2]
+String="Barra"
+
+[3]
+String="Barra doppia"
+
+[4]
+String="Barra"
+
+[5]
+String="Barra a 360° che circonda il robot"
+
+[6]
+String="Tenaglia"
+
+[7]
+String="Tenaglia singola semplice"
+
+[8]
+String="Tenaglia"
+
+[9]
+String="Tenaglia doppia semplice"
+
+[10]
+String="Tenaglia"
+
+[11]
+String="Coppia di tenaglie semplici con polsi rotanti"
+
+[12]
+String="Braccio"
+
+[13]
+String="Coppia di tenaglie rotanti con gomiti snodati"
+
+[14]
+String="Braccio"
+
+[15]
+String="Braccio con spalle e gomiti snodati"
+
+[16]
+String="Braccio"
+
+[17]
+String="Braccia retrattili, massima flessibilità"
+
+[18]
+String="Mani artificiali"
+
+[19]
+String="Pollice opponibile, due dita"
+
+[20]
+String="Mani artificiali"
+
+[21]
+String="Mani opponibili con cinque dita semplici"
+
+[22]
+String="Mani artificiali"
+
+[23]
+String="Mani di tipo umano, massima agilità"

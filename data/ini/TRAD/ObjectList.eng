@@ -1,0 +1,359 @@
+[0]
+String="Derelict warehouse"
+
+[1]
+String="This warehouse could house marketing"
+
+[2]
+String="Work sector"
+
+[3]
+String="Basic marketing office"
+
+[4]
+String="Designer H.Q"
+
+[5]
+String="Glass walled refurbishment for marketing"
+
+[6]
+String="Broken security camera"
+
+[7]
+String="Upgrade security to prevent intrusion"
+
+[8]
+String="Security camera"
+
+[9]
+String="Security camera for daytime intrusion"
+
+[10]
+String="Securicam with heat detector"
+
+[11]
+String="Heat detector for increased security"
+
+[12]
+String="Police satellite link"
+
+[13]
+String="Camera/detector system alerts police"
+
+[14]
+String="Dead plant"
+
+[15]
+String="Improve team morale with attractive decor"
+
+[16]
+String="Anaemic potplant"
+
+[17]
+String="Could be healthier but better than nothing"
+
+[18]
+String="Thriving potplant"
+
+[19]
+String="A large and healthy potplant for the corner"
+
+[20]
+String="Aquarium"
+
+[21]
+String="Aquarium creates relaxed, relaxing atmosphere"
+
+[22]
+String="Broken TV"
+
+[23]
+String="A TV helps marketing be more efficient"
+
+[24]
+String="Basic television"
+
+[25]
+String="Alright for watching the news on"
+
+[26]
+String="Modern television"
+
+[27]
+String="Wide-screen modern television"
+
+[28]
+String="Plasma television"
+
+[29]
+String="Hi-tech TV with satellite access"
+
+[30]
+String="Disorganised ex-office"
+
+[31]
+String="This area could house administration"
+
+[32]
+String="Cleaned up administration"
+
+[33]
+String="All necessary repairs effected"
+
+[34]
+String="Luxury administration"
+
+[35]
+String="Hi-tech administration lounge"
+
+[36]
+String="Broken safe"
+
+[37]
+String="Keep secret documents in a security safe"
+
+[38]
+String="Rusty strongbox"
+
+[39]
+String="Deters casual thieves"
+
+[40]
+String="Steel safe"
+
+[41]
+String="Code-sealed reinforced steel safe"
+
+[42]
+String="Multi-lock digi-safe"
+
+[43]
+String="Requires multi-code digi-recognition"
+
+[44]
+String="Broken table"
+
+[45]
+String="An efficient team needs a meeting place"
+
+[46]
+String="Trestle table"
+
+[47]
+String="Wobbly old thing"
+
+[48]
+String="Office table"
+
+[49]
+String="Elegant modern office table"
+
+[50]
+String="Designer table"
+
+[51]
+String="Faux period bureau"
+
+[52]
+String="Hot plate"
+
+[53]
+String="Drinks facilities improve morale"
+
+[54]
+String="Coffee pit"
+
+[55]
+String="All that keeps this place awake"
+
+[56]
+String="Water fountain"
+
+[57]
+String="Refreshing cool water"
+
+[58]
+String="Drinks dispenser"
+
+[59]
+String="A choice of hot or cold drinks"
+
+[60]
+String="Abandonned laboratory"
+
+[61]
+String="A laboratory allows product research"
+
+[62]
+String="Cleaned up lab"
+
+[63]
+String="A bit scruffy, but clean and safe"
+
+[64]
+String="Hi-tech research center"
+
+[65]
+String="Fully repaired and improved"
+
+[66]
+String="Broken door"
+
+[67]
+String="A secure door prevents break-ins"
+
+[68]
+String="Wooden door"
+
+[69]
+String="Should discourage the casual thief"
+
+[70]
+String="Steel door"
+
+[71]
+String="High-security bolted steel door"
+
+[72]
+String="Armored door"
+
+[73]
+String="Only a T47 wil break this down"
+
+[74]
+String="Broken grill"
+
+[75]
+String="Ventilation improves efficiency
+
+[76]
+String="Grill"
+
+[77]
+String="Lets fresh air in"
+
+[78]
+String="Fume extractor"
+
+[79]
+String="Lets noxious odors out"
+
+[80]
+String="Atmosphere conditioner"
+
+[81]
+String="Temperature regulating anti-fume unit"
+
+[82]
+String="Empty first-aid kit"
+
+[83]
+String="Emergency equipment improves morale"
+
+[84]
+String="First aid kit"
+
+[85]
+String="Deals with minor cuts and bruises"
+
+[86]
+String="Chemical protection suit"
+
+[87]
+String="Resistance against most emergencies"
+
+[88]
+String="Emergency capsule"
+
+[89]
+String="Total protection for all accidents"
+
+[90]
+String="Abandoned warehouse"
+
+[91]
+String="This could be used for production"
+
+[92]
+String="Warehouse"
+
+[93]
+String="Old warehouse which has undergone improvements"
+
+[94]
+String="Production center"
+
+[95]
+String="Brand new production centre completely restored"
+
+[96]
+String="Broken lock and chain"
+
+[97]
+String="Security measures prevent break-ins"
+
+[98]
+String="Budget lock and chain"
+
+[99]
+String="Casually slung across the door"
+
+[100]
+String="Digicode"
+
+[101]
+String="Digicode reader with security alarm"
+
+[102]
+String="Multi-unit security system"
+
+[103]
+String="Digicode; securi-cams; police alarm"
+
+[104]
+String="Blocked grill"
+
+[105]
+String="Ventilation enhances team efficiency"
+
+[106]
+String="Grill"
+
+[107]
+String="Lets a bit of fresh air in"
+
+[108]
+String="Extractor fan"
+
+[109]
+String="For fresher sector conditions"
+
+[110]
+String="Air conditioning"
+
+[111]
+String="Fume removal and temperature regulation"
+
+[112]
+String="Empty shelf"
+
+[113]
+String="First aid kits increase morale"
+
+[114]
+String="Wobbly shelf"
+
+[115]
+String="A few plasters and bandages"
+
+[116]
+String="Modern medical cupboard"
+
+[117]
+String="Contains necessary emergency aid"
+
+[118]
+String="Infirmary"
+
+[119]
+String="Fully staffed infirmary"
